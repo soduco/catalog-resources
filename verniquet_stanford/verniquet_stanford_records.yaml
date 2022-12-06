@@ -1,0 +1,2212 @@
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110001.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  temporalExtent:
+    beginPosition: '1795'
+    endPosition: '1795'
+identifier: RUMSEY~8~1~305627~90076038
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110001.jpg
+resourceLineage:
+- b8a61cca-3997-460d-96b4-0078acdfc709
+title: 'Title: Atlas Du Plan General De La Ville Paris.'
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110074.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  temporalExtent:
+    beginPosition: '1795'
+    endPosition: '1795'
+identifier: RUMSEY~8~1~305700~90076808
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110074.jpg
+title: 'Composite: Sheets 1-72. Atlas Du Plan General De La Ville Paris.'
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110002.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294002388781319'
+    northBoundLatitude: '48.88892696858039'
+    southBoundLatitude: '48.881912143407305'
+    westBoundLongitude: '2.2833788189523423'
+identifier: RUMSEY~8~1~305628~90076037
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110002.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 6953f561-6049-4783-bdb0-ee414100e5a1
+title: Sheet 1. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110003.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309948823512562'
+    northBoundLatitude: '48.88893170124792'
+    southBoundLatitude: '48.8819165224848'
+    westBoundLongitude: '2.2940082868227676'
+identifier: RUMSEY~8~1~305629~90076036
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110003.jpg
+presentationForm: mapDigital
+resourceLineage:
+- f918fc62-11a1-40de-8e1d-4e60e517b36b
+title: Sheet 2. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110004.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258952614451776'
+    northBoundLatitude: '48.888934228835815'
+    southBoundLatitude: '48.88192125398651'
+    westBoundLongitude: '2.309952492729735'
+identifier: RUMSEY~8~1~305630~90076035
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110004.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 3e49b096-d0c1-4e36-9b48-c3d134d2e846
+title: Sheet 3. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110005.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418417006411816'
+    northBoundLatitude: '48.888934551343276'
+    southBoundLatitude: '48.8819237809495'
+    westBoundLongitude: '2.325896701836451'
+identifier: RUMSEY~8~1~305631~90076034
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110005.jpg
+presentationForm: mapDigital
+resourceLineage:
+- b345d0fb-835c-47c7-8f39-da07234cc1e6
+title: Sheet 4. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110006.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577881391625746'
+    northBoundLatitude: '48.888932668770224'
+    southBoundLatitude: '48.88192410337305'
+    westBoundLongitude: '2.3418409122059374'
+identifier: RUMSEY~8~1~305632~90076033
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110006.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 4e7cce70-c7a3-4b74-97ab-51443947b8c8
+title: Sheet 5. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110007.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737345750714063'
+    northBoundLatitude: '48.88892858111722'
+    southBoundLatitude: '48.881922221257014'
+    westBoundLongitude: '2.357785121901173'
+identifier: RUMSEY~8~1~305633~90076032
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110007.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 3823366b-b775-49ae-82f7-7d895b256e76
+title: Sheet 6. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110008.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896810064296803'
+    northBoundLatitude: '48.88892228838548'
+    southBoundLatitude: '48.88191813460198'
+    westBoundLongitude: '2.3737293289851142'
+identifier: RUMSEY~8~1~305634~90076031
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110008.jpg
+presentationForm: mapDigital
+resourceLineage:
+- e6187fe8-a6d4-4e6a-8a47-9a9c23fc9ae2
+title: Sheet 7. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110009.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405627431299417'
+    northBoundLatitude: '48.88891379057683'
+    southBoundLatitude: '48.88191184340914'
+    westBoundLongitude: '2.3896735315207613'
+identifier: RUMSEY~8~1~305635~90076030
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110009.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 093c43ce-52e7-41b1-9287-24c7b6fbf669
+title: Sheet 8. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110010.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940082868227676'
+    northBoundLatitude: '48.8819165224848'
+    southBoundLatitude: '48.87490168982172'
+    westBoundLongitude: '2.283386200018342'
+identifier: RUMSEY~8~1~305636~90076029
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110010.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 62fe9c3c-e72b-4a16-880a-3f51cbaf6d47
+title: Sheet 9. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110011.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309952492729735'
+    northBoundLatitude: '48.88192125398651'
+    southBoundLatitude: '48.87490606782178'
+    westBoundLongitude: '2.2940141825812157'
+identifier: RUMSEY~8~1~305637~90076028
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110011.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 4c084575-98dc-438a-9033-8e6a2095a101
+title: Sheet 10. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110012.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.325896701836451'
+    northBoundLatitude: '48.8819237809495'
+    southBoundLatitude: '48.87491079815798'
+    westBoundLongitude: '2.30995616052476'
+identifier: RUMSEY~8~1~305638~90076027
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110012.jpg
+presentationForm: mapDigital
+resourceLineage:
+- ae1ef5ca-dc9e-488c-9828-85e953b11877
+title: Sheet 11. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110013.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418409122059374'
+    northBoundLatitude: '48.88192410337305'
+    southBoundLatitude: '48.87491332449624'
+    westBoundLongitude: '2.325898141666503'
+identifier: RUMSEY~8~1~305639~90076026
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110013.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 522cf30e-7a28-4037-addf-7e58af790212
+title: Sheet 12. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110014.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357785121901173'
+    northBoundLatitude: '48.881922221257014'
+    southBoundLatitude: '48.87491364683587'
+    westBoundLongitude: '2.3418401240703806'
+identifier: RUMSEY~8~1~305640~90076025
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110014.jpg
+presentationForm: mapDigital
+resourceLineage:
+- e254249d-df50-4ae4-a660-22ff59c07471
+title: Sheet 13. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110015.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737293289851142'
+    northBoundLatitude: '48.88191813460198'
+    southBoundLatitude: '48.87491176517674'
+    westBoundLongitude: '2.357782105800326'
+identifier: RUMSEY~8~1~305641~90076024
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110015.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 1893e7c4-ad8a-4c65-b217-85ce62a04d85
+title: Sheet 14. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110016.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896735315207613'
+    northBoundLatitude: '48.88191184340914'
+    southBoundLatitude: '48.87490767951942'
+    westBoundLongitude: '2.373724084920274'
+identifier: RUMSEY~8~1~305642~90076023
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110016.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 0868c464-0a42-4f25-8e79-52ca786856b9
+title: Sheet 15. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110017.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405617727571079'
+    northBoundLatitude: '48.88190334768037'
+    southBoundLatitude: '48.874901389865045'
+    westBoundLongitude: '2.38966605949419'
+identifier: RUMSEY~8~1~305643~90076022
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110017.jpg
+presentationForm: mapDigital
+resourceLineage:
+- d5290569-9078-4964-ade7-c9c20045e8f3
+title: Sheet 16. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110018.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940141825812157'
+    northBoundLatitude: '48.87490606782178'
+    southBoundLatitude: '48.8678912276681'
+    westBoundLongitude: '2.2833935782288304'
+identifier: RUMSEY~8~1~305644~90076021
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110018.jpg
+presentationForm: mapDigital
+resourceLineage:
+- bf9cc22e-de05-4859-a05c-993d2ea24f02
+title: Sheet 17. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110019.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.30995616052476'
+    northBoundLatitude: '48.87491079815798'
+    southBoundLatitude: '48.86789560459099'
+    westBoundLongitude: '2.294020076057759'
+identifier: RUMSEY~8~1~305645~90076020
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110019.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 1849adcb-bd39-482d-8878-3d89a7f0d037
+title: Sheet 18. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110020.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.325898141666503'
+    northBoundLatitude: '48.87491332449624'
+    southBoundLatitude: '48.867900333761995'
+    westBoundLongitude: '2.309959826898388'
+identifier: RUMSEY~8~1~305646~90076019
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110020.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 57d2b5bd-fcd2-404e-8feb-0a59e703d9c1
+title: Sheet 19. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110021.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418401240703806'
+    northBoundLatitude: '48.87491364683587'
+    southBoundLatitude: '48.86790285947575'
+    westBoundLongitude: '2.3258995809356047'
+identifier: RUMSEY~8~1~305647~90076018
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110021.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 2e8fdc1a-f5b6-4ed2-92a9-2d270c626f2b
+title: Sheet 20. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110022.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357782105800326'
+    northBoundLatitude: '48.87491176517674'
+    southBoundLatitude: '48.867903181731506'
+    westBoundLongitude: '2.3418393362343335'
+identifier: RUMSEY~8~1~305648~90076017
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110022.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 771344f8-526a-4d8b-8997-e04efdf8fc48
+title: Sheet 21. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110023.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373724084920274'
+    northBoundLatitude: '48.87490767951942'
+    southBoundLatitude: '48.86790130052913'
+    westBoundLongitude: '2.357779090859474'
+identifier: RUMSEY~8~1~305649~90076016
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110023.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 94a67386-24b0-4c8e-9592-59f3c16a49ba
+title: Sheet 22. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110024.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.38966605949419'
+    northBoundLatitude: '48.874901389865045'
+    southBoundLatitude: '48.86789721586919'
+    westBoundLongitude: '2.373718842875908'
+identifier: RUMSEY~8~1~305650~90076015
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110024.jpg
+presentationForm: mapDigital
+resourceLineage:
+- deba243b-9b5d-450d-9c54-2cea796391fa
+title: Sheet 23. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110025.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4056080275859952'
+    northBoundLatitude: '48.87489289621559'
+    southBoundLatitude: '48.86789092775293'
+    westBoundLongitude: '2.389658590348556'
+identifier: RUMSEY~8~1~305651~90076014
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110025.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 6a4e501f-dc64-417a-be8d-760e28e493d4
+title: Sheet 24. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110026.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294020076057759'
+    northBoundLatitude: '48.86789560459099'
+    southBoundLatitude: '48.8608807569461'
+    westBoundLongitude: '2.283400953585182'
+identifier: RUMSEY~8~1~305652~90076013
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110026.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 19bcb25d-c913-4634-91c4-19de6ae00e2c
+title: Sheet 25. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110027.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309959826898388'
+    northBoundLatitude: '48.867900333761995'
+    southBoundLatitude: '48.86088513279217'
+    westBoundLongitude: '2.29402596725355'
+identifier: RUMSEY~8~1~305653~90076012
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110027.jpg
+presentationForm: mapDigital
+resourceLineage:
+- ad35ae03-14c0-4dc2-a2d4-529b9c50d714
+title: Sheet 26. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110028.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258995809356047'
+    northBoundLatitude: '48.86790285947575'
+    southBoundLatitude: '48.86088986079831'
+    westBoundLongitude: '2.3099634918512866'
+identifier: RUMSEY~8~1~305654~90076011
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110028.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 654a490d-bfff-4355-817e-37816b0acf20
+title: Sheet 27. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110029.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418393362343335'
+    northBoundLatitude: '48.867903181731506'
+    southBoundLatitude: '48.86089238588769'
+    westBoundLongitude: '2.3259010196440437'
+identifier: RUMSEY~8~1~305655~90076010
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110029.jpg
+presentationForm: mapDigital
+resourceLineage:
+- d4b335d0-820c-4530-941e-26f3bae60fd1
+title: Sheet 28. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110030.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357779090859474'
+    northBoundLatitude: '48.86790130052913'
+    southBoundLatitude: '48.86089270805959'
+    westBoundLongitude: '2.3418385486976767'
+identifier: RUMSEY~8~1~305656~90076009
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110030.jpg
+presentationForm: mapDigital
+resourceLineage:
+- e691cdb6-b549-4214-b102-21b92586662d
+title: Sheet 29. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110031.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373718842875908'
+    northBoundLatitude: '48.86789721586919'
+    southBoundLatitude: '48.86089082731384'
+    westBoundLongitude: '2.357776077078042'
+identifier: RUMSEY~8~1~305657~90076008
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110031.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 859f0212-a705-41fd-a13e-1ff3ba4e6a06
+title: Sheet 30. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110032.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389658590348556'
+    northBoundLatitude: '48.86789092775293'
+    southBoundLatitude: '48.86088674365107'
+    westBoundLongitude: '2.373713602850994'
+identifier: RUMSEY~8~1~305658~90076007
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110032.jpg
+presentationForm: mapDigital
+resourceLineage:
+- e273d76a-4fff-45d0-a4b3-32b941a9a0d3
+title: Sheet 31. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110033.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055983313423193'
+    northBoundLatitude: '48.86788243618215'
+    southBoundLatitude: '48.86088045707241'
+    westBoundLongitude: '2.38965112408242'
+identifier: RUMSEY~8~1~305659~90076006
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110033.jpg
+presentationForm: mapDigital
+resourceLineage:
+- b281935c-5da2-425a-b99d-3e174309b388
+title: Sheet 32. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110034.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.29402596725355'
+    northBoundLatitude: '48.86088513279217'
+    southBoundLatitude: '48.85387027765544'
+    westBoundLongitude: '2.2834083260888622'
+identifier: RUMSEY~8~1~305660~90076005
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110034.jpg
+presentationForm: mapDigital
+resourceLineage:
+- c46e4025-0b1d-4468-8501-0a3d555abb6d
+title: Sheet 33. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110035.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099634918512866'
+    northBoundLatitude: '48.86088986079831'
+    southBoundLatitude: '48.85387465242497'
+    westBoundLongitude: '2.2940318561697213'
+identifier: RUMSEY~8~1~305661~90076004
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110035.jpg
+presentationForm: mapDigital
+resourceLineage:
+- ad30babb-f7df-4454-ad56-4edef9221856
+title: Sheet 34. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110036.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259010196440437'
+    northBoundLatitude: '48.86089238588769'
+    southBoundLatitude: '48.85387937926657'
+    westBoundLongitude: '2.3099671553842054'
+identifier: RUMSEY~8~1~305662~90076003
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110036.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 8901b553-4db3-4503-827e-ae20760ade70
+title: Sheet 35. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110037.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418385486976767'
+    northBoundLatitude: '48.86089270805959'
+    southBoundLatitude: '48.85388190373179'
+    westBoundLongitude: '2.3259024577921092'
+identifier: RUMSEY~8~1~305663~90076002
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110037.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 9f7af855-da17-4b5f-9201-ce9f9c011173
+title: Sheet 36. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110038.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357776077078042'
+    northBoundLatitude: '48.86089082731384'
+    southBoundLatitude: '48.853882225819824'
+    westBoundLongitude: '2.34183776146025'
+identifier: RUMSEY~8~1~305664~90076074
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110038.jpg
+presentationForm: mapDigital
+resourceLineage:
+- d93d212a-aa09-44f7-81b6-e59ddf1e811d
+title: Sheet 37. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110039.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373713602850994'
+    northBoundLatitude: '48.86088674365107'
+    southBoundLatitude: '48.8538803455306'
+    westBoundLongitude: '2.3577730644554604'
+identifier: RUMSEY~8~1~305665~90076073
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110039.jpg
+presentationForm: mapDigital
+resourceLineage:
+- e0694c6b-60f4-4285-a4a9-0b27c7b1c5eb
+title: Sheet 38. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110040.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.38965112408242'
+    northBoundLatitude: '48.86088045707241'
+    southBoundLatitude: '48.8538762628647'
+    westBoundLongitude: '2.3737083648445565'
+identifier: RUMSEY~8~1~305666~90076072
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110040.jpg
+presentationForm: mapDigital
+resourceLineage:
+- a4836003-eb2e-4f81-9c9e-49e5123d2986
+title: Sheet 39. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110041.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405588638838181'
+    northBoundLatitude: '48.860871967579804'
+    southBoundLatitude: '48.85386997782326'
+    westBoundLongitude: '2.389643660694374'
+identifier: RUMSEY~8~1~305667~90076071
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110041.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 9be9f3ee-d9c9-4c17-8c7d-ead5be00351f
+title: Sheet 40. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110042.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940318561697213'
+    northBoundLatitude: '48.85387465242497'
+    southBoundLatitude: '48.846859789795886'
+    westBoundLongitude: '2.283415695741244'
+identifier: RUMSEY~8~1~305668~90076070
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110042.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 72a35047-4309-4013-b6b7-9a5e5b6710bb
+title: Sheet 41. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110043.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099671553842054'
+    northBoundLatitude: '48.85387937926657'
+    southBoundLatitude: '48.84686416348912'
+    westBoundLongitude: '2.2940377428074106'
+identifier: RUMSEY~8~1~305669~90076069
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110043.jpg
+presentationForm: mapDigital
+resourceLineage:
+- d6ea047d-be3a-4f0c-8761-a97c9502698d
+title: Sheet 42. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110044.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259024577921092'
+    northBoundLatitude: '48.85388190373179'
+    southBoundLatitude: '48.846868889166544'
+    westBoundLongitude: '2.30997081749782'
+identifier: RUMSEY~8~1~305670~90076068
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110044.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 8d4d11c0-f859-4485-a404-2b5dfaf2c7af
+title: Sheet 43. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110045.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.34183776146025'
+    northBoundLatitude: '48.853882225819824'
+    southBoundLatitude: '48.846871413007726'
+    westBoundLongitude: '2.3259038953800517'
+identifier: RUMSEY~8~1~305671~90076067
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110045.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 88af26f8-96bb-45d9-bac8-eb625e03021c
+title: Sheet 44. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110046.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577730644554604'
+    northBoundLatitude: '48.8538803455306'
+    southBoundLatitude: '48.846871735011966'
+    westBoundLongitude: '2.3418369745218897'
+identifier: RUMSEY~8~1~305672~90076066
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110046.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 0d248cc5-fe48-43a0-8b10-5ad8bce8a1b4
+title: Sheet 45. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110047.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737083648445565'
+    northBoundLatitude: '48.8538762628647'
+    southBoundLatitude: '48.84686985517913'
+    westBoundLongitude: '2.357770052991145'
+identifier: RUMSEY~8~1~305673~90076065
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110047.jpg
+presentationForm: mapDigital
+resourceLineage:
+- cceba26c-d4c5-4457-817f-ae4dfc974f0e
+title: Sheet 46. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110048.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389643660694374'
+    northBoundLatitude: '48.85386997782326'
+    southBoundLatitude: '48.846865773509776'
+    westBoundLongitude: '2.373703128855574'
+identifier: RUMSEY~8~1~305674~90076064
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110048.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 2c657415-0dcc-46af-a851-3e7d9d36a0f0
+title: Sheet 47. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110049.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405578950071724'
+    northBoundLatitude: '48.8538614904082'
+    southBoundLatitude: '48.846859490005144'
+    westBoundLongitude: '2.3896362001829616'
+identifier: RUMSEY~8~1~305675~90076063
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110049.jpg
+presentationForm: mapDigital
+resourceLineage:
+- dbaf87ba-2f90-4f8b-b4fa-446ef1395086
+title: Sheet 48. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110050.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940377428074106'
+    northBoundLatitude: '48.84686416348912'
+    southBoundLatitude: '48.839849293367024'
+    westBoundLongitude: '2.2834230625437617'
+identifier: RUMSEY~8~1~305676~90076062
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110050.jpg
+presentationForm: mapDigital
+resourceLineage:
+- f33b2694-034d-47bb-bbdb-d0c8e1bbb012
+title: Sheet 49. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110051.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.30997081749782'
+    northBoundLatitude: '48.846868889166544'
+    southBoundLatitude: '48.83985366598436'
+    westBoundLongitude: '2.294043627167757'
+identifier: RUMSEY~8~1~305677~90076061
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110051.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 13ba4cf0-d849-4db9-be4f-306c88987e7a
+title: Sheet 50. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110052.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259038953800517'
+    northBoundLatitude: '48.846871413007726'
+    southBoundLatitude: '48.83985839049789'
+    westBoundLongitude: '2.3099744781928218'
+identifier: RUMSEY~8~1~305678~90076060
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110052.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 4d597857-051a-40f2-b5f4-e931f7320889
+title: Sheet 51. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110053.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418369745218897'
+    northBoundLatitude: '48.846871735011966'
+    southBoundLatitude: '48.839860913715235'
+    westBoundLongitude: '2.3259053324081593'
+identifier: RUMSEY~8~1~305679~90076059
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110053.jpg
+presentationForm: mapDigital
+resourceLineage:
+- e5f5e709-ab94-459e-97c1-7be86668f5a9
+title: Sheet 52. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110054.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357770052991145'
+    northBoundLatitude: '48.84686985517913'
+    southBoundLatitude: '48.83986123563568'
+    westBoundLongitude: '2.3418361878824774'
+identifier: RUMSEY~8~1~305680~90076058
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110054.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 47941da3-6c20-4306-9903-425bd3bf627b
+title: Sheet 53. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110055.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373703128855574'
+    northBoundLatitude: '48.846865773509776'
+    southBoundLatitude: '48.83985935625912'
+    westBoundLongitude: '2.3577670426845283'
+identifier: RUMSEY~8~1~305681~90076057
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110055.jpg
+presentationForm: mapDigital
+resourceLineage:
+- eeb37c27-b0d8-43fb-b46d-08f5d285973c
+title: Sheet 54. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110056.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896362001829616'
+    northBoundLatitude: '48.846859490005144'
+    southBoundLatitude: '48.839855275586075'
+    westBoundLongitude: '2.3736978948830436'
+identifier: RUMSEY~8~1~305682~90076056
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110056.jpg
+presentationForm: mapDigital
+resourceLineage:
+- daa0a6c9-bd5a-4fcf-851d-c3b56d147b27
+title: Sheet 55. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110057.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055692650411116'
+    northBoundLatitude: '48.846851004667066'
+    southBoundLatitude: '48.83984899361778'
+    westBoundLongitude: '2.389628742546772'
+identifier: RUMSEY~8~1~305683~90076055
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110057.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 3d487051-0eea-47ab-bd24-5d5623601172
+title: Sheet 56. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110058.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294043627167757'
+    northBoundLatitude: '48.83985366598436'
+    southBoundLatitude: '48.832838788368676'
+    westBoundLongitude: '2.2834304264978442'
+identifier: RUMSEY~8~1~305684~90076054
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110058.jpg
+presentationForm: mapDigital
+resourceLineage:
+- e2186cdf-2368-412d-8166-37742d33e4ba
+title: Sheet 57. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110059.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099744781928218'
+    northBoundLatitude: '48.83985839049789'
+    southBoundLatitude: '48.83284315991034'
+    westBoundLongitude: '2.2940495092518582'
+identifier: RUMSEY~8~1~305685~90076053
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110059.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 417cb6b3-18fd-483d-92ee-c03d0537d1a9
+title: Sheet 58. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110060.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259053324081593'
+    northBoundLatitude: '48.839860913715235'
+    southBoundLatitude: '48.83284788326028'
+    westBoundLongitude: '2.309978137469958'
+identifier: RUMSEY~8~1~305686~90076052
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110060.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 3daa68ee-bc5d-47bc-82fa-0c299a4a9023
+title: Sheet 59. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110061.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418361878824774'
+    northBoundLatitude: '48.83986123563568'
+    southBoundLatitude: '48.83285040585398'
+    westBoundLongitude: '2.32590676887672'
+identifier: RUMSEY~8~1~305687~90076051
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110061.jpg
+presentationForm: mapDigital
+resourceLineage:
+- a4d33472-18f7-478a-8822-fa821ca0bd42
+title: Sheet 60. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110062.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577670426845283'
+    northBoundLatitude: '48.83985935625912'
+    southBoundLatitude: '48.83285072769066'
+    westBoundLongitude: '2.3418354015418474'
+identifier: RUMSEY~8~1~305688~90076050
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110062.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 855c0749-fe66-4b95-aac9-21289b8ef41a
+title: Sheet 61. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110063.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736978948830436'
+    northBoundLatitude: '48.839855275586075'
+    southBoundLatitude: '48.83284884877023'
+    westBoundLongitude: '2.357764033535036'
+identifier: RUMSEY~8~1~305689~90076049
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110063.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 3274a85b-01d3-49d2-83d2-b82664949c95
+title: Sheet 62. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110064.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389628742546772'
+    northBoundLatitude: '48.83984899361778'
+    southBoundLatitude: '48.83284476909322'
+    westBoundLongitude: '2.3736926629259845'
+identifier: RUMSEY~8~1~305690~90076048
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110064.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 8c7e36c8-708c-48bc-9234-c1d720d6eeb9
+title: Sheet 63. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110065.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055595837444708'
+    northBoundLatitude: '48.83984051035611'
+    southBoundLatitude: '48.832838488660855'
+    westBoundLongitude: '2.3896212877843945'
+identifier: RUMSEY~8~1~305691~90076047
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110065.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 27e21160-a47c-497b-be77-a9d8aac3bd85
+title: Sheet 64. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110066.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940495092518582'
+    northBoundLatitude: '48.83284315991034'
+    southBoundLatitude: '48.82582827480046'
+    westBoundLongitude: '2.2834377876048753'
+identifier: RUMSEY~8~1~305692~90076046
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110066.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 4a975b7c-5f8f-4566-b21f-9cee18fabe3b
+title: Sheet 65. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110067.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309978137469958'
+    northBoundLatitude: '48.83284788326028'
+    southBoundLatitude: '48.82583264526675'
+    westBoundLongitude: '2.294055389060863'
+identifier: RUMSEY~8~1~305693~90076045
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110067.jpg
+presentationForm: mapDigital
+resourceLineage:
+- ed8d823a-4f34-4910-804c-f80224233bb0
+title: Sheet 66. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110068.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.32590676887672'
+    northBoundLatitude: '48.83285040585398'
+    southBoundLatitude: '48.82583736745348'
+    westBoundLongitude: '2.309981795329885'
+identifier: RUMSEY~8~1~305694~90076044
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110068.jpg
+presentationForm: mapDigital
+resourceLineage:
+- dfe76fcb-6e52-4cb2-a804-8b940286a349
+title: Sheet 67. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110069.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418354015418474'
+    northBoundLatitude: '48.83285072769066'
+    southBoundLatitude: '48.825839889423676'
+    westBoundLongitude: '2.3259082047860025'
+identifier: RUMSEY~8~1~305695~90076043
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110069.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 71959d56-c842-4f1c-b4da-e41318999ecc
+title: Sheet 68. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110070.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357764033535036'
+    northBoundLatitude: '48.83284884877023'
+    southBoundLatitude: '48.82584021117663'
+    westBoundLongitude: '2.341834615499852'
+identifier: RUMSEY~8~1~305696~90076042
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110070.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 8ee2eaa0-6d06-464d-80a3-4e5bc4f62c55
+title: Sheet 69. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110071.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736926629259845'
+    northBoundLatitude: '48.83284476909322'
+    southBoundLatitude: '48.82583833271219'
+    westBoundLongitude: '2.3577610255420955'
+identifier: RUMSEY~8~1~305697~90076041
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110071.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 913e9d75-8941-49a1-addb-26e5ac7f6ba1
+title: Sheet 70. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110072.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896212877843945'
+    northBoundLatitude: '48.832838488660855'
+    southBoundLatitude: '48.825834254030944'
+    westBoundLongitude: '2.373687432983389'
+identifier: RUMSEY~8~1~305698~90076040
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110072.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 8128ace7-59d0-4ad2-af46-780a2613ac31
+title: Sheet 71. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 5983d5b5-46f3-4189-925c-c5df8fa36a0b
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG2000
+  transferOptions:
+  - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110073.jp2
+    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+      \ de Stanford"
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405549906179961'
+    northBoundLatitude: '48.83283000747502'
+    southBoundLatitude: '48.8258279751341'
+    westBoundLongitude: '2.3896138358943757'
+identifier: RUMSEY~8~1~305699~90076039
+keywords:
+- value: Instantiation
+overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110073.jpg
+presentationForm: mapDigital
+resourceLineage:
+- 7f4a725f-084a-4668-87fe-6f434984ba61
+title: Sheet 72. Atlas Du Plan General De La Ville Paris.
+type: Instantiation
+...

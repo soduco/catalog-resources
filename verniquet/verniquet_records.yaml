@@ -1,0 +1,1098 @@
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+identifier: TITLE
+title: Atlas national de la Ville de Paris, Page de titre
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+identifier: TA
+title: Atlas national de la Ville de Paris, Carte d'assemblage
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294002388781319'
+    northBoundLatitude: '48.88892696858039'
+    southBoundLatitude: '48.881912143407305'
+    westBoundLongitude: '2.2833788189523423'
+identifier: '1'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 1"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309948823512562'
+    northBoundLatitude: '48.88893170124792'
+    southBoundLatitude: '48.8819165224848'
+    westBoundLongitude: '2.2940082868227676'
+identifier: '2'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 2"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258952614451776'
+    northBoundLatitude: '48.888934228835815'
+    southBoundLatitude: '48.88192125398651'
+    westBoundLongitude: '2.309952492729735'
+identifier: '3'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 3"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418417006411816'
+    northBoundLatitude: '48.888934551343276'
+    southBoundLatitude: '48.8819237809495'
+    westBoundLongitude: '2.325896701836451'
+identifier: '4'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 4"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577881391625746'
+    northBoundLatitude: '48.888932668770224'
+    southBoundLatitude: '48.88192410337305'
+    westBoundLongitude: '2.3418409122059374'
+identifier: '5'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 5"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737345750714063'
+    northBoundLatitude: '48.88892858111722'
+    southBoundLatitude: '48.881922221257014'
+    westBoundLongitude: '2.357785121901173'
+identifier: '6'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 6"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896810064296803'
+    northBoundLatitude: '48.88892228838548'
+    southBoundLatitude: '48.88191813460198'
+    westBoundLongitude: '2.3737293289851142'
+identifier: '7'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 7"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405627431299417'
+    northBoundLatitude: '48.88891379057683'
+    southBoundLatitude: '48.88191184340914'
+    westBoundLongitude: '2.3896735315207613'
+identifier: '8'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 8"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940082868227676'
+    northBoundLatitude: '48.8819165224848'
+    southBoundLatitude: '48.87490168982172'
+    westBoundLongitude: '2.283386200018342'
+identifier: '9'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 9"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309952492729735'
+    northBoundLatitude: '48.88192125398651'
+    southBoundLatitude: '48.87490606782178'
+    westBoundLongitude: '2.2940141825812157'
+identifier: '10'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 10"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.325896701836451'
+    northBoundLatitude: '48.8819237809495'
+    southBoundLatitude: '48.87491079815798'
+    westBoundLongitude: '2.30995616052476'
+identifier: '11'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 11"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418409122059374'
+    northBoundLatitude: '48.88192410337305'
+    southBoundLatitude: '48.87491332449624'
+    westBoundLongitude: '2.325898141666503'
+identifier: '12'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 12"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357785121901173'
+    northBoundLatitude: '48.881922221257014'
+    southBoundLatitude: '48.87491364683587'
+    westBoundLongitude: '2.3418401240703806'
+identifier: '13'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 13"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737293289851142'
+    northBoundLatitude: '48.88191813460198'
+    southBoundLatitude: '48.87491176517674'
+    westBoundLongitude: '2.357782105800326'
+identifier: '14'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 14"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896735315207613'
+    northBoundLatitude: '48.88191184340914'
+    southBoundLatitude: '48.87490767951942'
+    westBoundLongitude: '2.373724084920274'
+identifier: '15'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 15"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405617727571079'
+    northBoundLatitude: '48.88190334768037'
+    southBoundLatitude: '48.874901389865045'
+    westBoundLongitude: '2.38966605949419'
+identifier: '16'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 16"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940141825812157'
+    northBoundLatitude: '48.87490606782178'
+    southBoundLatitude: '48.8678912276681'
+    westBoundLongitude: '2.2833935782288304'
+identifier: '17'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 17"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.30995616052476'
+    northBoundLatitude: '48.87491079815798'
+    southBoundLatitude: '48.86789560459099'
+    westBoundLongitude: '2.294020076057759'
+identifier: '18'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 18"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.325898141666503'
+    northBoundLatitude: '48.87491332449624'
+    southBoundLatitude: '48.867900333761995'
+    westBoundLongitude: '2.309959826898388'
+identifier: '19'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 19"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418401240703806'
+    northBoundLatitude: '48.87491364683587'
+    southBoundLatitude: '48.86790285947575'
+    westBoundLongitude: '2.3258995809356047'
+identifier: '20'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 20"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357782105800326'
+    northBoundLatitude: '48.87491176517674'
+    southBoundLatitude: '48.867903181731506'
+    westBoundLongitude: '2.3418393362343335'
+identifier: '21'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 21"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373724084920274'
+    northBoundLatitude: '48.87490767951942'
+    southBoundLatitude: '48.86790130052913'
+    westBoundLongitude: '2.357779090859474'
+identifier: '22'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 22"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.38966605949419'
+    northBoundLatitude: '48.874901389865045'
+    southBoundLatitude: '48.86789721586919'
+    westBoundLongitude: '2.373718842875908'
+identifier: '23'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 23"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4056080275859952'
+    northBoundLatitude: '48.87489289621559'
+    southBoundLatitude: '48.86789092775293'
+    westBoundLongitude: '2.389658590348556'
+identifier: '24'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 24"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294020076057759'
+    northBoundLatitude: '48.86789560459099'
+    southBoundLatitude: '48.8608807569461'
+    westBoundLongitude: '2.283400953585182'
+identifier: '25'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 25"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309959826898388'
+    northBoundLatitude: '48.867900333761995'
+    southBoundLatitude: '48.86088513279217'
+    westBoundLongitude: '2.29402596725355'
+identifier: '26'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 26"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258995809356047'
+    northBoundLatitude: '48.86790285947575'
+    southBoundLatitude: '48.86088986079831'
+    westBoundLongitude: '2.3099634918512866'
+identifier: '27'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 27"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418393362343335'
+    northBoundLatitude: '48.867903181731506'
+    southBoundLatitude: '48.86089238588769'
+    westBoundLongitude: '2.3259010196440437'
+identifier: '28'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 28"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357779090859474'
+    northBoundLatitude: '48.86790130052913'
+    southBoundLatitude: '48.86089270805959'
+    westBoundLongitude: '2.3418385486976767'
+identifier: '29'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 29"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373718842875908'
+    northBoundLatitude: '48.86789721586919'
+    southBoundLatitude: '48.86089082731384'
+    westBoundLongitude: '2.357776077078042'
+identifier: '30'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 30"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389658590348556'
+    northBoundLatitude: '48.86789092775293'
+    southBoundLatitude: '48.86088674365107'
+    westBoundLongitude: '2.373713602850994'
+identifier: '31'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 31"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055983313423193'
+    northBoundLatitude: '48.86788243618215'
+    southBoundLatitude: '48.86088045707241'
+    westBoundLongitude: '2.38965112408242'
+identifier: '32'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 32"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.29402596725355'
+    northBoundLatitude: '48.86088513279217'
+    southBoundLatitude: '48.85387027765544'
+    westBoundLongitude: '2.2834083260888622'
+identifier: '33'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 33"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099634918512866'
+    northBoundLatitude: '48.86088986079831'
+    southBoundLatitude: '48.85387465242497'
+    westBoundLongitude: '2.2940318561697213'
+identifier: '34'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 34"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259010196440437'
+    northBoundLatitude: '48.86089238588769'
+    southBoundLatitude: '48.85387937926657'
+    westBoundLongitude: '2.3099671553842054'
+identifier: '35'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 35"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418385486976767'
+    northBoundLatitude: '48.86089270805959'
+    southBoundLatitude: '48.85388190373179'
+    westBoundLongitude: '2.3259024577921092'
+identifier: '36'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 36"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357776077078042'
+    northBoundLatitude: '48.86089082731384'
+    southBoundLatitude: '48.853882225819824'
+    westBoundLongitude: '2.34183776146025'
+identifier: '37'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 37"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373713602850994'
+    northBoundLatitude: '48.86088674365107'
+    southBoundLatitude: '48.8538803455306'
+    westBoundLongitude: '2.3577730644554604'
+identifier: '38'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 38"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.38965112408242'
+    northBoundLatitude: '48.86088045707241'
+    southBoundLatitude: '48.8538762628647'
+    westBoundLongitude: '2.3737083648445565'
+identifier: '39'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 39"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405588638838181'
+    northBoundLatitude: '48.860871967579804'
+    southBoundLatitude: '48.85386997782326'
+    westBoundLongitude: '2.389643660694374'
+identifier: '40'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 40"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940318561697213'
+    northBoundLatitude: '48.85387465242497'
+    southBoundLatitude: '48.846859789795886'
+    westBoundLongitude: '2.283415695741244'
+identifier: '41'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 41"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099671553842054'
+    northBoundLatitude: '48.85387937926657'
+    southBoundLatitude: '48.84686416348912'
+    westBoundLongitude: '2.2940377428074106'
+identifier: '42'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 42"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259024577921092'
+    northBoundLatitude: '48.85388190373179'
+    southBoundLatitude: '48.846868889166544'
+    westBoundLongitude: '2.30997081749782'
+identifier: '43'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 43"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.34183776146025'
+    northBoundLatitude: '48.853882225819824'
+    southBoundLatitude: '48.846871413007726'
+    westBoundLongitude: '2.3259038953800517'
+identifier: '44'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 44"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577730644554604'
+    northBoundLatitude: '48.8538803455306'
+    southBoundLatitude: '48.846871735011966'
+    westBoundLongitude: '2.3418369745218897'
+identifier: '45'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 45"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737083648445565'
+    northBoundLatitude: '48.8538762628647'
+    southBoundLatitude: '48.84686985517913'
+    westBoundLongitude: '2.357770052991145'
+identifier: '46'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 46"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389643660694374'
+    northBoundLatitude: '48.85386997782326'
+    southBoundLatitude: '48.846865773509776'
+    westBoundLongitude: '2.373703128855574'
+identifier: '47'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 47"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405578950071724'
+    northBoundLatitude: '48.8538614904082'
+    southBoundLatitude: '48.846859490005144'
+    westBoundLongitude: '2.3896362001829616'
+identifier: '48'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 48"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940377428074106'
+    northBoundLatitude: '48.84686416348912'
+    southBoundLatitude: '48.839849293367024'
+    westBoundLongitude: '2.2834230625437617'
+identifier: '49'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 49"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.30997081749782'
+    northBoundLatitude: '48.846868889166544'
+    southBoundLatitude: '48.83985366598436'
+    westBoundLongitude: '2.294043627167757'
+identifier: '50'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 50"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259038953800517'
+    northBoundLatitude: '48.846871413007726'
+    southBoundLatitude: '48.83985839049789'
+    westBoundLongitude: '2.3099744781928218'
+identifier: '51'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 51"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418369745218897'
+    northBoundLatitude: '48.846871735011966'
+    southBoundLatitude: '48.839860913715235'
+    westBoundLongitude: '2.3259053324081593'
+identifier: '52'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 52"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357770052991145'
+    northBoundLatitude: '48.84686985517913'
+    southBoundLatitude: '48.83986123563568'
+    westBoundLongitude: '2.3418361878824774'
+identifier: '53'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 53"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373703128855574'
+    northBoundLatitude: '48.846865773509776'
+    southBoundLatitude: '48.83985935625912'
+    westBoundLongitude: '2.3577670426845283'
+identifier: '54'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 54"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896362001829616'
+    northBoundLatitude: '48.846859490005144'
+    southBoundLatitude: '48.839855275586075'
+    westBoundLongitude: '2.3736978948830436'
+identifier: '55'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 55"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055692650411116'
+    northBoundLatitude: '48.846851004667066'
+    southBoundLatitude: '48.83984899361778'
+    westBoundLongitude: '2.389628742546772'
+identifier: '56'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 56"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294043627167757'
+    northBoundLatitude: '48.83985366598436'
+    southBoundLatitude: '48.832838788368676'
+    westBoundLongitude: '2.2834304264978442'
+identifier: '57'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 57"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099744781928218'
+    northBoundLatitude: '48.83985839049789'
+    southBoundLatitude: '48.83284315991034'
+    westBoundLongitude: '2.2940495092518582'
+identifier: '58'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 58"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259053324081593'
+    northBoundLatitude: '48.839860913715235'
+    southBoundLatitude: '48.83284788326028'
+    westBoundLongitude: '2.309978137469958'
+identifier: '59'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 59"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418361878824774'
+    northBoundLatitude: '48.83986123563568'
+    southBoundLatitude: '48.83285040585398'
+    westBoundLongitude: '2.32590676887672'
+identifier: '60'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 60"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577670426845283'
+    northBoundLatitude: '48.83985935625912'
+    southBoundLatitude: '48.83285072769066'
+    westBoundLongitude: '2.3418354015418474'
+identifier: '61'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 61"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736978948830436'
+    northBoundLatitude: '48.839855275586075'
+    southBoundLatitude: '48.83284884877023'
+    westBoundLongitude: '2.357764033535036'
+identifier: '62'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 62"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389628742546772'
+    northBoundLatitude: '48.83984899361778'
+    southBoundLatitude: '48.83284476909322'
+    westBoundLongitude: '2.3736926629259845'
+identifier: '63'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 63"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055595837444708'
+    northBoundLatitude: '48.83984051035611'
+    southBoundLatitude: '48.832838488660855'
+    westBoundLongitude: '2.3896212877843945'
+identifier: '64'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 64"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940495092518582'
+    northBoundLatitude: '48.83284315991034'
+    southBoundLatitude: '48.82582827480046'
+    westBoundLongitude: '2.2834377876048753'
+identifier: '65'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 65"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309978137469958'
+    northBoundLatitude: '48.83284788326028'
+    southBoundLatitude: '48.82583264526675'
+    westBoundLongitude: '2.294055389060863'
+identifier: '66'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 66"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.32590676887672'
+    northBoundLatitude: '48.83285040585398'
+    southBoundLatitude: '48.82583736745348'
+    westBoundLongitude: '2.309981795329885'
+identifier: '67'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 67"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418354015418474'
+    northBoundLatitude: '48.83285072769066'
+    southBoundLatitude: '48.825839889423676'
+    westBoundLongitude: '2.3259082047860025'
+identifier: '68'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 68"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357764033535036'
+    northBoundLatitude: '48.83284884877023'
+    southBoundLatitude: '48.82584021117663'
+    westBoundLongitude: '2.341834615499852'
+identifier: '69'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 69"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736926629259845'
+    northBoundLatitude: '48.83284476909322'
+    southBoundLatitude: '48.82583833271219'
+    westBoundLongitude: '2.3577610255420955'
+identifier: '70'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 70"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896212877843945'
+    northBoundLatitude: '48.832838488660855'
+    southBoundLatitude: '48.825834254030944'
+    westBoundLongitude: '2.373687432983389'
+identifier: '71'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 71"
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405549906179961'
+    northBoundLatitude: '48.83283000747502'
+    southBoundLatitude: '48.8258279751341'
+    westBoundLongitude: '2.3896138358943757'
+identifier: '72'
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 72"
+...

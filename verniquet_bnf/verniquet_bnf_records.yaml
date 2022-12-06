@@ -1,0 +1,2130 @@
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f1/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f1
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f1.thumbnail
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- b8a61cca-3997-460d-96b4-0078acdfc709
+title: Atlas national de la Ville de Paris, Page de titre [exemplaire BnF LK7-6043]
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f2/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f2
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f2.thumbnail
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 8b83ba6e-99b4-4447-bf9b-2a7c55978f9e
+title: Atlas national de la Ville de Paris, Carte d'assemblage [exemplaire BnF LK7-6043]
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f3/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294002388781319'
+    northBoundLatitude: '48.88892696858039'
+    southBoundLatitude: '48.881912143407305'
+    westBoundLongitude: '2.2833788189523423'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f3
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f3.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 6953f561-6049-4783-bdb0-ee414100e5a1
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 1 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f4/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309948823512562'
+    northBoundLatitude: '48.88893170124792'
+    southBoundLatitude: '48.8819165224848'
+    westBoundLongitude: '2.2940082868227676'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f4
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f4.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- f918fc62-11a1-40de-8e1d-4e60e517b36b
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 2 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f5/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258952614451776'
+    northBoundLatitude: '48.888934228835815'
+    southBoundLatitude: '48.88192125398651'
+    westBoundLongitude: '2.309952492729735'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f5
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f5.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 3e49b096-d0c1-4e36-9b48-c3d134d2e846
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 3 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f6/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418417006411816'
+    northBoundLatitude: '48.888934551343276'
+    southBoundLatitude: '48.8819237809495'
+    westBoundLongitude: '2.325896701836451'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f6
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f6.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- b345d0fb-835c-47c7-8f39-da07234cc1e6
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 4 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f7/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577881391625746'
+    northBoundLatitude: '48.888932668770224'
+    southBoundLatitude: '48.88192410337305'
+    westBoundLongitude: '2.3418409122059374'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f7
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f7.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 4e7cce70-c7a3-4b74-97ab-51443947b8c8
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 5 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f8/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737345750714063'
+    northBoundLatitude: '48.88892858111722'
+    southBoundLatitude: '48.881922221257014'
+    westBoundLongitude: '2.357785121901173'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f8
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f8.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 3823366b-b775-49ae-82f7-7d895b256e76
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 6 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f9/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896810064296803'
+    northBoundLatitude: '48.88892228838548'
+    southBoundLatitude: '48.88191813460198'
+    westBoundLongitude: '2.3737293289851142'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f9
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f9.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- e6187fe8-a6d4-4e6a-8a47-9a9c23fc9ae2
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 7 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f10/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405627431299417'
+    northBoundLatitude: '48.88891379057683'
+    southBoundLatitude: '48.88191184340914'
+    westBoundLongitude: '2.3896735315207613'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f10
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f10.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 093c43ce-52e7-41b1-9287-24c7b6fbf669
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 8 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f11/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940082868227676'
+    northBoundLatitude: '48.8819165224848'
+    southBoundLatitude: '48.87490168982172'
+    westBoundLongitude: '2.283386200018342'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f11
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f11.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 62fe9c3c-e72b-4a16-880a-3f51cbaf6d47
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 9 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f12/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309952492729735'
+    northBoundLatitude: '48.88192125398651'
+    southBoundLatitude: '48.87490606782178'
+    westBoundLongitude: '2.2940141825812157'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f12
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f12.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 4c084575-98dc-438a-9033-8e6a2095a101
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 10 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f13/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.325896701836451'
+    northBoundLatitude: '48.8819237809495'
+    southBoundLatitude: '48.87491079815798'
+    westBoundLongitude: '2.30995616052476'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f13
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f13.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- ae1ef5ca-dc9e-488c-9828-85e953b11877
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 11 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f14/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418409122059374'
+    northBoundLatitude: '48.88192410337305'
+    southBoundLatitude: '48.87491332449624'
+    westBoundLongitude: '2.325898141666503'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f14
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f14.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 522cf30e-7a28-4037-addf-7e58af790212
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 12 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f15/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357785121901173'
+    northBoundLatitude: '48.881922221257014'
+    southBoundLatitude: '48.87491364683587'
+    westBoundLongitude: '2.3418401240703806'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f15
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f15.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- e254249d-df50-4ae4-a660-22ff59c07471
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 13 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f16/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737293289851142'
+    northBoundLatitude: '48.88191813460198'
+    southBoundLatitude: '48.87491176517674'
+    westBoundLongitude: '2.357782105800326'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f16
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f16.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 1893e7c4-ad8a-4c65-b217-85ce62a04d85
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 14 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f17/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896735315207613'
+    northBoundLatitude: '48.88191184340914'
+    southBoundLatitude: '48.87490767951942'
+    westBoundLongitude: '2.373724084920274'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f17
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f17.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 0868c464-0a42-4f25-8e79-52ca786856b9
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 15 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f18/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405617727571079'
+    northBoundLatitude: '48.88190334768037'
+    southBoundLatitude: '48.874901389865045'
+    westBoundLongitude: '2.38966605949419'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f18
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f18.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- d5290569-9078-4964-ade7-c9c20045e8f3
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 16 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f19/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940141825812157'
+    northBoundLatitude: '48.87490606782178'
+    southBoundLatitude: '48.8678912276681'
+    westBoundLongitude: '2.2833935782288304'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f19
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f19.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- bf9cc22e-de05-4859-a05c-993d2ea24f02
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 17 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f20/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.30995616052476'
+    northBoundLatitude: '48.87491079815798'
+    southBoundLatitude: '48.86789560459099'
+    westBoundLongitude: '2.294020076057759'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f20
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f20.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 1849adcb-bd39-482d-8878-3d89a7f0d037
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 18 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f21/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.325898141666503'
+    northBoundLatitude: '48.87491332449624'
+    southBoundLatitude: '48.867900333761995'
+    westBoundLongitude: '2.309959826898388'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f21
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f21.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 57d2b5bd-fcd2-404e-8feb-0a59e703d9c1
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 19 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f22/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418401240703806'
+    northBoundLatitude: '48.87491364683587'
+    southBoundLatitude: '48.86790285947575'
+    westBoundLongitude: '2.3258995809356047'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f22
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f22.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 2e8fdc1a-f5b6-4ed2-92a9-2d270c626f2b
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 20 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f23/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357782105800326'
+    northBoundLatitude: '48.87491176517674'
+    southBoundLatitude: '48.867903181731506'
+    westBoundLongitude: '2.3418393362343335'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f23
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f23.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 771344f8-526a-4d8b-8997-e04efdf8fc48
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 21 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f24/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373724084920274'
+    northBoundLatitude: '48.87490767951942'
+    southBoundLatitude: '48.86790130052913'
+    westBoundLongitude: '2.357779090859474'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f24
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f24.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 94a67386-24b0-4c8e-9592-59f3c16a49ba
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 22 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f25/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.38966605949419'
+    northBoundLatitude: '48.874901389865045'
+    southBoundLatitude: '48.86789721586919'
+    westBoundLongitude: '2.373718842875908'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f25
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f25.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- deba243b-9b5d-450d-9c54-2cea796391fa
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 23 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f26/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4056080275859952'
+    northBoundLatitude: '48.87489289621559'
+    southBoundLatitude: '48.86789092775293'
+    westBoundLongitude: '2.389658590348556'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f26
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f26.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 6a4e501f-dc64-417a-be8d-760e28e493d4
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 24 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f27/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294020076057759'
+    northBoundLatitude: '48.86789560459099'
+    southBoundLatitude: '48.8608807569461'
+    westBoundLongitude: '2.283400953585182'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f27
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f27.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 19bcb25d-c913-4634-91c4-19de6ae00e2c
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 25 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f28/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309959826898388'
+    northBoundLatitude: '48.867900333761995'
+    southBoundLatitude: '48.86088513279217'
+    westBoundLongitude: '2.29402596725355'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f28
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f28.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- ad35ae03-14c0-4dc2-a2d4-529b9c50d714
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 26 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f29/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258995809356047'
+    northBoundLatitude: '48.86790285947575'
+    southBoundLatitude: '48.86088986079831'
+    westBoundLongitude: '2.3099634918512866'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f29
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f29.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 654a490d-bfff-4355-817e-37816b0acf20
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 27 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f30/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418393362343335'
+    northBoundLatitude: '48.867903181731506'
+    southBoundLatitude: '48.86089238588769'
+    westBoundLongitude: '2.3259010196440437'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f30
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f30.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- d4b335d0-820c-4530-941e-26f3bae60fd1
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 28 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f31/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357779090859474'
+    northBoundLatitude: '48.86790130052913'
+    southBoundLatitude: '48.86089270805959'
+    westBoundLongitude: '2.3418385486976767'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f31
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f31.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- e691cdb6-b549-4214-b102-21b92586662d
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 29 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f32/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373718842875908'
+    northBoundLatitude: '48.86789721586919'
+    southBoundLatitude: '48.86089082731384'
+    westBoundLongitude: '2.357776077078042'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f32
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f32.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 859f0212-a705-41fd-a13e-1ff3ba4e6a06
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 30 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f33/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389658590348556'
+    northBoundLatitude: '48.86789092775293'
+    southBoundLatitude: '48.86088674365107'
+    westBoundLongitude: '2.373713602850994'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f33
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f33.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- e273d76a-4fff-45d0-a4b3-32b941a9a0d3
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 31 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f34/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055983313423193'
+    northBoundLatitude: '48.86788243618215'
+    southBoundLatitude: '48.86088045707241'
+    westBoundLongitude: '2.38965112408242'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f34
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f34.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- b281935c-5da2-425a-b99d-3e174309b388
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 32 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f35/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.29402596725355'
+    northBoundLatitude: '48.86088513279217'
+    southBoundLatitude: '48.85387027765544'
+    westBoundLongitude: '2.2834083260888622'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f35
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f35.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- c46e4025-0b1d-4468-8501-0a3d555abb6d
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 33 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f36/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099634918512866'
+    northBoundLatitude: '48.86088986079831'
+    southBoundLatitude: '48.85387465242497'
+    westBoundLongitude: '2.2940318561697213'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f36
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f36.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- ad30babb-f7df-4454-ad56-4edef9221856
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 34 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f37/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259010196440437'
+    northBoundLatitude: '48.86089238588769'
+    southBoundLatitude: '48.85387937926657'
+    westBoundLongitude: '2.3099671553842054'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f37
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f37.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 8901b553-4db3-4503-827e-ae20760ade70
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 35 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f38/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418385486976767'
+    northBoundLatitude: '48.86089270805959'
+    southBoundLatitude: '48.85388190373179'
+    westBoundLongitude: '2.3259024577921092'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f38
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f38.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 9f7af855-da17-4b5f-9201-ce9f9c011173
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 36 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f39/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357776077078042'
+    northBoundLatitude: '48.86089082731384'
+    southBoundLatitude: '48.853882225819824'
+    westBoundLongitude: '2.34183776146025'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f39
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f39.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- d93d212a-aa09-44f7-81b6-e59ddf1e811d
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 37 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f40/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373713602850994'
+    northBoundLatitude: '48.86088674365107'
+    southBoundLatitude: '48.8538803455306'
+    westBoundLongitude: '2.3577730644554604'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f40
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f40.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- e0694c6b-60f4-4285-a4a9-0b27c7b1c5eb
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 38 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f41/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.38965112408242'
+    northBoundLatitude: '48.86088045707241'
+    southBoundLatitude: '48.8538762628647'
+    westBoundLongitude: '2.3737083648445565'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f41
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f41.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- a4836003-eb2e-4f81-9c9e-49e5123d2986
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 39 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f42/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405588638838181'
+    northBoundLatitude: '48.860871967579804'
+    southBoundLatitude: '48.85386997782326'
+    westBoundLongitude: '2.389643660694374'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f42
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f42.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 9be9f3ee-d9c9-4c17-8c7d-ead5be00351f
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 40 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f43/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940318561697213'
+    northBoundLatitude: '48.85387465242497'
+    southBoundLatitude: '48.846859789795886'
+    westBoundLongitude: '2.283415695741244'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f43
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f43.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 72a35047-4309-4013-b6b7-9a5e5b6710bb
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 41 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f44/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099671553842054'
+    northBoundLatitude: '48.85387937926657'
+    southBoundLatitude: '48.84686416348912'
+    westBoundLongitude: '2.2940377428074106'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f44
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f44.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- d6ea047d-be3a-4f0c-8761-a97c9502698d
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 42 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f45/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259024577921092'
+    northBoundLatitude: '48.85388190373179'
+    southBoundLatitude: '48.846868889166544'
+    westBoundLongitude: '2.30997081749782'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f45
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f45.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 8d4d11c0-f859-4485-a404-2b5dfaf2c7af
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 43 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f46/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.34183776146025'
+    northBoundLatitude: '48.853882225819824'
+    southBoundLatitude: '48.846871413007726'
+    westBoundLongitude: '2.3259038953800517'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f46
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f46.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 88af26f8-96bb-45d9-bac8-eb625e03021c
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 44 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f47/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577730644554604'
+    northBoundLatitude: '48.8538803455306'
+    southBoundLatitude: '48.846871735011966'
+    westBoundLongitude: '2.3418369745218897'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f47
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f47.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 0d248cc5-fe48-43a0-8b10-5ad8bce8a1b4
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 45 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f48/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737083648445565'
+    northBoundLatitude: '48.8538762628647'
+    southBoundLatitude: '48.84686985517913'
+    westBoundLongitude: '2.357770052991145'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f48
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f48.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- cceba26c-d4c5-4457-817f-ae4dfc974f0e
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 46 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f49/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389643660694374'
+    northBoundLatitude: '48.85386997782326'
+    southBoundLatitude: '48.846865773509776'
+    westBoundLongitude: '2.373703128855574'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f49
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f49.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 2c657415-0dcc-46af-a851-3e7d9d36a0f0
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 47 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f50/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405578950071724'
+    northBoundLatitude: '48.8538614904082'
+    southBoundLatitude: '48.846859490005144'
+    westBoundLongitude: '2.3896362001829616'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f50
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f50.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- dbaf87ba-2f90-4f8b-b4fa-446ef1395086
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 48 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f51/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940377428074106'
+    northBoundLatitude: '48.84686416348912'
+    southBoundLatitude: '48.839849293367024'
+    westBoundLongitude: '2.2834230625437617'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f51
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f51.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- f33b2694-034d-47bb-bbdb-d0c8e1bbb012
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 49 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f52/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.30997081749782'
+    northBoundLatitude: '48.846868889166544'
+    southBoundLatitude: '48.83985366598436'
+    westBoundLongitude: '2.294043627167757'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f52
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f52.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 13ba4cf0-d849-4db9-be4f-306c88987e7a
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 50 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f53/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259038953800517'
+    northBoundLatitude: '48.846871413007726'
+    southBoundLatitude: '48.83985839049789'
+    westBoundLongitude: '2.3099744781928218'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f53
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f53.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 4d597857-051a-40f2-b5f4-e931f7320889
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 51 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f54/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418369745218897'
+    northBoundLatitude: '48.846871735011966'
+    southBoundLatitude: '48.839860913715235'
+    westBoundLongitude: '2.3259053324081593'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f54
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f54.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- e5f5e709-ab94-459e-97c1-7be86668f5a9
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 52 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f55/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357770052991145'
+    northBoundLatitude: '48.84686985517913'
+    southBoundLatitude: '48.83986123563568'
+    westBoundLongitude: '2.3418361878824774'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f55
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f55.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 47941da3-6c20-4306-9903-425bd3bf627b
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 53 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f56/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.373703128855574'
+    northBoundLatitude: '48.846865773509776'
+    southBoundLatitude: '48.83985935625912'
+    westBoundLongitude: '2.3577670426845283'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f56
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f56.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- eeb37c27-b0d8-43fb-b46d-08f5d285973c
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 54 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f57/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896362001829616'
+    northBoundLatitude: '48.846859490005144'
+    southBoundLatitude: '48.839855275586075'
+    westBoundLongitude: '2.3736978948830436'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f57
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f57.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- daa0a6c9-bd5a-4fcf-851d-c3b56d147b27
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 55 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f58/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055692650411116'
+    northBoundLatitude: '48.846851004667066'
+    southBoundLatitude: '48.83984899361778'
+    westBoundLongitude: '2.389628742546772'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f58
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f58.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 3d487051-0eea-47ab-bd24-5d5623601172
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 56 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f59/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.294043627167757'
+    northBoundLatitude: '48.83985366598436'
+    southBoundLatitude: '48.832838788368676'
+    westBoundLongitude: '2.2834304264978442'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f59
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f59.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- e2186cdf-2368-412d-8166-37742d33e4ba
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 57 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f60/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099744781928218'
+    northBoundLatitude: '48.83985839049789'
+    southBoundLatitude: '48.83284315991034'
+    westBoundLongitude: '2.2940495092518582'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f60
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f60.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 417cb6b3-18fd-483d-92ee-c03d0537d1a9
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 58 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f61/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259053324081593'
+    northBoundLatitude: '48.839860913715235'
+    southBoundLatitude: '48.83284788326028'
+    westBoundLongitude: '2.309978137469958'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f61
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f61.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 3daa68ee-bc5d-47bc-82fa-0c299a4a9023
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 59 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f62/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418361878824774'
+    northBoundLatitude: '48.83986123563568'
+    southBoundLatitude: '48.83285040585398'
+    westBoundLongitude: '2.32590676887672'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f62
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f62.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- a4d33472-18f7-478a-8822-fa821ca0bd42
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 60 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f63/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577670426845283'
+    northBoundLatitude: '48.83985935625912'
+    southBoundLatitude: '48.83285072769066'
+    westBoundLongitude: '2.3418354015418474'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f63
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f63.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 855c0749-fe66-4b95-aac9-21289b8ef41a
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 61 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f64/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736978948830436'
+    northBoundLatitude: '48.839855275586075'
+    southBoundLatitude: '48.83284884877023'
+    westBoundLongitude: '2.357764033535036'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f64
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f64.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 3274a85b-01d3-49d2-83d2-b82664949c95
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 62 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f65/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.389628742546772'
+    northBoundLatitude: '48.83984899361778'
+    southBoundLatitude: '48.83284476909322'
+    westBoundLongitude: '2.3736926629259845'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f65
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f65.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 8c7e36c8-708c-48bc-9234-c1d720d6eeb9
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 63 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f66/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055595837444708'
+    northBoundLatitude: '48.83984051035611'
+    southBoundLatitude: '48.832838488660855'
+    westBoundLongitude: '2.3896212877843945'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f66
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f66.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 27e21160-a47c-497b-be77-a9d8aac3bd85
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 64 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f67/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940495092518582'
+    northBoundLatitude: '48.83284315991034'
+    southBoundLatitude: '48.82582827480046'
+    westBoundLongitude: '2.2834377876048753'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f67
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f67.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 4a975b7c-5f8f-4566-b21f-9cee18fabe3b
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 65 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f68/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.309978137469958'
+    northBoundLatitude: '48.83284788326028'
+    southBoundLatitude: '48.82583264526675'
+    westBoundLongitude: '2.294055389060863'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f68
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f68.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- ed8d823a-4f34-4910-804c-f80224233bb0
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 66 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f69/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.32590676887672'
+    northBoundLatitude: '48.83285040585398'
+    southBoundLatitude: '48.82583736745348'
+    westBoundLongitude: '2.309981795329885'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f69
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f69.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- dfe76fcb-6e52-4cb2-a804-8b940286a349
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 67 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f70/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418354015418474'
+    northBoundLatitude: '48.83285072769066'
+    southBoundLatitude: '48.825839889423676'
+    westBoundLongitude: '2.3259082047860025'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f70
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f70.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 71959d56-c842-4f1c-b4da-e41318999ecc
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 68 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f71/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.357764033535036'
+    northBoundLatitude: '48.83284884877023'
+    southBoundLatitude: '48.82584021117663'
+    westBoundLongitude: '2.341834615499852'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f71
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f71.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 8ee2eaa0-6d06-464d-80a3-4e5bc4f62c55
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 69 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f72/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736926629259845'
+    northBoundLatitude: '48.83284476909322'
+    southBoundLatitude: '48.82583833271219'
+    westBoundLongitude: '2.3577610255420955'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f72
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f72.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 913e9d75-8941-49a1-addb-26e5ac7f6ba1
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 70 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f73/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896212877843945'
+    northBoundLatitude: '48.832838488660855'
+    southBoundLatitude: '48.825834254030944'
+    westBoundLongitude: '2.373687432983389'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f73
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f73.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 8128ace7-59d0-4ad2-af46-780a2613ac31
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 71 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
+---
+associatedResource:
+- typeOfAssociation: largerWorkCitation
+  value: 365aa287-517b-4269-80fc-de8e336a52ec
+- typeOfAssociation: largerWorkCitation
+  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+distributionInfo:
+- distributionFormat: JPEG
+  transferOptions:
+  - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f74/full/full/0/native.jpg
+    name: Scan de la BnF
+    protocol: WWW:LINK
+    typeOfTransferOption: OnlineResource
+extent:
+  geoExtent:
+    eastBoundLongitude: '2.405549906179961'
+    northBoundLatitude: '48.83283000747502'
+    southBoundLatitude: '48.8258279751341'
+    westBoundLongitude: '2.3896138358943757'
+identifier: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/canvas/f74
+overview: https://gallica.bnf.fr/ark:/12148/btv1b53243704g/f74.thumbnail
+presentationForm: mapDigital
+pub_title: "BnF, d\xE9partement Cartes et plans, GE DD-2998"
+resourceLineage:
+- 7f4a725f-084a-4668-87fe-6f434984ba61
+title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 72 [exemplaire BnF\
+  \ LK7-6043]"
+type: Instantiation
+...
