@@ -14,7 +14,7 @@ def main():
     url = "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/manifest.json"
     associatedResources = [
         {
-            'value': "365aa287-517b-4269-80fc-de8e336a52ec",#Atlas du plan général de la Ville de Paris [exemplaire BnF FOL-LK7-6043] 
+            'value': "365aa287-517b-4269-80fc-de8e336a52ec",#Atlas du plan général de la Ville de Paris [exemplaire BnF, GE DD-2998 & IFN-53243704] 
             'typeOfAssociation': "largerWorkCitation"
         },
         {
@@ -22,9 +22,37 @@ def main():
             'typeOfAssociation': "largerWorkCitation"
         }
     ]
+    exemplary_name = "exemplaire BnF, GE DD-2998 & IFN-53243704"
     lineage = pandas.read_csv('../uuids_verniquet.csv',index_col='yaml_identifier')
     with open('../verniquet/extents.yaml', 'r') as extent_file:
         data = yaml.safe_load(extent_file)
+    dataverse = json.loads(open('../verniquet/dataverse.harvard.edu.json').read())
+    dataverse_datafileurl = "https://dataverse.harvard.edu/api/access/datafile/"
+    def addFiles(prefix, list):
+        for e in dataverse["data"]["latestVersion"]["files"]:
+            label = e["label"]
+            fileId = e["dataFile"]["id"]
+            link = dataverse_datafileurl+str(fileId)
+            name = None
+            if label == prefix + ".jpg.points":
+                logging.debug(f"points found: {fileId}")
+                name = "Georeferencing point file"
+            if label == prefix + ".json":
+                logging.debug(f"json found: {fileId}")
+                name = "Georeferencing AllMaps annotation file"
+            if label == prefix + ".tif":
+                logging.debug(f"tif found: {fileId}")
+                name = "Georeferenced tiff (geotif)"
+            if name:
+                list.append({
+                        'onlineResources': [{
+                            'linkage': link,
+                            'protocol': "WWW:LINK",
+                            'name': name,
+                            'onlineFunctionCode': "download"
+                        }]
+                })
+
     logging.info(f"Loading manifest from URL {url}")
     with urllib.request.urlopen(url) as file:
         manifest = json.loads(file.read().decode("utf-8"))
@@ -40,7 +68,7 @@ def main():
         logging.debug(f"manifest description: {description}")
         metadata = manifest.get('metadata', None)
         logging.debug(f"manifest metadata: {metadata}")
-        result = []
+        documents = {}
         sequences = manifest.get('sequences', None)
         logging.debug(f"manifest sequences: {len(sequences)}")
         for sequence in sequences:
@@ -60,16 +88,26 @@ def main():
                 logging.debug(f"  canvas native: {canvas_native}")
                 number = int(re.search('(?<=canvas/f)\w+', canvas_id).group(0))
                 logging.debug(f"  canvas number: {number}")
+                distributionInfos = [{
+                        'distributionFormat': "JPEG",
+                        'onlineResources': [{
+                            'linkage': canvas_native,
+                            'protocol': "WWW:LINK",
+                            'name': "Scan de la BnF",
+                            'onlineFunctionCode': "download"
+                        }]
+                    }]
                 name = 'inconnu'
                 if (number == 1):
-                    name = 'Atlas national de la Ville de Paris, Page de titre [exemplaire BnF LK7-6043]'
+                    name = 'Atlas du plan général de la ville de Paris, Page de titre [exemplaire BnF, GE DD-2998 & IFN-53243704]'
                     theoretical_sheet = lineage.loc['TITLE','uuid']
                 elif (number == 2):
-                    name = 'Atlas national de la Ville de Paris, Carte d\'assemblage [exemplaire BnF LK7-6043]'
+                    name = 'Atlas du plan général de la ville de Paris, Carte d\'assemblage [exemplaire BnF, GE DD-2998 & IFN-53243704]'
                     theoretical_sheet = lineage.loc['TA','uuid']
                 else:
-                    name = f'Atlas national de la Ville de Paris, feuille N.[uméro] {number-2} [exemplaire BnF LK7-6043]'
+                    name = f'Atlas du plan général de la ville de Paris, feuille N.[uméro] {number-2} [exemplaire BnF, GE DD-2998 & IFN-53243704]'
                     theoretical_sheet = lineage.loc[str(number-2),'uuid']
+                    addFiles("f"+str(number),distributionInfos)
                 logging.debug(f"  theoretical_sheet: {theoretical_sheet}")
                 logging.debug(f"  canvas name: {name}")
                 instance = {
@@ -81,23 +119,23 @@ def main():
                     'associatedResource': associatedResources,
                     'resourceLineage': [theoretical_sheet],
                     'keywords': [{'value': 'Instantiation'}],
-                    'distributionInfo': [{
-                        'distributionFormat': "JPEG",
-                        'transferOptions': [{
-                            'linkage': canvas_native,
-                            'protocol': "WWW:LINK",
-                            'name': "Scan de la BnF",
-                            'typeOfTransferOption': "OnlineResource"
-                        }]
-                    }]
+                    'distributionInfo': distributionInfos
                 }
                 if number>2:
                     instance.update({'extent': {'geoExtent': data[number-2]['geoExtent']}})
                     instance.update({'presentationForm': "mapDigital"})
-                result.append(instance)
+                documents[instance["identifier"]] = instance
+
+        # Apply the patch file
+        with open('verniquet_bnf_records.yaml.patch', 'r') as partial:
+            patches = yaml.safe_load_all(partial)
+            for p in patches:
+                id = p["identifier"]
+                documents[id].update(p)
+
         with open('verniquet_bnf_records.yaml', 'w') as output_file:
             # outputs = yaml.dump(result, output_file, default_style='"', explicit_start=True, encoding='ISO-8859-1')
-            for res in result:
+            for res in documents.values():
                 yaml.dump(res, output_file, explicit_start=True, explicit_end=True)
 
 if __name__ == '__main__':

@@ -10,7 +10,7 @@ def main():
     logging.basicConfig(level='DEBUG')
     with open('extents.yaml', 'r') as extent_file:
         data = yaml.safe_load(extent_file)
-        result = []
+        documents = {}
         associatedResource = [
             {
                 'value': "6a48afcf-6bdc-4880-b2d6-dd8e557253c2",#Atlas du plan général de la Ville de Paris
@@ -21,35 +21,47 @@ def main():
                 'typeOfAssociation': "largerWorkCitation"
             }
         ]
-        result.append({
-            # 'type' : str("Instantiation"), 
-            'identifier': 'TITLE',
+        identifier = "TITLE"
+        documents[identifier] = {
+            'identifier': identifier,
             'title': 'Atlas national de la Ville de Paris, Page de titre',
             'associatedResource': associatedResource,
-            'keywords': [{'value': 'RecordSet'}]
-        })
-        result.append({
-            # 'type' : str("Instantiation"), 
+            'keywords': [{'value': 'RecordSet'}]            
+        }
+        
+        identifier = "TA"
+        documents[identifier] = {
             'identifier': 'TA',
             'title': 'Atlas national de la Ville de Paris, Carte d\'assemblage',
             'associatedResource': associatedResource,
             'keywords': [{'value': 'RecordSet'}]
-        })
+        }
+        
+        
         for sheet in range(1,73):
             logging.debug(f"Sheet: {sheet}")
             name = f'Atlas national de la Ville de Paris, feuille N.[uméro] {sheet}'
-            logging.debug(f"  canvas name: {name}") 
-            result.append({
-                # 'type' : str("Instantiation"), 
-                'identifier': str(sheet),
+            logging.debug(f"  canvas name: {name}")
+            
+            identifier = str(sheet)
+            documents[identifier] = {
+                'identifier': identifier,
                 'title': name,
                 'associatedResource': associatedResource,
                 'extent': {'geoExtent': data[sheet]['geoExtent']},
                 'keywords': [{'value': 'RecordSet'}]
-            })
+            }
+
+        # Apply the patch file
+        with open('verniquet_records.yaml.patch', 'r') as partial:
+            patches = yaml.safe_load_all(partial)
+            for p in patches:
+                id = p["identifier"]
+                documents[id].update(p)
+
         with open('verniquet_records.yaml', 'w') as output_file:
             # outputs = yaml.dump(result, output_file, default_style='"', explicit_start=True, encoding='ISO-8859-1')
-            for res in result:
+            for res in documents.values():
                 yaml.dump(res, output_file, explicit_start=True, explicit_end=True)
 
 if __name__ == '__main__':
