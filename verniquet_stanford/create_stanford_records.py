@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 
 
 def main():
-    logging.basicConfig(level="DEBUG")
+    logging.basicConfig(level="INFO")
     collection = "RUMSEY~8~1"
     url = f"https://www.davidrumsey.com/luna/servlet/as/fetchMediaSearch?&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&lc={collection}&fullData=true&q=Pub_List_No=10110.000&bs=80"
     oai_base_url = "https://www.davidrumsey.com/luna/servlet/oai?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:N/A:"
@@ -81,7 +81,7 @@ def main():
         manifest = json.loads(file.read().decode("utf-8"))
         for record in manifest:
             id = record.get("id", None)
-            logging.debug(f"record id = {id}")
+            logging.info(f"record id = {id}")
             oai_url = f"{oai_base_url}{id}"
             with urllib.request.urlopen(oai_url) as record_file:
                 parser = ET.parse(record_file)
@@ -138,12 +138,6 @@ def main():
                     "overview": identifiers[1].text,
                     "associatedResource": associatedResources,
                     "keywords": [{"value": "Instantiation", "typeOfKeyword": "taxon"}],
-                    "extent": {
-                        "temporalExtent": {
-                            "beginPosition": dates[0].text,
-                            "endPosition": dates[1].text,
-                        }
-                    },
                     "distributionInfo": [
                         {
                             "distributionFormat": "JPEG2000",
@@ -155,10 +149,15 @@ def main():
                     instance.update({"resourceLineage": [theoretical_sheet]})
                 if number:
                     instance.update(
-                        {"extent": {"geoExtent": data[number]["geoExtent"]}}
+                        {"extent": {
+                            "geoExtent": data[number]['geoExtent'],
+                            "temporalExtent": {"beginPosition": dates[0].text,"endPosition": dates[1].text}
+                        }}
                     )
                     instance.update({"presentationForm": "mapDigital"})
                     addFiles(str(10110001 + number), online_resources)
+                else:
+                    instance.update({"extent": {"temporalExtent": {"beginPosition": dates[0].text,"endPosition": dates[1].text}}})
                 documents[instance["identifier"]] = instance
 
         # Apply the patch file

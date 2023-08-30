@@ -10,7 +10,7 @@ import re
 import pandas
 
 def main():
-    logging.basicConfig(level='DEBUG')
+    logging.basicConfig(level='INFO')
     url = "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/manifest.json"
     associatedResources = [
         {
@@ -57,7 +57,7 @@ def main():
     with urllib.request.urlopen(url) as file:
         manifest = json.loads(file.read().decode("utf-8"))
         manifest_id = manifest.get('@id', None)
-        logging.debug(f"manifest id: {manifest_id}")
+        logging.info(f"manifest id: {manifest_id}")
         label = manifest.get('label', None)
         logging.debug(f"manifest label: {label}")
         attribution = manifest.get('attribution', None)
@@ -75,7 +75,7 @@ def main():
             canvases = sequence.get('canvases', None)
             for canvas in canvases:
                 canvas_id = canvas.get('@id', None)
-                logging.debug(f"canvas id: {canvas_id}")
+                logging.info(f"canvas id: {canvas_id}")
                 canvas_label = canvas.get('label', None)
                 logging.debug(f"  canvas label: {canvas_label}")
                 canvas_images = canvas.get('images', None)

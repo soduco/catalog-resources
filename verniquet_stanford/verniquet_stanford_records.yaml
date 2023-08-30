@@ -14,8 +14,8 @@ distributionInfo:
     protocol: WWW:LINK
 extent:
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305627~90076038
 keywords:
 - typeOfKeyword: taxon
@@ -43,8 +43,8 @@ distributionInfo:
     protocol: WWW:LINK
 extent:
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305700~90076808
 keywords:
 - typeOfKeyword: taxon
@@ -85,9 +85,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.294002388781319'
+    northBoundLatitude: '48.88892696858039'
+    southBoundLatitude: '48.881912143407305'
+    westBoundLongitude: '2.2833788189523423'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305628~90076037
 keywords:
 - typeOfKeyword: taxon
@@ -131,9 +136,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.309948823512562'
+    northBoundLatitude: '48.88893170124792'
+    southBoundLatitude: '48.8819165224848'
+    westBoundLongitude: '2.2940082868227676'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305629~90076036
 keywords:
 - typeOfKeyword: taxon
@@ -177,9 +187,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258952614451776'
+    northBoundLatitude: '48.888934228835815'
+    southBoundLatitude: '48.88192125398651'
+    westBoundLongitude: '2.309952492729735'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305630~90076035
 keywords:
 - typeOfKeyword: taxon
@@ -223,9 +238,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418417006411816'
+    northBoundLatitude: '48.888934551343276'
+    southBoundLatitude: '48.8819237809495'
+    westBoundLongitude: '2.325896701836451'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305631~90076034
 keywords:
 - typeOfKeyword: taxon
@@ -269,9 +289,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577881391625746'
+    northBoundLatitude: '48.888932668770224'
+    southBoundLatitude: '48.88192410337305'
+    westBoundLongitude: '2.3418409122059374'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305632~90076033
 keywords:
 - typeOfKeyword: taxon
@@ -315,9 +340,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737345750714063'
+    northBoundLatitude: '48.88892858111722'
+    southBoundLatitude: '48.881922221257014'
+    westBoundLongitude: '2.357785121901173'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305633~90076032
 keywords:
 - typeOfKeyword: taxon
@@ -361,9 +391,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896810064296803'
+    northBoundLatitude: '48.88892228838548'
+    southBoundLatitude: '48.88191813460198'
+    westBoundLongitude: '2.3737293289851142'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305634~90076031
 keywords:
 - typeOfKeyword: taxon
@@ -407,9 +442,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.405627431299417'
+    northBoundLatitude: '48.88891379057683'
+    southBoundLatitude: '48.88191184340914'
+    westBoundLongitude: '2.3896735315207613'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305635~90076030
 keywords:
 - typeOfKeyword: taxon
@@ -453,9 +493,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940082868227676'
+    northBoundLatitude: '48.8819165224848'
+    southBoundLatitude: '48.87490168982172'
+    westBoundLongitude: '2.283386200018342'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305636~90076029
 keywords:
 - typeOfKeyword: taxon
@@ -499,9 +544,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.309952492729735'
+    northBoundLatitude: '48.88192125398651'
+    southBoundLatitude: '48.87490606782178'
+    westBoundLongitude: '2.2940141825812157'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305637~90076028
 keywords:
 - typeOfKeyword: taxon
@@ -545,9 +595,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.325896701836451'
+    northBoundLatitude: '48.8819237809495'
+    southBoundLatitude: '48.87491079815798'
+    westBoundLongitude: '2.30995616052476'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305638~90076027
 keywords:
 - typeOfKeyword: taxon
@@ -591,9 +646,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418409122059374'
+    northBoundLatitude: '48.88192410337305'
+    southBoundLatitude: '48.87491332449624'
+    westBoundLongitude: '2.325898141666503'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305639~90076026
 keywords:
 - typeOfKeyword: taxon
@@ -637,9 +697,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.357785121901173'
+    northBoundLatitude: '48.881922221257014'
+    southBoundLatitude: '48.87491364683587'
+    westBoundLongitude: '2.3418401240703806'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305640~90076025
 keywords:
 - typeOfKeyword: taxon
@@ -683,9 +748,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737293289851142'
+    northBoundLatitude: '48.88191813460198'
+    southBoundLatitude: '48.87491176517674'
+    westBoundLongitude: '2.357782105800326'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305641~90076024
 keywords:
 - typeOfKeyword: taxon
@@ -729,9 +799,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896735315207613'
+    northBoundLatitude: '48.88191184340914'
+    southBoundLatitude: '48.87490767951942'
+    westBoundLongitude: '2.373724084920274'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305642~90076023
 keywords:
 - typeOfKeyword: taxon
@@ -775,9 +850,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.405617727571079'
+    northBoundLatitude: '48.88190334768037'
+    southBoundLatitude: '48.874901389865045'
+    westBoundLongitude: '2.38966605949419'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305643~90076022
 keywords:
 - typeOfKeyword: taxon
@@ -821,9 +901,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940141825812157'
+    northBoundLatitude: '48.87490606782178'
+    southBoundLatitude: '48.8678912276681'
+    westBoundLongitude: '2.2833935782288304'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305644~90076021
 keywords:
 - typeOfKeyword: taxon
@@ -867,9 +952,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.30995616052476'
+    northBoundLatitude: '48.87491079815798'
+    southBoundLatitude: '48.86789560459099'
+    westBoundLongitude: '2.294020076057759'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305645~90076020
 keywords:
 - typeOfKeyword: taxon
@@ -913,9 +1003,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.325898141666503'
+    northBoundLatitude: '48.87491332449624'
+    southBoundLatitude: '48.867900333761995'
+    westBoundLongitude: '2.309959826898388'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305646~90076019
 keywords:
 - typeOfKeyword: taxon
@@ -959,9 +1054,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418401240703806'
+    northBoundLatitude: '48.87491364683587'
+    southBoundLatitude: '48.86790285947575'
+    westBoundLongitude: '2.3258995809356047'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305647~90076018
 keywords:
 - typeOfKeyword: taxon
@@ -1005,9 +1105,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.357782105800326'
+    northBoundLatitude: '48.87491176517674'
+    southBoundLatitude: '48.867903181731506'
+    westBoundLongitude: '2.3418393362343335'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305648~90076017
 keywords:
 - typeOfKeyword: taxon
@@ -1051,9 +1156,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.373724084920274'
+    northBoundLatitude: '48.87490767951942'
+    southBoundLatitude: '48.86790130052913'
+    westBoundLongitude: '2.357779090859474'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305649~90076016
 keywords:
 - typeOfKeyword: taxon
@@ -1097,9 +1207,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.38966605949419'
+    northBoundLatitude: '48.874901389865045'
+    southBoundLatitude: '48.86789721586919'
+    westBoundLongitude: '2.373718842875908'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305650~90076015
 keywords:
 - typeOfKeyword: taxon
@@ -1143,9 +1258,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.4056080275859952'
+    northBoundLatitude: '48.87489289621559'
+    southBoundLatitude: '48.86789092775293'
+    westBoundLongitude: '2.389658590348556'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305651~90076014
 keywords:
 - typeOfKeyword: taxon
@@ -1189,9 +1309,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.294020076057759'
+    northBoundLatitude: '48.86789560459099'
+    southBoundLatitude: '48.8608807569461'
+    westBoundLongitude: '2.283400953585182'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305652~90076013
 keywords:
 - typeOfKeyword: taxon
@@ -1235,9 +1360,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.309959826898388'
+    northBoundLatitude: '48.867900333761995'
+    southBoundLatitude: '48.86088513279217'
+    westBoundLongitude: '2.29402596725355'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305653~90076012
 keywords:
 - typeOfKeyword: taxon
@@ -1281,9 +1411,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3258995809356047'
+    northBoundLatitude: '48.86790285947575'
+    southBoundLatitude: '48.86088986079831'
+    westBoundLongitude: '2.3099634918512866'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305654~90076011
 keywords:
 - typeOfKeyword: taxon
@@ -1327,9 +1462,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418393362343335'
+    northBoundLatitude: '48.867903181731506'
+    southBoundLatitude: '48.86089238588769'
+    westBoundLongitude: '2.3259010196440437'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305655~90076010
 keywords:
 - typeOfKeyword: taxon
@@ -1373,9 +1513,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.357779090859474'
+    northBoundLatitude: '48.86790130052913'
+    southBoundLatitude: '48.86089270805959'
+    westBoundLongitude: '2.3418385486976767'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305656~90076009
 keywords:
 - typeOfKeyword: taxon
@@ -1419,9 +1564,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.373718842875908'
+    northBoundLatitude: '48.86789721586919'
+    southBoundLatitude: '48.86089082731384'
+    westBoundLongitude: '2.357776077078042'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305657~90076008
 keywords:
 - typeOfKeyword: taxon
@@ -1465,9 +1615,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.389658590348556'
+    northBoundLatitude: '48.86789092775293'
+    southBoundLatitude: '48.86088674365107'
+    westBoundLongitude: '2.373713602850994'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305658~90076007
 keywords:
 - typeOfKeyword: taxon
@@ -1511,9 +1666,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055983313423193'
+    northBoundLatitude: '48.86788243618215'
+    southBoundLatitude: '48.86088045707241'
+    westBoundLongitude: '2.38965112408242'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305659~90076006
 keywords:
 - typeOfKeyword: taxon
@@ -1557,9 +1717,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.29402596725355'
+    northBoundLatitude: '48.86088513279217'
+    southBoundLatitude: '48.85387027765544'
+    westBoundLongitude: '2.2834083260888622'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305660~90076005
 keywords:
 - typeOfKeyword: taxon
@@ -1603,9 +1768,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099634918512866'
+    northBoundLatitude: '48.86088986079831'
+    southBoundLatitude: '48.85387465242497'
+    westBoundLongitude: '2.2940318561697213'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305661~90076004
 keywords:
 - typeOfKeyword: taxon
@@ -1649,9 +1819,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259010196440437'
+    northBoundLatitude: '48.86089238588769'
+    southBoundLatitude: '48.85387937926657'
+    westBoundLongitude: '2.3099671553842054'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305662~90076003
 keywords:
 - typeOfKeyword: taxon
@@ -1695,9 +1870,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418385486976767'
+    northBoundLatitude: '48.86089270805959'
+    southBoundLatitude: '48.85388190373179'
+    westBoundLongitude: '2.3259024577921092'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305663~90076002
 keywords:
 - typeOfKeyword: taxon
@@ -1741,9 +1921,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.357776077078042'
+    northBoundLatitude: '48.86089082731384'
+    southBoundLatitude: '48.853882225819824'
+    westBoundLongitude: '2.34183776146025'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305664~90076074
 keywords:
 - typeOfKeyword: taxon
@@ -1787,9 +1972,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.373713602850994'
+    northBoundLatitude: '48.86088674365107'
+    southBoundLatitude: '48.8538803455306'
+    westBoundLongitude: '2.3577730644554604'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305665~90076073
 keywords:
 - typeOfKeyword: taxon
@@ -1833,9 +2023,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.38965112408242'
+    northBoundLatitude: '48.86088045707241'
+    southBoundLatitude: '48.8538762628647'
+    westBoundLongitude: '2.3737083648445565'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305666~90076072
 keywords:
 - typeOfKeyword: taxon
@@ -1879,9 +2074,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.405588638838181'
+    northBoundLatitude: '48.860871967579804'
+    southBoundLatitude: '48.85386997782326'
+    westBoundLongitude: '2.389643660694374'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305667~90076071
 keywords:
 - typeOfKeyword: taxon
@@ -1925,9 +2125,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940318561697213'
+    northBoundLatitude: '48.85387465242497'
+    southBoundLatitude: '48.846859789795886'
+    westBoundLongitude: '2.283415695741244'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305668~90076070
 keywords:
 - typeOfKeyword: taxon
@@ -1971,9 +2176,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099671553842054'
+    northBoundLatitude: '48.85387937926657'
+    southBoundLatitude: '48.84686416348912'
+    westBoundLongitude: '2.2940377428074106'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305669~90076069
 keywords:
 - typeOfKeyword: taxon
@@ -2017,9 +2227,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259024577921092'
+    northBoundLatitude: '48.85388190373179'
+    southBoundLatitude: '48.846868889166544'
+    westBoundLongitude: '2.30997081749782'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305670~90076068
 keywords:
 - typeOfKeyword: taxon
@@ -2063,9 +2278,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.34183776146025'
+    northBoundLatitude: '48.853882225819824'
+    southBoundLatitude: '48.846871413007726'
+    westBoundLongitude: '2.3259038953800517'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305671~90076067
 keywords:
 - typeOfKeyword: taxon
@@ -2109,9 +2329,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577730644554604'
+    northBoundLatitude: '48.8538803455306'
+    southBoundLatitude: '48.846871735011966'
+    westBoundLongitude: '2.3418369745218897'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305672~90076066
 keywords:
 - typeOfKeyword: taxon
@@ -2155,9 +2380,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3737083648445565'
+    northBoundLatitude: '48.8538762628647'
+    southBoundLatitude: '48.84686985517913'
+    westBoundLongitude: '2.357770052991145'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305673~90076065
 keywords:
 - typeOfKeyword: taxon
@@ -2201,9 +2431,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.389643660694374'
+    northBoundLatitude: '48.85386997782326'
+    southBoundLatitude: '48.846865773509776'
+    westBoundLongitude: '2.373703128855574'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305674~90076064
 keywords:
 - typeOfKeyword: taxon
@@ -2247,9 +2482,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.405578950071724'
+    northBoundLatitude: '48.8538614904082'
+    southBoundLatitude: '48.846859490005144'
+    westBoundLongitude: '2.3896362001829616'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305675~90076063
 keywords:
 - typeOfKeyword: taxon
@@ -2293,9 +2533,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940377428074106'
+    northBoundLatitude: '48.84686416348912'
+    southBoundLatitude: '48.839849293367024'
+    westBoundLongitude: '2.2834230625437617'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305676~90076062
 keywords:
 - typeOfKeyword: taxon
@@ -2339,9 +2584,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.30997081749782'
+    northBoundLatitude: '48.846868889166544'
+    southBoundLatitude: '48.83985366598436'
+    westBoundLongitude: '2.294043627167757'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305677~90076061
 keywords:
 - typeOfKeyword: taxon
@@ -2385,9 +2635,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259038953800517'
+    northBoundLatitude: '48.846871413007726'
+    southBoundLatitude: '48.83985839049789'
+    westBoundLongitude: '2.3099744781928218'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305678~90076060
 keywords:
 - typeOfKeyword: taxon
@@ -2431,9 +2686,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418369745218897'
+    northBoundLatitude: '48.846871735011966'
+    southBoundLatitude: '48.839860913715235'
+    westBoundLongitude: '2.3259053324081593'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305679~90076059
 keywords:
 - typeOfKeyword: taxon
@@ -2477,9 +2737,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.357770052991145'
+    northBoundLatitude: '48.84686985517913'
+    southBoundLatitude: '48.83986123563568'
+    westBoundLongitude: '2.3418361878824774'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305680~90076058
 keywords:
 - typeOfKeyword: taxon
@@ -2523,9 +2788,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.373703128855574'
+    northBoundLatitude: '48.846865773509776'
+    southBoundLatitude: '48.83985935625912'
+    westBoundLongitude: '2.3577670426845283'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305681~90076057
 keywords:
 - typeOfKeyword: taxon
@@ -2569,9 +2839,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896362001829616'
+    northBoundLatitude: '48.846859490005144'
+    southBoundLatitude: '48.839855275586075'
+    westBoundLongitude: '2.3736978948830436'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305682~90076056
 keywords:
 - typeOfKeyword: taxon
@@ -2615,9 +2890,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055692650411116'
+    northBoundLatitude: '48.846851004667066'
+    southBoundLatitude: '48.83984899361778'
+    westBoundLongitude: '2.389628742546772'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305683~90076055
 keywords:
 - typeOfKeyword: taxon
@@ -2661,9 +2941,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.294043627167757'
+    northBoundLatitude: '48.83985366598436'
+    southBoundLatitude: '48.832838788368676'
+    westBoundLongitude: '2.2834304264978442'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305684~90076054
 keywords:
 - typeOfKeyword: taxon
@@ -2707,9 +2992,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3099744781928218'
+    northBoundLatitude: '48.83985839049789'
+    southBoundLatitude: '48.83284315991034'
+    westBoundLongitude: '2.2940495092518582'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305685~90076053
 keywords:
 - typeOfKeyword: taxon
@@ -2753,9 +3043,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3259053324081593'
+    northBoundLatitude: '48.839860913715235'
+    southBoundLatitude: '48.83284788326028'
+    westBoundLongitude: '2.309978137469958'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305686~90076052
 keywords:
 - typeOfKeyword: taxon
@@ -2799,9 +3094,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418361878824774'
+    northBoundLatitude: '48.83986123563568'
+    southBoundLatitude: '48.83285040585398'
+    westBoundLongitude: '2.32590676887672'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305687~90076051
 keywords:
 - typeOfKeyword: taxon
@@ -2845,9 +3145,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3577670426845283'
+    northBoundLatitude: '48.83985935625912'
+    southBoundLatitude: '48.83285072769066'
+    westBoundLongitude: '2.3418354015418474'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305688~90076050
 keywords:
 - typeOfKeyword: taxon
@@ -2891,9 +3196,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736978948830436'
+    northBoundLatitude: '48.839855275586075'
+    southBoundLatitude: '48.83284884877023'
+    westBoundLongitude: '2.357764033535036'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305689~90076049
 keywords:
 - typeOfKeyword: taxon
@@ -2937,9 +3247,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.389628742546772'
+    northBoundLatitude: '48.83984899361778'
+    southBoundLatitude: '48.83284476909322'
+    westBoundLongitude: '2.3736926629259845'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305690~90076048
 keywords:
 - typeOfKeyword: taxon
@@ -2983,9 +3298,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.4055595837444708'
+    northBoundLatitude: '48.83984051035611'
+    southBoundLatitude: '48.832838488660855'
+    westBoundLongitude: '2.3896212877843945'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305691~90076047
 keywords:
 - typeOfKeyword: taxon
@@ -3029,9 +3349,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.2940495092518582'
+    northBoundLatitude: '48.83284315991034'
+    southBoundLatitude: '48.82582827480046'
+    westBoundLongitude: '2.2834377876048753'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305692~90076046
 keywords:
 - typeOfKeyword: taxon
@@ -3075,9 +3400,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.309978137469958'
+    northBoundLatitude: '48.83284788326028'
+    southBoundLatitude: '48.82583264526675'
+    westBoundLongitude: '2.294055389060863'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305693~90076045
 keywords:
 - typeOfKeyword: taxon
@@ -3121,9 +3451,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.32590676887672'
+    northBoundLatitude: '48.83285040585398'
+    southBoundLatitude: '48.82583736745348'
+    westBoundLongitude: '2.309981795329885'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305694~90076044
 keywords:
 - typeOfKeyword: taxon
@@ -3167,9 +3502,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3418354015418474'
+    northBoundLatitude: '48.83285072769066'
+    southBoundLatitude: '48.825839889423676'
+    westBoundLongitude: '2.3259082047860025'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305695~90076043
 keywords:
 - typeOfKeyword: taxon
@@ -3213,9 +3553,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.357764033535036'
+    northBoundLatitude: '48.83284884877023'
+    southBoundLatitude: '48.82584021117663'
+    westBoundLongitude: '2.341834615499852'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305696~90076042
 keywords:
 - typeOfKeyword: taxon
@@ -3259,9 +3604,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3736926629259845'
+    northBoundLatitude: '48.83284476909322'
+    southBoundLatitude: '48.82583833271219'
+    westBoundLongitude: '2.3577610255420955'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305697~90076041
 keywords:
 - typeOfKeyword: taxon
@@ -3305,9 +3655,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.3896212877843945'
+    northBoundLatitude: '48.832838488660855'
+    southBoundLatitude: '48.825834254030944'
+    westBoundLongitude: '2.373687432983389'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305698~90076040
 keywords:
 - typeOfKeyword: taxon
@@ -3351,9 +3706,14 @@ distributionInfo:
     onlineFunctionCode: download
     protocol: WWW:LINK
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.405549906179961'
+    northBoundLatitude: '48.83283000747502'
+    southBoundLatitude: '48.8258279751341'
+    westBoundLongitude: '2.3896138358943757'
   temporalExtent:
-    beginPosition: '1783'
-    endPosition: '1799'
+    beginPosition: '1795'
+    endPosition: '1795'
 identifier: RUMSEY~8~1~305699~90076039
 keywords:
 - typeOfKeyword: taxon
