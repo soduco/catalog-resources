@@ -18,12 +18,10 @@ def main():
             }
         ]
         parisExtent = {
-            'geoExtent': {
                 'westBoundLongitude': '2.2789487344052968',
                 'eastBoundLongitude': '2.4080435114903960',
                 'southBoundLatitude': '48.8244731921314568',
                 'northBoundLatitude': '48.8904078536729116'
-            }
         }
         temporalExtent = {
             'beginPosition': "1784-01-01",
