@@ -2,6 +2,7 @@
 
 import logging
 import yaml
+from datetime import datetime
 
 # Manque Lineage
 #   statement = gravé d'après le plan général de la Ville de Paris
@@ -10,6 +11,49 @@ def main():
     logging.basicConfig(level='DEBUG')
     with open('extents.yaml', 'r') as extent_file:
         data = yaml.safe_load(extent_file)
+        events = [
+            {
+                'value': datetime.now().strftime('%Y-%m-%d'),
+                'event': "publication"
+            }
+        ]
+        parisExtent = {
+            'geoExtent': {
+                'westBoundLongitude': '2.2789487344052968',
+                'eastBoundLongitude': '2.4080435114903960',
+                'southBoundLatitude': '48.8244731921314568',
+                'northBoundLatitude': '48.8904078536729116'
+            }
+        }
+        temporalExtent = {
+            'beginPosition': "1784-01-01",
+            'endPosition': "1799-12-31"
+        }
+        keywords = [{'value': 'RecordSet', 'typeOfKeyword': 'taxon'},
+                    {'value': 'Paris', 'typeOfKeyword': 'place'},
+                    {'value': 'Verniquet', 'typeOfKeyword': 'theme'}]
+        distributionInfo = {
+            'distributor': "The SoDUCo Project",
+            'distributor_mail': "contact@geohistoricaldata.org"
+        }
+        stakeholders = {
+            'individuals': [{
+                    'role': "originator",
+                    'name': "Edme Verniquet"
+            }],
+            'organisations': [
+                {                        
+                    'role': "publisher",
+                    'name': "The SoDUCo project",
+                    'mail': "contact@geohistoricaldata.org"
+                },
+                {
+                    'role': "custodian",
+                    'name': "The SoDUCo project",
+                    'mail': "contact@geohistoricaldata.org"
+                }
+            ]
+        }
         documents = {}
         associatedResource = [
             {
@@ -24,17 +68,31 @@ def main():
         identifier = "TITLE"
         documents[identifier] = {
             'identifier': identifier,
-            'title': 'Atlas national de la Ville de Paris, Page de titre',
+            'identification': {'title': 'Atlas national de la Ville de Paris, Page de titre'},
+            'events': events,
+            'extent': {
+                'geoExtent': parisExtent,
+                'temporalExtent': temporalExtent
+            },
+            'keywords': keywords,
             'associatedResource': associatedResource,
-            'keywords': [{'value': 'RecordSet'}]            
+            'distributionInfo': distributionInfo,
+            'stakeholders': stakeholders
         }
         
         identifier = "TA"
         documents[identifier] = {
             'identifier': 'TA',
-            'title': 'Atlas national de la Ville de Paris, Carte d\'assemblage',
+            'identification': {'title': 'Atlas national de la Ville de Paris, Carte d\'assemblage'},
+            'events': events,
+            'extent': {
+                'geoExtent': parisExtent,
+                'temporalExtent': temporalExtent
+            },
+            'keywords': keywords,
             'associatedResource': associatedResource,
-            'keywords': [{'value': 'RecordSet'}]
+            'distributionInfo': distributionInfo,
+            'stakeholders': stakeholders
         }
         
         
@@ -46,10 +104,13 @@ def main():
             identifier = str(sheet)
             documents[identifier] = {
                 'identifier': identifier,
-                'title': name,
+                'identification': {'title': name},
+                'events': events,
+                'extent': {'geoExtent': data[sheet]['geoExtent'],'temporalExtent': temporalExtent},
+                'keywords': keywords,
                 'associatedResource': associatedResource,
-                'extent': {'geoExtent': data[sheet]['geoExtent']},
-                'keywords': [{'value': 'RecordSet'}]
+                'distributionInfo': distributionInfo,
+                'stakeholders': stakeholders
             }
 
         # Apply the patch file
