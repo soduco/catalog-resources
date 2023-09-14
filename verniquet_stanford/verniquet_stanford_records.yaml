@@ -5,27 +5,52 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110001.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.4080435114903960'
+    northBoundLatitude: '48.8904078536729116'
+    southBoundLatitude: '48.8244731921314568'
+    westBoundLongitude: '2.2789487344052968'
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
+    \ Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305627~90076038
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110001.jpg
 resourceLineage:
 - b8a61cca-3997-460d-96b4-0078acdfc709
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -34,25 +59,50 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110074.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
+  geoExtent:
+    eastBoundLongitude: '2.4080435114903960'
+    northBoundLatitude: '48.8904078536729116'
+    southBoundLatitude: '48.8244731921314568'
+    westBoundLongitude: '2.2789487344052968'
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Composite : Feuilles 1 \xE0 72 de l'Atlas du plan g\xE9n\xE9ral de la ville\
+    \ de Paris [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305700~90076808
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110074.jpg
-title: "Composite : Feuilles 1 \xE0 72 de l'Atlas du plan g\xE9n\xE9ral de la ville\
-  \ de Paris [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -61,7 +111,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110002.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -84,6 +136,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.294002388781319'
@@ -93,17 +148,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305628~90076037
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110002.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 6953f561-6049-4783-bdb0-ee414100e5a1
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -112,7 +182,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110003.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -135,6 +207,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.309948823512562'
@@ -144,17 +219,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305629~90076036
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110003.jpg
 presentationForm: mapDigital
 resourceLineage:
 - f918fc62-11a1-40de-8e1d-4e60e517b36b
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -163,7 +253,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110004.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -186,6 +278,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258952614451776'
@@ -195,17 +290,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305630~90076035
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110004.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 3e49b096-d0c1-4e36-9b48-c3d134d2e846
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -214,7 +324,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110005.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -237,6 +349,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418417006411816'
@@ -246,17 +361,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305631~90076034
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110005.jpg
 presentationForm: mapDigital
 resourceLineage:
 - b345d0fb-835c-47c7-8f39-da07234cc1e6
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -265,7 +395,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110006.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -288,6 +420,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577881391625746'
@@ -297,17 +432,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305632~90076033
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110006.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 4e7cce70-c7a3-4b74-97ab-51443947b8c8
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -316,7 +466,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110007.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -339,6 +491,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737345750714063'
@@ -348,17 +503,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305633~90076032
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110007.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 3823366b-b775-49ae-82f7-7d895b256e76
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -367,7 +537,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110008.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -390,6 +562,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896810064296803'
@@ -399,17 +574,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305634~90076031
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110008.jpg
 presentationForm: mapDigital
 resourceLineage:
 - e6187fe8-a6d4-4e6a-8a47-9a9c23fc9ae2
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -418,7 +608,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110009.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -441,6 +633,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.405627431299417'
@@ -450,17 +645,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305635~90076030
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110009.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 093c43ce-52e7-41b1-9287-24c7b6fbf669
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -469,7 +679,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110010.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -492,6 +704,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940082868227676'
@@ -501,17 +716,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305636~90076029
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110010.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 62fe9c3c-e72b-4a16-880a-3f51cbaf6d47
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9 [exemplaire\
-  \ Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -520,7 +750,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110011.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -543,6 +775,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.309952492729735'
@@ -552,17 +787,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305637~90076028
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110011.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 4c084575-98dc-438a-9033-8e6a2095a101
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -571,7 +821,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110012.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -594,6 +846,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.325896701836451'
@@ -603,17 +858,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305638~90076027
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110012.jpg
 presentationForm: mapDigital
 resourceLineage:
 - ae1ef5ca-dc9e-488c-9828-85e953b11877
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -622,7 +892,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110013.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -645,6 +917,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418409122059374'
@@ -654,17 +929,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305639~90076026
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110013.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 522cf30e-7a28-4037-addf-7e58af790212
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -673,7 +963,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110014.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -696,6 +988,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.357785121901173'
@@ -705,17 +1000,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305640~90076025
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110014.jpg
 presentationForm: mapDigital
 resourceLineage:
 - e254249d-df50-4ae4-a660-22ff59c07471
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -724,7 +1034,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110015.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -747,6 +1059,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737293289851142'
@@ -756,17 +1071,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305641~90076024
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110015.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 1893e7c4-ad8a-4c65-b217-85ce62a04d85
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -775,7 +1105,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110016.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -798,6 +1130,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896735315207613'
@@ -807,17 +1142,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305642~90076023
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110016.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 0868c464-0a42-4f25-8e79-52ca786856b9
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -826,7 +1176,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110017.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -849,6 +1201,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.405617727571079'
@@ -858,17 +1213,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305643~90076022
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110017.jpg
 presentationForm: mapDigital
 resourceLineage:
 - d5290569-9078-4964-ade7-c9c20045e8f3
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -877,7 +1247,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110018.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -900,6 +1272,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940141825812157'
@@ -909,17 +1284,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305644~90076021
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110018.jpg
 presentationForm: mapDigital
 resourceLineage:
 - bf9cc22e-de05-4859-a05c-993d2ea24f02
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -928,7 +1318,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110019.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -951,6 +1343,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.30995616052476'
@@ -960,17 +1355,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305645~90076020
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110019.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 1849adcb-bd39-482d-8878-3d89a7f0d037
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -979,7 +1389,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110020.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1002,6 +1414,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.325898141666503'
@@ -1011,17 +1426,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305646~90076019
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110020.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 57d2b5bd-fcd2-404e-8feb-0a59e703d9c1
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1030,7 +1460,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110021.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1053,6 +1485,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418401240703806'
@@ -1062,17 +1497,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305647~90076018
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110021.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 2e8fdc1a-f5b6-4ed2-92a9-2d270c626f2b
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1081,7 +1531,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110022.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1104,6 +1556,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.357782105800326'
@@ -1113,17 +1568,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305648~90076017
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110022.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 771344f8-526a-4d8b-8997-e04efdf8fc48
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1132,7 +1602,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110023.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1155,6 +1627,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.373724084920274'
@@ -1164,17 +1639,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305649~90076016
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110023.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 94a67386-24b0-4c8e-9592-59f3c16a49ba
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1183,7 +1673,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110024.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1206,6 +1698,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.38966605949419'
@@ -1215,17 +1710,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305650~90076015
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110024.jpg
 presentationForm: mapDigital
 resourceLineage:
 - deba243b-9b5d-450d-9c54-2cea796391fa
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1234,7 +1744,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110025.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1257,6 +1769,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.4056080275859952'
@@ -1266,17 +1781,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305651~90076014
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110025.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 6a4e501f-dc64-417a-be8d-760e28e493d4
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1285,7 +1815,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110026.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1308,6 +1840,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.294020076057759'
@@ -1317,17 +1852,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305652~90076013
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110026.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 19bcb25d-c913-4634-91c4-19de6ae00e2c
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1336,7 +1886,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110027.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1359,6 +1911,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.309959826898388'
@@ -1368,17 +1923,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305653~90076012
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110027.jpg
 presentationForm: mapDigital
 resourceLineage:
 - ad35ae03-14c0-4dc2-a2d4-529b9c50d714
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1387,7 +1957,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110028.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1410,6 +1982,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258995809356047'
@@ -1419,17 +1994,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305654~90076011
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110028.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 654a490d-bfff-4355-817e-37816b0acf20
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1438,7 +2028,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110029.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1461,6 +2053,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418393362343335'
@@ -1470,17 +2065,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305655~90076010
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110029.jpg
 presentationForm: mapDigital
 resourceLineage:
 - d4b335d0-820c-4530-941e-26f3bae60fd1
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1489,7 +2099,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110030.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1512,6 +2124,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.357779090859474'
@@ -1521,17 +2136,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305656~90076009
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110030.jpg
 presentationForm: mapDigital
 resourceLineage:
 - e691cdb6-b549-4214-b102-21b92586662d
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1540,7 +2170,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110031.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1563,6 +2195,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.373718842875908'
@@ -1572,17 +2207,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305657~90076008
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110031.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 859f0212-a705-41fd-a13e-1ff3ba4e6a06
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1591,7 +2241,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110032.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1614,6 +2266,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.389658590348556'
@@ -1623,17 +2278,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305658~90076007
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110032.jpg
 presentationForm: mapDigital
 resourceLineage:
 - e273d76a-4fff-45d0-a4b3-32b941a9a0d3
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1642,7 +2312,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110033.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1665,6 +2337,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055983313423193'
@@ -1674,17 +2349,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305659~90076006
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110033.jpg
 presentationForm: mapDigital
 resourceLineage:
 - b281935c-5da2-425a-b99d-3e174309b388
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1693,7 +2383,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110034.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1716,6 +2408,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.29402596725355'
@@ -1725,17 +2420,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305660~90076005
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110034.jpg
 presentationForm: mapDigital
 resourceLineage:
 - c46e4025-0b1d-4468-8501-0a3d555abb6d
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1744,7 +2454,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110035.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1767,6 +2479,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099634918512866'
@@ -1776,17 +2491,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305661~90076004
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110035.jpg
 presentationForm: mapDigital
 resourceLineage:
 - ad30babb-f7df-4454-ad56-4edef9221856
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1795,7 +2525,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110036.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1818,6 +2550,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259010196440437'
@@ -1827,17 +2562,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305662~90076003
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110036.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 8901b553-4db3-4503-827e-ae20760ade70
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1846,7 +2596,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110037.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1869,6 +2621,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418385486976767'
@@ -1878,17 +2633,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305663~90076002
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110037.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 9f7af855-da17-4b5f-9201-ce9f9c011173
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1897,7 +2667,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110038.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1920,6 +2692,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.357776077078042'
@@ -1929,17 +2704,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305664~90076074
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110038.jpg
 presentationForm: mapDigital
 resourceLineage:
 - d93d212a-aa09-44f7-81b6-e59ddf1e811d
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1948,7 +2738,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110039.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -1971,6 +2763,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.373713602850994'
@@ -1980,17 +2775,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305665~90076073
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110039.jpg
 presentationForm: mapDigital
 resourceLineage:
 - e0694c6b-60f4-4285-a4a9-0b27c7b1c5eb
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -1999,7 +2809,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110040.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2022,6 +2834,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.38965112408242'
@@ -2031,17 +2846,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305666~90076072
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110040.jpg
 presentationForm: mapDigital
 resourceLineage:
 - a4836003-eb2e-4f81-9c9e-49e5123d2986
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2050,7 +2880,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110041.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2073,6 +2905,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.405588638838181'
@@ -2082,17 +2917,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305667~90076071
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110041.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 9be9f3ee-d9c9-4c17-8c7d-ead5be00351f
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2101,7 +2951,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110042.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2124,6 +2976,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940318561697213'
@@ -2133,17 +2988,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305668~90076070
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110042.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 72a35047-4309-4013-b6b7-9a5e5b6710bb
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2152,7 +3022,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110043.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2175,6 +3047,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099671553842054'
@@ -2184,17 +3059,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305669~90076069
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110043.jpg
 presentationForm: mapDigital
 resourceLineage:
 - d6ea047d-be3a-4f0c-8761-a97c9502698d
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2203,7 +3093,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110044.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2226,6 +3118,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259024577921092'
@@ -2235,17 +3130,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305670~90076068
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110044.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 8d4d11c0-f859-4485-a404-2b5dfaf2c7af
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2254,7 +3164,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110045.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2277,6 +3189,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.34183776146025'
@@ -2286,17 +3201,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305671~90076067
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110045.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 88af26f8-96bb-45d9-bac8-eb625e03021c
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2305,7 +3235,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110046.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2328,6 +3260,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577730644554604'
@@ -2337,17 +3272,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305672~90076066
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110046.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 0d248cc5-fe48-43a0-8b10-5ad8bce8a1b4
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2356,7 +3306,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110047.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2379,6 +3331,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737083648445565'
@@ -2388,17 +3343,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305673~90076065
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110047.jpg
 presentationForm: mapDigital
 resourceLineage:
 - cceba26c-d4c5-4457-817f-ae4dfc974f0e
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2407,7 +3377,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110048.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2430,6 +3402,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.389643660694374'
@@ -2439,17 +3414,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305674~90076064
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110048.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 2c657415-0dcc-46af-a851-3e7d9d36a0f0
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2458,7 +3448,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110049.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2481,6 +3473,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.405578950071724'
@@ -2490,17 +3485,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305675~90076063
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110049.jpg
 presentationForm: mapDigital
 resourceLineage:
 - dbaf87ba-2f90-4f8b-b4fa-446ef1395086
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2509,7 +3519,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110050.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2532,6 +3544,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940377428074106'
@@ -2541,17 +3556,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305676~90076062
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110050.jpg
 presentationForm: mapDigital
 resourceLineage:
 - f33b2694-034d-47bb-bbdb-d0c8e1bbb012
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2560,7 +3590,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110051.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2583,6 +3615,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.30997081749782'
@@ -2592,17 +3627,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305677~90076061
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110051.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 13ba4cf0-d849-4db9-be4f-306c88987e7a
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2611,7 +3661,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110052.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2634,6 +3686,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259038953800517'
@@ -2643,17 +3698,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305678~90076060
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110052.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 4d597857-051a-40f2-b5f4-e931f7320889
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2662,7 +3732,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110053.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2685,6 +3757,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418369745218897'
@@ -2694,17 +3769,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305679~90076059
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110053.jpg
 presentationForm: mapDigital
 resourceLineage:
 - e5f5e709-ab94-459e-97c1-7be86668f5a9
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2713,7 +3803,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110054.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2736,6 +3828,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.357770052991145'
@@ -2745,17 +3840,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305680~90076058
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110054.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 47941da3-6c20-4306-9903-425bd3bf627b
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2764,7 +3874,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110055.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2787,6 +3899,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.373703128855574'
@@ -2796,17 +3911,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305681~90076057
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110055.jpg
 presentationForm: mapDigital
 resourceLineage:
 - eeb37c27-b0d8-43fb-b46d-08f5d285973c
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2815,7 +3945,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110056.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2838,6 +3970,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896362001829616'
@@ -2847,17 +3982,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305682~90076056
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110056.jpg
 presentationForm: mapDigital
 resourceLineage:
 - daa0a6c9-bd5a-4fcf-851d-c3b56d147b27
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2866,7 +4016,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110057.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2889,6 +4041,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055692650411116'
@@ -2898,17 +4053,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305683~90076055
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110057.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 3d487051-0eea-47ab-bd24-5d5623601172
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2917,7 +4087,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110058.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2940,6 +4112,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.294043627167757'
@@ -2949,17 +4124,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305684~90076054
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110058.jpg
 presentationForm: mapDigital
 resourceLineage:
 - e2186cdf-2368-412d-8166-37742d33e4ba
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -2968,7 +4158,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110059.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -2991,6 +4183,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099744781928218'
@@ -3000,17 +4195,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305685~90076053
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110059.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 417cb6b3-18fd-483d-92ee-c03d0537d1a9
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3019,7 +4229,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110060.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3042,6 +4254,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259053324081593'
@@ -3051,17 +4266,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305686~90076052
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110060.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 3daa68ee-bc5d-47bc-82fa-0c299a4a9023
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3070,7 +4300,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110061.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3093,6 +4325,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418361878824774'
@@ -3102,17 +4337,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305687~90076051
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110061.jpg
 presentationForm: mapDigital
 resourceLineage:
 - a4d33472-18f7-478a-8822-fa821ca0bd42
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3121,7 +4371,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110062.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3144,6 +4396,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577670426845283'
@@ -3153,17 +4408,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305688~90076050
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110062.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 855c0749-fe66-4b95-aac9-21289b8ef41a
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3172,7 +4442,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110063.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3195,6 +4467,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736978948830436'
@@ -3204,17 +4479,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305689~90076049
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110063.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 3274a85b-01d3-49d2-83d2-b82664949c95
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3223,7 +4513,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110064.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3246,6 +4538,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.389628742546772'
@@ -3255,17 +4550,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305690~90076048
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110064.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 8c7e36c8-708c-48bc-9234-c1d720d6eeb9
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3274,7 +4584,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110065.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3297,6 +4609,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055595837444708'
@@ -3306,17 +4621,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305691~90076047
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110065.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 27e21160-a47c-497b-be77-a9d8aac3bd85
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3325,7 +4655,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110066.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3348,6 +4680,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940495092518582'
@@ -3357,17 +4692,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305692~90076046
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110066.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 4a975b7c-5f8f-4566-b21f-9cee18fabe3b
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3376,7 +4726,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110067.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3399,6 +4751,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.309978137469958'
@@ -3408,17 +4763,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305693~90076045
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110067.jpg
 presentationForm: mapDigital
 resourceLineage:
 - ed8d823a-4f34-4910-804c-f80224233bb0
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3427,7 +4797,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110068.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3450,6 +4822,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.32590676887672'
@@ -3459,17 +4834,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305694~90076044
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110068.jpg
 presentationForm: mapDigital
 resourceLineage:
 - dfe76fcb-6e52-4cb2-a804-8b940286a349
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3478,7 +4868,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110069.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3501,6 +4893,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418354015418474'
@@ -3510,17 +4905,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305695~90076043
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110069.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 71959d56-c842-4f1c-b4da-e41318999ecc
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3529,7 +4939,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110070.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3552,6 +4964,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.357764033535036'
@@ -3561,17 +4976,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305696~90076042
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110070.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 8ee2eaa0-6d06-464d-80a3-4e5bc4f62c55
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3580,7 +5010,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110071.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3603,6 +5035,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736926629259845'
@@ -3612,17 +5047,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305697~90076041
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110071.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 913e9d75-8941-49a1-addb-26e5ac7f6ba1
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3631,7 +5081,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110072.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3654,6 +5106,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896212877843945'
@@ -3663,17 +5118,32 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305698~90076040
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110072.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 8128ace7-59d0-4ad2-af46-780a2613ac31
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...
 ---
 associatedResource:
@@ -3682,7 +5152,9 @@ associatedResource:
 - typeOfAssociation: largerWorkCitation
   value: 697871b7-f663-4e0e-8785-c48ecfe05515
 distributionInfo:
-- distributionFormat: JPEG2000
+  distributionFormat: JPEG2000
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110073.jp2
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
@@ -3705,6 +5177,9 @@ distributionInfo:
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
     protocol: WWW:LINK
+events:
+- event: publication
+  value: '2023-09-14'
 extent:
   geoExtent:
     eastBoundLongitude: '2.405549906179961'
@@ -3714,15 +5189,30 @@ extent:
   temporalExtent:
     beginPosition: '1795'
     endPosition: '1795'
+identification:
+  title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
+    \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 identifier: RUMSEY~8~1~305699~90076039
 keywords:
 - typeOfKeyword: taxon
   value: Instantiation
+- typeOfKeyword: place
+  value: Paris
+- typeOfKeyword: theme
+  value: Verniquet
 overview: https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size4/RUMSEY~8~1/179/10110073.jpg
 presentationForm: mapDigital
 resourceLineage:
 - 7f4a725f-084a-4668-87fe-6f434984ba61
-title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
-  \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
-type: Instantiation
+stakeholders:
+  individuals:
+  - name: Edme Verniquet
+    role: originator
+  organisations:
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: publisher
+  - mail: contact@geohistoricaldata.org
+    name: The SoDUCo project
+    role: custodian
 ...

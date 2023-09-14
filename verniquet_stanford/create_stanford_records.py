@@ -9,13 +9,43 @@ import yaml
 import re
 import pandas
 import xml.etree.ElementTree as ET
-
+from datetime import datetime
 
 def main():
     logging.basicConfig(level="INFO")
     collection = "RUMSEY~8~1"
     url = f"https://www.davidrumsey.com/luna/servlet/as/fetchMediaSearch?&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&lc={collection}&fullData=true&q=Pub_List_No=10110.000&bs=80"
     oai_base_url = "https://www.davidrumsey.com/luna/servlet/oai?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:N/A:"
+    events = [
+        {"value": datetime.now().strftime("%Y-%m-%d"), "event": "publication"}
+    ]
+    parisExtent = {
+        "westBoundLongitude": "2.2789487344052968",
+        "eastBoundLongitude": "2.4080435114903960",
+        "southBoundLatitude": "48.8244731921314568",
+        "northBoundLatitude": "48.8904078536729116",
+    }
+    temporalExtent = {"beginPosition": "1784-01-01", "endPosition": "1799-12-31"}
+    keywords = [
+        {"value": "Instantiation", "typeOfKeyword": "taxon"},
+        {"value": "Paris", "typeOfKeyword": "place"},
+        {"value": "Verniquet", "typeOfKeyword": "theme"},
+    ]
+    stakeholders = {
+        "individuals": [{"role": "originator", "name": "Edme Verniquet"}],
+        "organisations": [
+            {
+                "role": "publisher",
+                "name": "The SoDUCo project",
+                "mail": "contact@geohistoricaldata.org",
+            },
+            {
+                "role": "custodian",
+                "name": "The SoDUCo project",
+                "mail": "contact@geohistoricaldata.org",
+            },
+        ],
+    }
     associatedResources = [
         {
             "value": "fb00cc18-f7f5-499f-bd68-7e725fa7af9e",  # Atlas du plan général de la Ville de Paris [exemplaire Stanford G1844.P3 V4 1795 F]
@@ -131,19 +161,16 @@ def main():
                     }
                 )
                 instance = {
-                    "type": str("Instantiation"),
                     "identifier": id,
-                    "title": name,
+                    "identification": {
+                        "title": name
+                    },
+                    "events": events,
+                    "keywords": keywords,
                     # 'pub_title': label,
                     "overview": identifiers[1].text,
                     "associatedResource": associatedResources,
-                    "keywords": [{"value": "Instantiation", "typeOfKeyword": "taxon"}],
-                    "distributionInfo": [
-                        {
-                            "distributionFormat": "JPEG2000",
-                            "onlineResources": online_resources,
-                        }
-                    ],
+                    "stakeholders": stakeholders,
                 }
                 if theoretical_sheet:
                     instance.update({"resourceLineage": [theoretical_sheet]})
@@ -157,7 +184,13 @@ def main():
                     instance.update({"presentationForm": "mapDigital"})
                     addFiles(str(10110001 + number), online_resources)
                 else:
-                    instance.update({"extent": {"temporalExtent": {"beginPosition": dates[0].text,"endPosition": dates[1].text}}})
+                    instance.update({"extent": {"geoExtent": parisExtent, "temporalExtent": {"beginPosition": dates[0].text,"endPosition": dates[1].text}}})
+                instance.update({"distributionInfo": {
+                    "distributor": "The SoDUCo Project",
+                    "distributor_mail": "contact@geohistoricaldata.org",
+                    "distributionFormat": "JPEG2000",
+                    "onlineResources": online_resources,
+                }})
                 documents[instance["identifier"]] = instance
 
         # Apply the patch file
