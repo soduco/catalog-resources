@@ -1,103 +1,96 @@
 ---
-associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
-distributionInfo:
-  distributor: The SoDUCo Project
-  distributor_mail: contact@geohistoricaldata.org
-events:
-- event: publication
-  value: '2023-08-30'
-extent:
-  geoExtent:
-    geoExtent:
-      eastBoundLongitude: '2.4080435114903960'
-      northBoundLatitude: '48.8904078536729116'
-      southBoundLatitude: '48.8244731921314568'
-      westBoundLongitude: '2.2789487344052968'
-  temporalExtent:
-    beginPosition: '1784-01-01'
-    endPosition: '1799-12-31'
+identifier: TITLE
 identification:
   title: Atlas national de la Ville de Paris, Page de titre
-identifier: TITLE
-keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
-associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
-distributionInfo:
-  distributor: The SoDUCo Project
-  distributor_mail: contact@geohistoricaldata.org
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
-    geoExtent:
-      eastBoundLongitude: '2.4080435114903960'
-      northBoundLatitude: '48.8904078536729116'
-      southBoundLatitude: '48.8244731921314568'
-      westBoundLongitude: '2.2789487344052968'
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: Atlas national de la Ville de Paris, Carte d'assemblage
-identifier: TA
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: TA
+identification:
+  title: Atlas national de la Ville de Paris, Carte d'assemblage
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1784-01-01'
+    endPosition: '1799-12-31'
+keywords:
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
+associatedResource:
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '1'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 1"
+events:
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.294002388781319'
@@ -107,40 +100,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 1"
-identifier: '1'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '2'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 2"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.309948823512562'
@@ -150,40 +143,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 2"
-identifier: '2'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '3'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 3"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258952614451776'
@@ -193,40 +186,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 3"
-identifier: '3'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '4'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 4"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418417006411816'
@@ -236,40 +229,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 4"
-identifier: '4'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '5'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 5"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577881391625746'
@@ -279,40 +272,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 5"
-identifier: '5'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '6'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 6"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737345750714063'
@@ -322,40 +315,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 6"
-identifier: '6'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '7'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 7"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896810064296803'
@@ -365,40 +358,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 7"
-identifier: '7'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '8'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 8"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.405627431299417'
@@ -408,40 +401,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 8"
-identifier: '8'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '9'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 9"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940082868227676'
@@ -451,40 +444,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 9"
-identifier: '9'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '10'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 10"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.309952492729735'
@@ -494,40 +487,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 10"
-identifier: '10'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '11'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 11"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.325896701836451'
@@ -537,40 +530,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 11"
-identifier: '11'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '12'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 12"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418409122059374'
@@ -580,40 +573,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 12"
-identifier: '12'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '13'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 13"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.357785121901173'
@@ -623,40 +616,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 13"
-identifier: '13'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '14'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 14"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737293289851142'
@@ -666,40 +659,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 14"
-identifier: '14'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '15'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 15"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896735315207613'
@@ -709,40 +702,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 15"
-identifier: '15'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '16'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 16"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.405617727571079'
@@ -752,40 +745,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 16"
-identifier: '16'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '17'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 17"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940141825812157'
@@ -795,40 +788,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 17"
-identifier: '17'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '18'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 18"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.30995616052476'
@@ -838,40 +831,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 18"
-identifier: '18'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '19'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 19"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.325898141666503'
@@ -881,40 +874,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 19"
-identifier: '19'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '20'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 20"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418401240703806'
@@ -924,40 +917,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 20"
-identifier: '20'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '21'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 21"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.357782105800326'
@@ -967,40 +960,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 21"
-identifier: '21'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '22'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 22"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.373724084920274'
@@ -1010,40 +1003,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 22"
-identifier: '22'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '23'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 23"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.38966605949419'
@@ -1053,40 +1046,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 23"
-identifier: '23'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '24'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 24"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.4056080275859952'
@@ -1096,40 +1089,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 24"
-identifier: '24'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '25'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 25"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.294020076057759'
@@ -1139,40 +1132,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 25"
-identifier: '25'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '26'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 26"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.309959826898388'
@@ -1182,40 +1175,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 26"
-identifier: '26'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '27'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 27"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258995809356047'
@@ -1225,40 +1218,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 27"
-identifier: '27'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '28'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 28"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418393362343335'
@@ -1268,40 +1261,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 28"
-identifier: '28'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '29'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 29"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.357779090859474'
@@ -1311,40 +1304,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 29"
-identifier: '29'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '30'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 30"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.373718842875908'
@@ -1354,40 +1347,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 30"
-identifier: '30'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '31'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 31"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.389658590348556'
@@ -1397,40 +1390,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 31"
-identifier: '31'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '32'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 32"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055983313423193'
@@ -1440,40 +1433,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 32"
-identifier: '32'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '33'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 33"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.29402596725355'
@@ -1483,40 +1476,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 33"
-identifier: '33'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '34'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 34"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099634918512866'
@@ -1526,40 +1519,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 34"
-identifier: '34'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '35'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 35"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259010196440437'
@@ -1569,40 +1562,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 35"
-identifier: '35'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '36'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 36"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418385486976767'
@@ -1612,40 +1605,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 36"
-identifier: '36'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '37'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 37"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.357776077078042'
@@ -1655,40 +1648,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 37"
-identifier: '37'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '38'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 38"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.373713602850994'
@@ -1698,40 +1691,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 38"
-identifier: '38'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '39'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 39"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.38965112408242'
@@ -1741,40 +1734,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 39"
-identifier: '39'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '40'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 40"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.405588638838181'
@@ -1784,40 +1777,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 40"
-identifier: '40'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '41'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 41"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940318561697213'
@@ -1827,40 +1820,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 41"
-identifier: '41'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '42'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 42"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099671553842054'
@@ -1870,40 +1863,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 42"
-identifier: '42'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '43'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 43"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259024577921092'
@@ -1913,40 +1906,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 43"
-identifier: '43'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '44'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 44"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.34183776146025'
@@ -1956,40 +1949,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 44"
-identifier: '44'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '45'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 45"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577730644554604'
@@ -1999,40 +1992,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 45"
-identifier: '45'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '46'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 46"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737083648445565'
@@ -2042,40 +2035,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 46"
-identifier: '46'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '47'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 47"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.389643660694374'
@@ -2085,40 +2078,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 47"
-identifier: '47'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '48'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 48"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.405578950071724'
@@ -2128,40 +2121,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 48"
-identifier: '48'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '49'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 49"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940377428074106'
@@ -2171,40 +2164,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 49"
-identifier: '49'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '50'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 50"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.30997081749782'
@@ -2214,40 +2207,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 50"
-identifier: '50'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '51'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 51"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259038953800517'
@@ -2257,40 +2250,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 51"
-identifier: '51'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '52'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 52"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418369745218897'
@@ -2300,40 +2293,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 52"
-identifier: '52'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '53'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 53"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.357770052991145'
@@ -2343,40 +2336,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 53"
-identifier: '53'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '54'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 54"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.373703128855574'
@@ -2386,40 +2379,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 54"
-identifier: '54'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '55'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 55"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896362001829616'
@@ -2429,40 +2422,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 55"
-identifier: '55'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '56'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 56"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055692650411116'
@@ -2472,40 +2465,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 56"
-identifier: '56'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '57'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 57"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.294043627167757'
@@ -2515,40 +2508,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 57"
-identifier: '57'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '58'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 58"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099744781928218'
@@ -2558,40 +2551,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 58"
-identifier: '58'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '59'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 59"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259053324081593'
@@ -2601,40 +2594,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 59"
-identifier: '59'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '60'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 60"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418361878824774'
@@ -2644,40 +2637,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 60"
-identifier: '60'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '61'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 61"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577670426845283'
@@ -2687,40 +2680,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 61"
-identifier: '61'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '62'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 62"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736978948830436'
@@ -2730,40 +2723,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 62"
-identifier: '62'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '63'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 63"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.389628742546772'
@@ -2773,40 +2766,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 63"
-identifier: '63'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '64'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 64"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055595837444708'
@@ -2816,40 +2809,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 64"
-identifier: '64'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '65'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 65"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940495092518582'
@@ -2859,40 +2852,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 65"
-identifier: '65'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '66'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 66"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.309978137469958'
@@ -2902,40 +2895,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 66"
-identifier: '66'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '67'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 67"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.32590676887672'
@@ -2945,40 +2938,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 67"
-identifier: '67'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '68'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 68"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418354015418474'
@@ -2988,40 +2981,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 68"
-identifier: '68'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '69'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 69"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.357764033535036'
@@ -3031,40 +3024,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 69"
-identifier: '69'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '70'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 70"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736926629259845'
@@ -3074,40 +3067,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 70"
-identifier: '70'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '71'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 71"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896212877843945'
@@ -3117,40 +3110,40 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 71"
-identifier: '71'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
-stakeholders:
-  individuals:
-  - name: Edme Verniquet
-    role: originator
-  organisations:
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
-    name: The SoDUCo project
-    role: custodian
-...
----
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
 associatedResource:
-- typeOfAssociation: largerWorkCitation
-  value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
-- typeOfAssociation: largerWorkCitation
-  value: 697871b7-f663-4e0e-8785-c48ecfe05515
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+...
+---
+identifier: '72'
+identification:
+  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 72"
 events:
-- event: publication
-  value: '2023-08-30'
+- value: '2023-09-14'
+  event: publication
 extent:
   geoExtent:
     eastBoundLongitude: '2.405549906179961'
@@ -3160,25 +3153,30 @@ extent:
   temporalExtent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
-identification:
-  title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 72"
-identifier: '72'
 keywords:
-- typeOfKeyword: taxon
-  value: RecordSet
-- typeOfKeyword: place
-  value: Paris
-- typeOfKeyword: theme
-  value: Verniquet
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
+associatedResource:
+- value: 6a48afcf-6bdc-4880-b2d6-dd8e557253c2
+  typeOfAssociation: largerWorkCitation
+- value: 697871b7-f663-4e0e-8785-c48ecfe05515
+  typeOfAssociation: largerWorkCitation
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
 stakeholders:
   individuals:
-  - name: Edme Verniquet
-    role: originator
+  - role: originator
+    name: Edme Verniquet
   organisations:
-  - mail: contact@geohistoricaldata.org
+  - role: publisher
     name: The SoDUCo project
-    role: publisher
-  - mail: contact@geohistoricaldata.org
+    mail: contact@geohistoricaldata.org
+  - role: custodian
     name: The SoDUCo project
-    role: custodian
+    mail: contact@geohistoricaldata.org
 ...
