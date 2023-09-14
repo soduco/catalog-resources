@@ -23,7 +23,7 @@ def main():
         }
         temporalExtent = {"beginPosition": "1784-01-01", "endPosition": "1799-12-31"}
         keywords = [
-            {"value": "RecordSet", "typeOfKeyword": "taxon"},
+            {"value": "Record", "typeOfKeyword": "taxon"},
             {"value": "Paris", "typeOfKeyword": "place"},
             {"value": "Verniquet", "typeOfKeyword": "theme"},
         ]
