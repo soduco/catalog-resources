@@ -2,14 +2,14 @@
 
 import json
 import logging
-import urllib.request
-import sys
-import os.path
-import yaml
 import re
-import pandas
+import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
+
+import pandas
+import yaml
+
 
 def main():
     logging.basicConfig(level="INFO")
@@ -28,7 +28,7 @@ def main():
         "southBoundLatitude": "48.8244731921314568",
         "northBoundLatitude": "48.8904078536729116",
     }
-    temporalExtent = {"beginPosition": "1784-01-01", "endPosition": "1799-12-31"}
+    # temporalExtent = {"beginPosition": "1784-01-01", "endPosition": "1799-12-31"}
     keywords = [
         {"value": "Instantiation", "typeOfKeyword": "taxon"},
         {"value": "Paris", "typeOfKeyword": "place"},
@@ -154,15 +154,12 @@ def main():
                     # name = f'Atlas national de la Ville de Paris, feuille N.[uméro] {number} [exemplaire Stanford G1844.P3 V4 1795 F]]'
                     theoretical_sheet = lineage.loc[str(number), "uuid"]
                 logging.debug(f"  theoretical_sheet: {theoretical_sheet}")
-                online_resources = []
-                online_resources.append(
-                    {
-                        "linkage": href,
-                        "protocol": "WWW:LINK",
-                        "name": "Scan de la Collection David Rumsey de bibliothèque de l'Université de Stanford",
-                        "onlineFunctionCode": "download",
-                    }
-                )
+                online_resources = [{
+                    "linkage": href,
+                    "protocol": "WWW:LINK",
+                    "name": "Scan de la Collection David Rumsey de bibliothèque de l'Université de Stanford",
+                    "onlineFunctionCode": "download",
+                }]
                 instance = {
                     "identifier": id,
                     "identification": {
@@ -181,13 +178,14 @@ def main():
                     instance.update(
                         {"extent": {
                             "geoExtent": data[number]['geoExtent'],
-                            "temporalExtent": {"beginPosition": dates[0].text,"endPosition": dates[1].text}
+                            "temporalExtent": {"beginPosition": dates[0].text, "endPosition": dates[1].text}
                         }}
                     )
                     instance.update({"presentationForm": "mapDigital"})
                     addFiles(str(10110001 + number), online_resources)
                 else:
-                    instance.update({"extent": {"geoExtent": parisExtent, "temporalExtent": {"beginPosition": dates[0].text,"endPosition": dates[1].text}}})
+                    instance.update(
+                        {"extent": {"geoExtent": parisExtent, "temporalExtent": {"beginPosition": dates[0].text, "endPosition": dates[1].text}}})
                 instance.update({"distributionInfo": {
                     "distributor": "The SoDUCo Project",
                     "distributor_mail": "contact@geohistoricaldata.org",
