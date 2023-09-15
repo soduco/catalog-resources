@@ -17,7 +17,10 @@ def main():
     url = f"https://www.davidrumsey.com/luna/servlet/as/fetchMediaSearch?&sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No&lc={collection}&fullData=true&q=Pub_List_No=10110.000&bs=80"
     oai_base_url = "https://www.davidrumsey.com/luna/servlet/oai?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:N/A:"
     events = [
-        {"value": datetime.now().strftime("%Y-%m-%d"), "event": "publication"}
+        {
+            "value": str(datetime.now().strftime("%Y-%m-%d")),
+            "event": str("publication")
+        }
     ]
     parisExtent = {
         "westBoundLongitude": "2.2789487344052968",
@@ -202,7 +205,7 @@ def main():
 
         with open("verniquet_stanford_records.yaml", "w") as output_file:
             for res in documents.values():
-                yaml.dump(res, output_file, explicit_start=True, explicit_end=True)
+                yaml.dump(res, output_file, explicit_start=True, explicit_end=True, sort_keys=False)
 
 
 if __name__ == "__main__":
