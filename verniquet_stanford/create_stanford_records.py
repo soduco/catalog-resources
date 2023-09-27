@@ -80,12 +80,20 @@ def main():
             files = []
 
             def resource(link: str, name: str):
-                return {
-                    "linkage": link,
-                    "protocol": "WWW:LINK",
-                    "name": name,
-                    "onlineFunctionCode": "download",
-                }
+                if re.search("(allmaps)", link):
+                    return {
+                        "linkage": link,
+                        "protocol": "WWW:LINK",
+                        "name": name,
+                        "onlineFunctionCode": "download",
+                    }
+                else:
+                    return {
+                        "linkage": link,
+                        "protocol": "WWW:DOWNLOAD",
+                        "name": name,
+                        "onlineFunctionCode": "download",
+                    }
 
             if label == prefix + ".jpg.points":
                 logging.debug(f"points found: {fileId}")
@@ -156,7 +164,7 @@ def main():
                 logging.debug(f"  theoretical_sheet: {theoretical_sheet}")
                 online_resources = [{
                     "linkage": href,
-                    "protocol": "WWW:LINK",
+                    "protocol": "WWW:DOWNLOAD",
                     "name": "Scan de la Collection David Rumsey de bibliothèque de l'Université de Stanford",
                     "onlineFunctionCode": "download",
                 }]

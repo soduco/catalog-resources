@@ -4,7 +4,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
     \ Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -47,7 +47,7 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110001.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
@@ -58,7 +58,7 @@ identification:
   title: "Composite : Feuilles 1 \xE0 72 de l'Atlas du plan g\xE9n\xE9ral de la ville\
     \ de Paris [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -99,7 +99,7 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110074.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
@@ -110,7 +110,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -154,12 +154,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110002.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002486
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002486
@@ -171,7 +171,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002836
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -181,7 +181,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -225,12 +225,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110003.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002620
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002620
@@ -242,7 +242,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002859
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -252,7 +252,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -296,12 +296,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110004.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002632
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002632
@@ -313,7 +313,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002697
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -323,7 +323,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -367,12 +367,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110005.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002513
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002513
@@ -384,7 +384,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002804
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -394,7 +394,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -438,12 +438,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110006.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002797
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002797
@@ -455,7 +455,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002752
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -465,7 +465,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -509,12 +509,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110007.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002526
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002526
@@ -526,7 +526,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002814
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -536,7 +536,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -580,12 +580,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110008.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002558
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002558
@@ -597,7 +597,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002692
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -607,7 +607,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -651,12 +651,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110009.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002646
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002646
@@ -668,7 +668,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002609
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -678,7 +678,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -722,12 +722,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110010.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002765
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002765
@@ -739,7 +739,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002572
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -749,7 +749,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -793,12 +793,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110011.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002720
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002720
@@ -810,7 +810,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002554
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -820,7 +820,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -864,12 +864,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110012.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002796
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002796
@@ -881,7 +881,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002545
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -891,7 +891,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -935,12 +935,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110013.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002641
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002641
@@ -952,7 +952,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002789
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -962,7 +962,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1006,12 +1006,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110014.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002770
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002770
@@ -1023,7 +1023,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002764
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1033,7 +1033,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1077,12 +1077,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110015.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002525
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002525
@@ -1094,7 +1094,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002869
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1104,7 +1104,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1148,12 +1148,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110016.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002678
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002678
@@ -1165,7 +1165,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002863
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1175,7 +1175,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1219,12 +1219,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110017.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002627
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002627
@@ -1236,7 +1236,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002589
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1246,7 +1246,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1290,12 +1290,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110018.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002817
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002817
@@ -1307,7 +1307,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002533
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1317,7 +1317,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1361,12 +1361,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110019.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002604
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002604
@@ -1378,7 +1378,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002782
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1388,7 +1388,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1432,12 +1432,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110020.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002468
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002468
@@ -1449,7 +1449,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002522
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1459,7 +1459,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1503,12 +1503,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110021.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002827
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002827
@@ -1520,7 +1520,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002713
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1530,7 +1530,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1574,12 +1574,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110022.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002759
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002759
@@ -1591,7 +1591,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002455
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1601,7 +1601,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1645,12 +1645,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110023.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002595
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002595
@@ -1662,7 +1662,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002495
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1672,7 +1672,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1716,12 +1716,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110024.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002885
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002885
@@ -1733,7 +1733,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002871
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1743,7 +1743,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1787,12 +1787,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110025.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002559
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002559
@@ -1804,7 +1804,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002696
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1814,7 +1814,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1858,12 +1858,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110026.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002839
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002839
@@ -1875,7 +1875,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002481
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1885,7 +1885,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1929,12 +1929,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110027.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002864
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002864
@@ -1946,7 +1946,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002543
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -1956,7 +1956,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2000,12 +2000,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110028.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002527
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002527
@@ -2017,7 +2017,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002820
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2027,7 +2027,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2071,12 +2071,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110029.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002536
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002536
@@ -2088,7 +2088,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002777
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2098,7 +2098,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2142,12 +2142,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110030.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002832
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002832
@@ -2159,7 +2159,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002575
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2169,7 +2169,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2213,12 +2213,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110031.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002815
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002815
@@ -2230,7 +2230,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002686
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2240,7 +2240,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2284,12 +2284,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110032.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002591
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002591
@@ -2301,7 +2301,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002698
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2311,7 +2311,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2355,12 +2355,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110033.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002507
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002507
@@ -2372,7 +2372,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002619
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2382,7 +2382,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2426,12 +2426,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110034.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002634
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002634
@@ -2443,7 +2443,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002828
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2453,7 +2453,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2497,12 +2497,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110035.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002614
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002614
@@ -2514,7 +2514,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002505
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2524,7 +2524,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2568,12 +2568,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110036.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002617
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002617
@@ -2585,7 +2585,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002520
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2595,7 +2595,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2639,12 +2639,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110037.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002621
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002621
@@ -2656,7 +2656,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002464
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2666,7 +2666,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2710,12 +2710,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110038.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002626
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002626
@@ -2727,7 +2727,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002729
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2737,7 +2737,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2781,12 +2781,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110039.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002718
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002718
@@ -2798,7 +2798,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002825
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2808,7 +2808,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2852,12 +2852,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110040.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002594
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002594
@@ -2869,7 +2869,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002571
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2879,7 +2879,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2923,12 +2923,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110041.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002661
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002661
@@ -2940,7 +2940,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002746
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -2950,7 +2950,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2994,12 +2994,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110042.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002794
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002794
@@ -3011,7 +3011,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002862
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3021,7 +3021,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3065,12 +3065,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110043.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002470
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002470
@@ -3082,7 +3082,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002653
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3092,7 +3092,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3136,12 +3136,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110044.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002633
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002633
@@ -3153,7 +3153,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002484
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3163,7 +3163,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3207,12 +3207,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110045.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002663
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002663
@@ -3224,7 +3224,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002844
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3234,7 +3234,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3278,12 +3278,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110046.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002531
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002531
@@ -3295,7 +3295,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002719
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3305,7 +3305,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3349,12 +3349,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110047.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002695
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002695
@@ -3366,7 +3366,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002636
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3376,7 +3376,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3420,12 +3420,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110048.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002503
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002503
@@ -3437,7 +3437,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002561
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3447,7 +3447,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3491,12 +3491,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110049.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002861
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002861
@@ -3508,7 +3508,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002510
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3518,7 +3518,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3562,12 +3562,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110050.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002516
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002516
@@ -3579,7 +3579,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002795
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3589,7 +3589,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3633,12 +3633,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110051.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002649
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002649
@@ -3650,7 +3650,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002494
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3660,7 +3660,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3704,12 +3704,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110052.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002818
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002818
@@ -3721,7 +3721,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002564
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3731,7 +3731,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3775,12 +3775,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110053.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002624
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002624
@@ -3792,7 +3792,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002498
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3802,7 +3802,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3846,12 +3846,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110054.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002489
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002489
@@ -3863,7 +3863,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002460
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3873,7 +3873,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3917,12 +3917,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110055.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002602
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002602
@@ -3934,7 +3934,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002705
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -3944,7 +3944,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3988,12 +3988,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110056.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002566
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002566
@@ -4005,7 +4005,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002724
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4015,7 +4015,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4059,12 +4059,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110057.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002472
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002472
@@ -4076,7 +4076,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002739
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4086,7 +4086,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4130,12 +4130,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110058.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002541
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002541
@@ -4147,7 +4147,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002798
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4157,7 +4157,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4201,12 +4201,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110059.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002650
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002650
@@ -4218,7 +4218,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002585
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4228,7 +4228,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4272,12 +4272,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110060.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002751
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002751
@@ -4289,7 +4289,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002555
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4299,7 +4299,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4343,12 +4343,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110061.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002855
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002855
@@ -4360,7 +4360,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002717
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4370,7 +4370,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4414,12 +4414,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110062.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002843
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002843
@@ -4431,7 +4431,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002856
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4441,7 +4441,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4485,12 +4485,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110063.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002607
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002607
@@ -4502,7 +4502,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002582
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4512,7 +4512,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4556,12 +4556,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110064.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002597
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002597
@@ -4573,7 +4573,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002680
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4583,7 +4583,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4627,12 +4627,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110065.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002465
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002465
@@ -4644,7 +4644,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002733
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4654,7 +4654,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4698,12 +4698,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110066.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002668
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002668
@@ -4715,7 +4715,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002656
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4725,7 +4725,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4769,12 +4769,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110067.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002496
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002496
@@ -4786,7 +4786,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002638
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4796,7 +4796,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4840,12 +4840,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110068.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002623
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002623
@@ -4857,7 +4857,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002714
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4867,7 +4867,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4911,12 +4911,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110069.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002671
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002671
@@ -4928,7 +4928,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002529
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -4938,7 +4938,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4982,12 +4982,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110070.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002521
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002521
@@ -4999,7 +4999,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002662
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -5009,7 +5009,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -5053,12 +5053,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110071.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002681
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002681
@@ -5070,7 +5070,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002781
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -5080,7 +5080,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -5124,12 +5124,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110072.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002487
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002487
@@ -5141,7 +5141,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002475
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...
@@ -5151,7 +5151,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -5195,12 +5195,12 @@ distributionInfo:
   distributionFormat: JPEG2000
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110073.jp2
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002675
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: ' AllMaps annotations'
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002675
@@ -5212,7 +5212,7 @@ distributionInfo:
     name: AllMaps interactive map
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002857
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 ...

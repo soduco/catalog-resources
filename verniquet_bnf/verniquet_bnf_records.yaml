@@ -4,7 +4,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -39,7 +39,7 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f1/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
 extent:
@@ -58,7 +58,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Carte d'assemblage [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -93,7 +93,7 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f2/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
 extent:
@@ -112,7 +112,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -147,19 +147,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f3/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002512
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002806
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002793
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -179,7 +179,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -214,19 +214,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f4/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002761
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002740
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002552
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -246,7 +246,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -281,19 +281,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f5/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002687
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002461
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002523
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -313,7 +313,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -348,19 +348,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f6/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002878
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002551
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002630
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -380,7 +380,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -415,19 +415,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f7/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002748
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002785
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002583
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -447,7 +447,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -482,19 +482,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f8/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002509
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002744
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002755
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -514,7 +514,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -549,19 +549,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f9/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002773
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002771
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002584
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -581,7 +581,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -616,19 +616,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f10/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002819
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002732
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002467
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -648,7 +648,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -683,19 +683,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f11/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002500
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002547
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002672
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -715,7 +715,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -750,19 +750,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f12/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002548
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002471
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002573
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -782,7 +782,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -817,19 +817,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f13/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002726
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002674
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002463
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -849,7 +849,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -884,19 +884,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f14/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002581
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002747
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002873
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -916,7 +916,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -951,19 +951,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f15/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002689
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002469
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002567
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -983,7 +983,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1018,19 +1018,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f16/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002628
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002750
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002640
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1050,7 +1050,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1085,19 +1085,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f17/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002780
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002458
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002767
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1117,7 +1117,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1152,19 +1152,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f18/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002737
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002491
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002877
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1184,7 +1184,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1219,19 +1219,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f19/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002701
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002480
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002688
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1251,7 +1251,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1286,19 +1286,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f20/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002651
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002629
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002550
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1318,7 +1318,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1353,19 +1353,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f21/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002493
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002622
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002887
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1385,7 +1385,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1420,19 +1420,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f22/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002779
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002643
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002679
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1452,7 +1452,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1487,19 +1487,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f23/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002742
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002822
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002787
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1519,7 +1519,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1554,19 +1554,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f24/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002544
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002631
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002884
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1586,7 +1586,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1621,19 +1621,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f25/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002867
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002654
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002874
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1653,7 +1653,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1688,19 +1688,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f26/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002840
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002784
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002778
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1720,7 +1720,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1755,19 +1755,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f27/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002462
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002791
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002786
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1787,7 +1787,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1822,19 +1822,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f28/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002549
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002673
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002677
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1854,7 +1854,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1889,19 +1889,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f29/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002788
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002600
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002657
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1921,7 +1921,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -1956,19 +1956,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f30/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002886
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002598
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002736
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -1988,7 +1988,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2023,19 +2023,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f31/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002849
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002774
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002642
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2055,7 +2055,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2090,19 +2090,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f32/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002515
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002580
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002685
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2122,7 +2122,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2157,19 +2157,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f33/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002790
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002728
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002563
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2189,7 +2189,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2224,19 +2224,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f34/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002868
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002466
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002845
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2256,7 +2256,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2291,19 +2291,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f35/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002570
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002731
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002801
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2323,7 +2323,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2358,19 +2358,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f36/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002647
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002553
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002635
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2390,7 +2390,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2425,19 +2425,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f37/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002666
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002763
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002823
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2457,7 +2457,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2492,19 +2492,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f38/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002875
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002664
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002538
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2524,7 +2524,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2559,19 +2559,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f39/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002722
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002808
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002485
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2591,7 +2591,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2626,19 +2626,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f40/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002586
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002824
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002802
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2658,7 +2658,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2693,19 +2693,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f41/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002852
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002534
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002850
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2725,7 +2725,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2760,19 +2760,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f42/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002579
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002612
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002592
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2792,7 +2792,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2827,19 +2827,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f43/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002810
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002511
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002699
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2859,7 +2859,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2894,19 +2894,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f44/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002528
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002670
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002569
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2926,7 +2926,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -2961,19 +2961,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f45/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002847
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002811
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002805
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -2993,7 +2993,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3028,19 +3028,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f46/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002837
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002723
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002478
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3060,7 +3060,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3095,19 +3095,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f47/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002883
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002888
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002613
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3127,7 +3127,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3162,19 +3162,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f48/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002611
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002851
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002865
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3194,7 +3194,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3229,19 +3229,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f49/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002532
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002546
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002474
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3261,7 +3261,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3296,19 +3296,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f50/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002530
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002757
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002703
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3328,7 +3328,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3363,19 +3363,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f51/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002508
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002693
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002792
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3395,7 +3395,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3430,19 +3430,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f52/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002659
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002879
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002762
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3462,7 +3462,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3497,19 +3497,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f53/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002610
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002813
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002593
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3529,7 +3529,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3564,19 +3564,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f54/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002676
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002501
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002841
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3596,7 +3596,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3631,19 +3631,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f55/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002574
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002601
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002599
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3663,7 +3663,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3698,19 +3698,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f56/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002517
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002809
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002482
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3730,7 +3730,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3765,19 +3765,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f57/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002753
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002658
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002835
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3797,7 +3797,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3832,19 +3832,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f58/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002565
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002608
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002578
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3864,7 +3864,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3899,19 +3899,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f59/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002488
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002816
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002616
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3931,7 +3931,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -3966,19 +3966,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f60/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002504
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002702
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002800
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -3998,7 +3998,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4033,19 +4033,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f61/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002858
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002821
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002735
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4065,7 +4065,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4100,19 +4100,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f62/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002562
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002876
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002745
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4132,7 +4132,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4167,19 +4167,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f63/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002756
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002768
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002783
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4199,7 +4199,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4234,19 +4234,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f64/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002618
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002540
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002848
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4266,7 +4266,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4301,19 +4301,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f65/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002476
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002754
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002691
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4333,7 +4333,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4368,19 +4368,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f66/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002690
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002606
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002860
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4400,7 +4400,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4435,19 +4435,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f67/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002596
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002587
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002535
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4467,7 +4467,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4502,19 +4502,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f68/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002667
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002882
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002833
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4534,7 +4534,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4569,19 +4569,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f69/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002749
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002459
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002524
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4601,7 +4601,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4636,19 +4636,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f70/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002799
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002866
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002479
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4668,7 +4668,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4703,19 +4703,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f71/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002711
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002660
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002760
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4735,7 +4735,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4770,19 +4770,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f72/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002519
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002473
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002772
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4802,7 +4802,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4837,19 +4837,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f73/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002769
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002725
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002838
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital
@@ -4869,7 +4869,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-15'
+- value: '2023-09-27'
   event: publication
 keywords:
 - value: Instantiation
@@ -4904,19 +4904,19 @@ distributionInfo:
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f74/full/full/0/native.jpg
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Scan de la BnF
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002854
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing point file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002870
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferencing AllMaps annotation file
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002700
-    protocol: WWW:LINK
+    protocol: WWW:DOWNLOAD
     name: Georeferenced tiff (geotif)
     onlineFunctionCode: download
 presentationForm: mapDigital

@@ -82,7 +82,7 @@ def main():
             if resource_name:
                 resource_list.append({
                         'linkage': link,
-                        'protocol': "WWW:LINK",
+                        'protocol': "WWW:DOWNLOAD",
                         'name': resource_name,
                         'onlineFunctionCode': "download"
                 })
@@ -124,7 +124,7 @@ def main():
                 logging.debug(f"  canvas number: {number}")
                 online_resources = [{
                     'linkage': canvas_native,
-                    'protocol': "WWW:LINK",
+                    'protocol': "WWW:DOWNLOAD",
                     'name': "Scan de la BnF",
                     'onlineFunctionCode': "download"
                 }]
