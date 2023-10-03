@@ -3,7 +3,7 @@ identifier: TITLE
 identification:
   title: Atlas national de la Ville de Paris, Page de titre
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -29,6 +29,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -37,16 +38,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: TA
 identification:
   title: Atlas national de la Ville de Paris, Carte d'assemblage
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -72,6 +75,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -80,16 +84,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '1'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 1"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -115,6 +121,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -123,16 +130,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '2'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 2"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -158,6 +167,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -166,16 +176,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '3'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 3"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -201,6 +213,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -209,16 +222,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '4'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 4"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -244,6 +259,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -252,16 +268,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '5'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 5"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -287,6 +305,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -295,16 +314,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '6'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 6"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -330,6 +351,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -338,16 +360,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '7'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 7"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -373,6 +397,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -381,16 +406,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '8'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 8"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -416,6 +443,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -424,16 +452,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '9'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 9"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -459,6 +489,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -467,16 +498,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '10'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 10"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -502,6 +535,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -510,16 +544,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '11'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 11"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -545,6 +581,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -553,16 +590,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '12'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 12"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -588,6 +627,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -596,16 +636,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '13'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 13"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -631,6 +673,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -639,16 +682,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '14'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 14"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -674,6 +719,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -682,16 +728,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '15'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 15"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -717,6 +765,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -725,16 +774,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '16'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 16"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -760,6 +811,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -768,16 +820,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '17'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 17"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -803,6 +857,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -811,16 +866,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '18'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 18"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -846,6 +903,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -854,16 +912,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '19'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 19"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -889,6 +949,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -897,16 +958,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '20'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 20"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -932,6 +995,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -940,16 +1004,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '21'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 21"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -975,6 +1041,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -983,16 +1050,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '22'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 22"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1018,6 +1087,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1026,16 +1096,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '23'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 23"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1061,6 +1133,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1069,16 +1142,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '24'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 24"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1104,6 +1179,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1112,16 +1188,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '25'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 25"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1147,6 +1225,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1155,16 +1234,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '26'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 26"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1190,6 +1271,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1198,16 +1280,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '27'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 27"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1233,6 +1317,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1241,16 +1326,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '28'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 28"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1276,6 +1363,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1284,16 +1372,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '29'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 29"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1319,6 +1409,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1327,16 +1418,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '30'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 30"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1362,6 +1455,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1370,16 +1464,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '31'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 31"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1405,6 +1501,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1413,16 +1510,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '32'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 32"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1448,6 +1547,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1456,16 +1556,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '33'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 33"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1491,6 +1593,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1499,16 +1602,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '34'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 34"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1534,6 +1639,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1542,16 +1648,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '35'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 35"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1577,6 +1685,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1585,16 +1694,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '36'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 36"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1620,6 +1731,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1628,16 +1740,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '37'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 37"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1663,6 +1777,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1671,16 +1786,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '38'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 38"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1706,6 +1823,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1714,16 +1832,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '39'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 39"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1749,6 +1869,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1757,16 +1878,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '40'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 40"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1792,6 +1915,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1800,16 +1924,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '41'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 41"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1835,6 +1961,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1843,16 +1970,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '42'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 42"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1878,6 +2007,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1886,16 +2016,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '43'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 43"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1921,6 +2053,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1929,16 +2062,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '44'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 44"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -1964,6 +2099,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -1972,16 +2108,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '45'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 45"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2007,6 +2145,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2015,16 +2154,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '46'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 46"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2050,6 +2191,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2058,16 +2200,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '47'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 47"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2093,6 +2237,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2101,16 +2246,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '48'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 48"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2136,6 +2283,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2144,16 +2292,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '49'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 49"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2179,6 +2329,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2187,16 +2338,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '50'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 50"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2222,6 +2375,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2230,16 +2384,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '51'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 51"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2265,6 +2421,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2273,16 +2430,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '52'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 52"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2308,6 +2467,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2316,16 +2476,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '53'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 53"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2351,6 +2513,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2359,16 +2522,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '54'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 54"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2394,6 +2559,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2402,16 +2568,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '55'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 55"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2437,6 +2605,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2445,16 +2614,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '56'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 56"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2480,6 +2651,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2488,16 +2660,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '57'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 57"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2523,6 +2697,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2531,16 +2706,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '58'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 58"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2566,6 +2743,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2574,16 +2752,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '59'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 59"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2609,6 +2789,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2617,16 +2798,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '60'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 60"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2652,6 +2835,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2660,16 +2844,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '61'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 61"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2695,6 +2881,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2703,16 +2890,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '62'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 62"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2738,6 +2927,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2746,16 +2936,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '63'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 63"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2781,6 +2973,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2789,16 +2982,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '64'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 64"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2824,6 +3019,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2832,16 +3028,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '65'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 65"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2867,6 +3065,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2875,16 +3074,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '66'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 66"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2910,6 +3111,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2918,16 +3120,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '67'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 67"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2953,6 +3157,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -2961,16 +3166,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '68'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 68"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -2996,6 +3203,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -3004,16 +3212,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '69'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 69"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -3039,6 +3249,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -3047,16 +3258,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '70'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 70"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -3082,6 +3295,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -3090,16 +3304,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '71'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 71"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -3125,6 +3341,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -3133,16 +3350,18 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...
 ---
 identifier: '72'
 identification:
   title: "Atlas national de la Ville de Paris, feuille N.[um\xE9ro] 72"
 events:
-- value: '2023-09-14'
+- value: '2023-10-03'
   event: publication
 extent:
   geoExtent:
@@ -3168,6 +3387,7 @@ associatedResource:
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 stakeholders:
   individuals:
   - role: originator
@@ -3176,7 +3396,9 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 ...

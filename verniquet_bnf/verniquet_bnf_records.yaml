@@ -4,7 +4,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -30,12 +30,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f1/full/full/0/native.jpg
@@ -58,7 +61,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Carte d'assemblage [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -84,12 +87,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f2/full/full/0/native.jpg
@@ -112,7 +118,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -138,12 +144,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f3/full/full/0/native.jpg
@@ -179,7 +188,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -205,12 +214,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f4/full/full/0/native.jpg
@@ -246,7 +258,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -272,12 +284,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f5/full/full/0/native.jpg
@@ -313,7 +328,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -339,12 +354,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f6/full/full/0/native.jpg
@@ -380,7 +398,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -406,12 +424,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f7/full/full/0/native.jpg
@@ -447,7 +468,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -473,12 +494,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f8/full/full/0/native.jpg
@@ -514,7 +538,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -540,12 +564,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f9/full/full/0/native.jpg
@@ -581,7 +608,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -607,12 +634,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f10/full/full/0/native.jpg
@@ -648,7 +678,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -674,12 +704,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f11/full/full/0/native.jpg
@@ -715,7 +748,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -741,12 +774,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f12/full/full/0/native.jpg
@@ -782,7 +818,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -808,12 +844,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f13/full/full/0/native.jpg
@@ -849,7 +888,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -875,12 +914,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f14/full/full/0/native.jpg
@@ -916,7 +958,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -942,12 +984,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f15/full/full/0/native.jpg
@@ -983,7 +1028,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1009,12 +1054,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f16/full/full/0/native.jpg
@@ -1050,7 +1098,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1076,12 +1124,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f17/full/full/0/native.jpg
@@ -1117,7 +1168,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1143,12 +1194,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f18/full/full/0/native.jpg
@@ -1184,7 +1238,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1210,12 +1264,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f19/full/full/0/native.jpg
@@ -1251,7 +1308,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1277,12 +1334,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f20/full/full/0/native.jpg
@@ -1318,7 +1378,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1344,12 +1404,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f21/full/full/0/native.jpg
@@ -1385,7 +1448,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1411,12 +1474,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f22/full/full/0/native.jpg
@@ -1452,7 +1518,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1478,12 +1544,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f23/full/full/0/native.jpg
@@ -1519,7 +1588,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1545,12 +1614,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f24/full/full/0/native.jpg
@@ -1586,7 +1658,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1612,12 +1684,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f25/full/full/0/native.jpg
@@ -1653,7 +1728,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1679,12 +1754,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f26/full/full/0/native.jpg
@@ -1720,7 +1798,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1746,12 +1824,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f27/full/full/0/native.jpg
@@ -1787,7 +1868,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1813,12 +1894,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f28/full/full/0/native.jpg
@@ -1854,7 +1938,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1880,12 +1964,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f29/full/full/0/native.jpg
@@ -1921,7 +2008,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -1947,12 +2034,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f30/full/full/0/native.jpg
@@ -1988,7 +2078,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2014,12 +2104,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f31/full/full/0/native.jpg
@@ -2055,7 +2148,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2081,12 +2174,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f32/full/full/0/native.jpg
@@ -2122,7 +2218,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2148,12 +2244,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f33/full/full/0/native.jpg
@@ -2189,7 +2288,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2215,12 +2314,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f34/full/full/0/native.jpg
@@ -2256,7 +2358,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2282,12 +2384,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f35/full/full/0/native.jpg
@@ -2323,7 +2428,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2349,12 +2454,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f36/full/full/0/native.jpg
@@ -2390,7 +2498,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2416,12 +2524,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f37/full/full/0/native.jpg
@@ -2457,7 +2568,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2483,12 +2594,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f38/full/full/0/native.jpg
@@ -2524,7 +2638,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2550,12 +2664,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f39/full/full/0/native.jpg
@@ -2591,7 +2708,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2617,12 +2734,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f40/full/full/0/native.jpg
@@ -2658,7 +2778,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2684,12 +2804,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f41/full/full/0/native.jpg
@@ -2725,7 +2848,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2751,12 +2874,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f42/full/full/0/native.jpg
@@ -2792,7 +2918,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2818,12 +2944,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f43/full/full/0/native.jpg
@@ -2859,7 +2988,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2885,12 +3014,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f44/full/full/0/native.jpg
@@ -2926,7 +3058,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -2952,12 +3084,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f45/full/full/0/native.jpg
@@ -2993,7 +3128,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3019,12 +3154,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f46/full/full/0/native.jpg
@@ -3060,7 +3198,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3086,12 +3224,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f47/full/full/0/native.jpg
@@ -3127,7 +3268,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3153,12 +3294,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f48/full/full/0/native.jpg
@@ -3194,7 +3338,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3220,12 +3364,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f49/full/full/0/native.jpg
@@ -3261,7 +3408,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3287,12 +3434,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f50/full/full/0/native.jpg
@@ -3328,7 +3478,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3354,12 +3504,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f51/full/full/0/native.jpg
@@ -3395,7 +3548,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3421,12 +3574,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f52/full/full/0/native.jpg
@@ -3462,7 +3618,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3488,12 +3644,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f53/full/full/0/native.jpg
@@ -3529,7 +3688,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3555,12 +3714,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f54/full/full/0/native.jpg
@@ -3596,7 +3758,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3622,12 +3784,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f55/full/full/0/native.jpg
@@ -3663,7 +3828,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3689,12 +3854,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f56/full/full/0/native.jpg
@@ -3730,7 +3898,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3756,12 +3924,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f57/full/full/0/native.jpg
@@ -3797,7 +3968,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3823,12 +3994,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f58/full/full/0/native.jpg
@@ -3864,7 +4038,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3890,12 +4064,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f59/full/full/0/native.jpg
@@ -3931,7 +4108,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -3957,12 +4134,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f60/full/full/0/native.jpg
@@ -3998,7 +4178,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4024,12 +4204,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f61/full/full/0/native.jpg
@@ -4065,7 +4248,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4091,12 +4274,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f62/full/full/0/native.jpg
@@ -4132,7 +4318,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4158,12 +4344,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f63/full/full/0/native.jpg
@@ -4199,7 +4388,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4225,12 +4414,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f64/full/full/0/native.jpg
@@ -4266,7 +4458,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4292,12 +4484,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f65/full/full/0/native.jpg
@@ -4333,7 +4528,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4359,12 +4554,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f66/full/full/0/native.jpg
@@ -4400,7 +4598,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4426,12 +4624,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f67/full/full/0/native.jpg
@@ -4467,7 +4668,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4493,12 +4694,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f68/full/full/0/native.jpg
@@ -4534,7 +4738,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4560,12 +4764,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f69/full/full/0/native.jpg
@@ -4601,7 +4808,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4627,12 +4834,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f70/full/full/0/native.jpg
@@ -4668,7 +4878,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4694,12 +4904,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f71/full/full/0/native.jpg
@@ -4735,7 +4948,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4761,12 +4974,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f72/full/full/0/native.jpg
@@ -4802,7 +5018,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4828,12 +5044,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f73/full/full/0/native.jpg
@@ -4869,7 +5088,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-09-27'
+- value: '2023-10-03'
   event: publication
 keywords:
 - value: Instantiation
@@ -4895,12 +5114,15 @@ stakeholders:
   - role: publisher
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   - role: custodian
     name: The SoDUCo project
     mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 distributionInfo:
   distributor: The SoDUCo Project
   distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
   distributionFormat: JPEG
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f74/full/full/0/native.jpg

@@ -38,11 +38,13 @@ def main():
                 "role": "publisher",
                 "name": "The SoDUCo project",
                 "mail": "contact@geohistoricaldata.org",
+                "logo": "https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png",
             },
             {
                 "role": "custodian",
                 "name": "The SoDUCo project",
                 "mail": "contact@geohistoricaldata.org",
+                "logo": "https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png",
             },
         ],
     }
@@ -156,6 +158,7 @@ def main():
                     'distributionInfo': {
                         "distributor": "The SoDUCo Project",
                         "distributor_mail": "contact@geohistoricaldata.org",
+                        "distributor_logo": "https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png",
                         'distributionFormat': "JPEG",
                         'onlineResources': online_resources
                     }
