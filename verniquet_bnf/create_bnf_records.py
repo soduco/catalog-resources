@@ -60,7 +60,7 @@ def main():
         }
     ]
     # exemplary_name = "exemplaire BnF, GE DD-2998 & IFN-53243704"
-    lineage = pandas.read_csv('../uuids_verniquet.csv', index_col='yaml_identifier')
+    lineage = pandas.read_csv('../verniquet/yaml_list.csv', index_col='yaml_identifier')
     with open('../verniquet/extents.yaml', 'r') as extent_file:
         data = yaml.safe_load(extent_file)
     dataverse = json.loads(open('../verniquet/dataverse.harvard.edu.json').read())
@@ -72,20 +72,27 @@ def main():
             dataverse_file_id = e["dataFile"]["id"]
             link = dataverse_data_file_url + str(dataverse_file_id)
             resource_name = None
+            resource_description = None
+            resource_protocol = "WWW:DOWNLOAD"
             if dataverse_label == prefix + ".jpg.points":
                 logging.debug(f"points found: {dataverse_file_id}")
                 resource_name = "Georeferencing point file"
+                resource_description = "Georeferencing point file exported from QGIS"
             if dataverse_label == prefix + ".json":
                 logging.debug(f"json found: {dataverse_file_id}")
-                resource_name = "Georeferencing AllMaps annotation file"
+                resource_name = "Georeferencing IIIF annotation file"
+                resource_description = "Georeferencing annotation file in IIIF annotation format"
+                resource_protocol = "WWW:LINK"
             if dataverse_label == prefix + ".tif":
                 logging.debug(f"tif found: {dataverse_file_id}")
-                resource_name = "Georeferenced tiff (geotif)"
+                resource_name = "Georeferenced tiff"
+                resource_description = "Georeferenced image as GeoTIFF"
             if resource_name:
                 resource_list.append({
                         'linkage': link,
-                        'protocol': "WWW:DOWNLOAD",
+                        'protocol': resource_protocol,
                         'name': resource_name,
+                        'description': resource_description,
                         'onlineFunctionCode': "download"
                 })
 
@@ -127,20 +134,29 @@ def main():
                 online_resources = [{
                     'linkage': canvas_native,
                     'protocol': "WWW:DOWNLOAD",
-                    'name': "Scan de la BnF",
+                    'name': "Native image from BnF",
+                    'description': "Feuille scannée par la BnF",
                     'onlineFunctionCode': "download"
                 }]
                 # name = 'inconnu'
+                sheet_number = number - 2
                 if number == 1:
                     name = 'Atlas du plan général de la ville de Paris, Page de titre [exemplaire BnF, GE DD-2998 & IFN-53243704]'
-                    theoretical_sheet = lineage.loc['TITLE', 'uuid']
+                    theoretical_sheet = lineage.loc['TITLE', 'geonetwork_uuid']
                 elif number == 2:
                     name = 'Atlas du plan général de la ville de Paris, Carte d\'assemblage [exemplaire BnF, GE DD-2998 & IFN-53243704]'
-                    theoretical_sheet = lineage.loc['TA', 'uuid']
+                    theoretical_sheet = lineage.loc['TA', 'geonetwork_uuid']
                 else:
-                    name = f'Atlas du plan général de la ville de Paris, feuille N.[uméro] {number - 2} [exemplaire BnF, GE DD-2998 & IFN-53243704]'
-                    theoretical_sheet = lineage.loc[str(number - 2), 'uuid']
+                    name = f'Atlas du plan général de la ville de Paris, feuille N.[uméro] {sheet_number} [exemplaire BnF, GE DD-2998 & IFN-53243704]'
+                    theoretical_sheet = lineage.loc[str(sheet_number), 'geonetwork_uuid']
                     add_files("f" + str(number), online_resources)
+                    online_resources.append({
+                        'linkage': "https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities",
+                        'protocol': "OGC:WMS",
+                        'name': f"verniquet_bnf_{sheet_number}",
+                        'description': f"Verniquet BnF - Feuille {sheet_number}",
+                        'onlineFunctionCode': "browsing"
+                    })
                 logging.debug(f"  theoretical_sheet: {theoretical_sheet}")
                 logging.debug(f"  canvas name: {name}")
                 instance = {
@@ -167,7 +183,7 @@ def main():
                     instance.update({'presentationForm': "mapDigital"})
                     instance.update(
                         {"extent": {
-                            "geoExtent": data[number - 2]['geoExtent'],
+                            "geoExtent": data[sheet_number]['geoExtent'],
                             "temporalExtent": temporal_extent
                         }}
                     )

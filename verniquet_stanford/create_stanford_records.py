@@ -81,41 +81,37 @@ def main():
             link = dataverse_datafileurl + str(fileId)
             files = []
 
-            def resource(link: str, name: str):
-                if re.search("(allmaps)", link):
-                    return {
-                        "linkage": link,
-                        "protocol": "WWW:LINK",
-                        "name": name,
-                        "onlineFunctionCode": "download",
-                    }
-                else:
-                    return {
-                        "linkage": link,
-                        "protocol": "WWW:DOWNLOAD",
-                        "name": name,
-                        "onlineFunctionCode": "download",
-                    }
-
+            def resource(link: str, name: str, description: str, protocol: str):
+                return {
+                    "linkage": link,
+                    "protocol": protocol,
+                    "name": name,
+                    "description": description,
+                    "onlineFunctionCode": "download",
+                }
             if label == prefix + ".jpg.points":
                 logging.debug(f"points found: {fileId}")
-                files = [resource(link, "Georeferencing point file")]
+                files = [resource(link, "Georeferencing point file", "Georeferencing point file exported from QGIS", "WWW:DOWNLOAD")]
             if label == prefix + ".json":
                 logging.debug(f"json found: {fileId}")
                 files = [
-                    resource(link, " AllMaps annotations"),
+                    resource(link, "Allmaps georeferencing IIIF annotation file", "Georeferencing annotation file in IIIF annotation format", "WWW:DOWNLOAD"),
                     resource(
                         "https://allmaps.xyz/{z}/{x}/{y}.png?url=" + link,
-                        " AllMaps tiled map",
+                        "Allmaps tiled map",
+                        "Open IIIF annotation file in Allmaps tiled map",
+                        "WWW:LINK"
                     ),
                     resource(
                         "https://viewer.allmaps.org/?url=" + link,
-                        "AllMaps interactive map",
+                        "Allmaps viewer",
+                        "Open IIIF annotation file in Allmaps viewer",
+                        "WWW:LINK"
                     ),
                 ]
             if label == prefix + ".tif":
                 logging.debug(f"tif found: {fileId}")
-                files = [resource(link, "Georeferenced tiff (geotif)")]
+                files = [resource(link, "Georeferenced tiff", "Georeferenced image as GeoTIFF","WWW:DOWNLOAD")]
 
             if files:
                 list.extend(files)
