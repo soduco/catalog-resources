@@ -1,0 +1,47 @@
+---
+identifier: VerniquetFile
+identification:
+  title: Dossier Verniquet
+abstract: Research and resource file dedicated to the Atlas of the general plan of the city of Paris under the direction of Edme Verniquet.
+scope: repository
+events:
+- value: '2019-03-01'
+  event: creation
+- value: '2023-10-17'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1784-01-01'
+    endPosition: '1795-12-31'
+keywords:
+- value: RecordSet
+  typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Verniquet
+  typeOfKeyword: theme
+- value: history of cartography
+  typeOfKeyword: discipline
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  individuals:
+  - role: originator
+    name: Edme Verniquet
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+...
