@@ -4,7 +4,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
     \ Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -33,7 +33,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- b8a61cca-3997-460d-96b4-0078acdfc709
+- eacac40d-f422-4e8f-b427-f3827942eb2a
 extent:
   geoExtent:
     westBoundLongitude: '2.2789487344052968'
@@ -51,7 +51,8 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110001.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
 ...
@@ -61,7 +62,7 @@ identification:
   title: "Composite : Feuilles 1 \xE0 72 de l'Atlas du plan g\xE9n\xE9ral de la ville\
     \ de Paris [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -106,7 +107,8 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110074.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
 ...
@@ -116,7 +118,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -145,7 +147,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 6953f561-6049-4783-bdb0-ee414100e5a1
+- b0eb87fb-01e1-4c51-9f3b-72266c7ee9fe
 extent:
   geoExtent:
     eastBoundLongitude: '2.294002388781319'
@@ -164,25 +166,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110002.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002486
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002486
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002486
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002836
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_1
+    description: Verniquet Stanford - Feuille 1
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305629~90076036
@@ -190,7 +202,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -219,7 +231,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- f918fc62-11a1-40de-8e1d-4e60e517b36b
+- fce0b6c5-b632-42f2-8463-a08adf977c26
 extent:
   geoExtent:
     eastBoundLongitude: '2.309948823512562'
@@ -238,25 +250,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110003.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002620
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002620
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002620
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002859
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_2
+    description: Verniquet Stanford - Feuille 2
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305630~90076035
@@ -264,7 +286,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -293,7 +315,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3e49b096-d0c1-4e36-9b48-c3d134d2e846
+- bb00703b-085c-4f0d-99ff-3568dc92c6fe
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258952614451776'
@@ -312,25 +334,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110004.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002632
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002632
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002632
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002697
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_3
+    description: Verniquet Stanford - Feuille 3
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305631~90076034
@@ -338,7 +370,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -367,7 +399,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- b345d0fb-835c-47c7-8f39-da07234cc1e6
+- 60abe252-3fa2-40ab-99a8-c80fd777cc68
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418417006411816'
@@ -386,25 +418,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110005.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002513
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002513
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002513
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002804
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_4
+    description: Verniquet Stanford - Feuille 4
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305632~90076033
@@ -412,7 +454,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -441,7 +483,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 4e7cce70-c7a3-4b74-97ab-51443947b8c8
+- 5b3bba0e-ca9b-45d6-bcf5-0e8452faf80b
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577881391625746'
@@ -460,25 +502,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110006.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002797
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002797
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002797
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002752
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_5
+    description: Verniquet Stanford - Feuille 5
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305633~90076032
@@ -486,7 +538,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -515,7 +567,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3823366b-b775-49ae-82f7-7d895b256e76
+- eed2330c-bfd3-4461-95ee-c40e04f15cc0
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737345750714063'
@@ -534,25 +586,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110007.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002526
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002526
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002526
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002814
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_6
+    description: Verniquet Stanford - Feuille 6
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305634~90076031
@@ -560,7 +622,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -589,7 +651,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e6187fe8-a6d4-4e6a-8a47-9a9c23fc9ae2
+- 13abf856-84da-45df-a128-e0e5f57fdabd
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896810064296803'
@@ -608,25 +670,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110008.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002558
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002558
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002558
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002692
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_7
+    description: Verniquet Stanford - Feuille 7
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305635~90076030
@@ -634,7 +706,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -663,7 +735,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 093c43ce-52e7-41b1-9287-24c7b6fbf669
+- 5a20ead0-19d6-4774-8cf5-62a0299946f0
 extent:
   geoExtent:
     eastBoundLongitude: '2.405627431299417'
@@ -682,25 +754,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110009.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002646
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002646
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002646
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002609
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_8
+    description: Verniquet Stanford - Feuille 8
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305636~90076029
@@ -708,7 +790,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -737,7 +819,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 62fe9c3c-e72b-4a16-880a-3f51cbaf6d47
+- c3b38621-4cfa-4d93-b9a3-33588cd127a4
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940082868227676'
@@ -756,25 +838,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110010.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002765
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002765
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002765
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002572
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_9
+    description: Verniquet Stanford - Feuille 9
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305637~90076028
@@ -782,7 +874,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -811,7 +903,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 4c084575-98dc-438a-9033-8e6a2095a101
+- d54256d6-aa12-404e-a3fe-f34e96513709
 extent:
   geoExtent:
     eastBoundLongitude: '2.309952492729735'
@@ -830,25 +922,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110011.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002720
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002720
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002720
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002554
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_10
+    description: Verniquet Stanford - Feuille 10
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305638~90076027
@@ -856,7 +958,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -885,7 +987,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ae1ef5ca-dc9e-488c-9828-85e953b11877
+- 218d64f4-06b1-4893-b457-7ae3814c3c09
 extent:
   geoExtent:
     eastBoundLongitude: '2.325896701836451'
@@ -904,25 +1006,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110012.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002796
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002796
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002796
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002545
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_11
+    description: Verniquet Stanford - Feuille 11
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305639~90076026
@@ -930,7 +1042,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -959,7 +1071,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 522cf30e-7a28-4037-addf-7e58af790212
+- f0f249fe-401a-4b7d-90f3-267da238d5b7
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418409122059374'
@@ -978,25 +1090,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110013.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002641
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002641
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002641
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002789
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_12
+    description: Verniquet Stanford - Feuille 12
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305640~90076025
@@ -1004,7 +1126,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1033,7 +1155,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e254249d-df50-4ae4-a660-22ff59c07471
+- 606a6338-735f-407d-83f4-e0bd7e544a19
 extent:
   geoExtent:
     eastBoundLongitude: '2.357785121901173'
@@ -1052,25 +1174,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110014.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002770
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002770
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002770
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002764
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_13
+    description: Verniquet Stanford - Feuille 13
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305641~90076024
@@ -1078,7 +1210,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1107,7 +1239,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 1893e7c4-ad8a-4c65-b217-85ce62a04d85
+- fa92da37-2331-4fc5-8b7f-5ffc7a1b84e5
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737293289851142'
@@ -1126,25 +1258,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110015.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002525
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002525
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002525
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002869
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_14
+    description: Verniquet Stanford - Feuille 14
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305642~90076023
@@ -1152,7 +1294,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1181,7 +1323,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 0868c464-0a42-4f25-8e79-52ca786856b9
+- 2c0fbba5-2bb6-4cb6-b045-601fb07ce430
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896735315207613'
@@ -1200,25 +1342,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110016.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002678
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002678
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002678
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002863
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_15
+    description: Verniquet Stanford - Feuille 15
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305643~90076022
@@ -1226,7 +1378,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1255,7 +1407,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- d5290569-9078-4964-ade7-c9c20045e8f3
+- 51a620f3-5c59-4844-a73e-d1f2ac5cf762
 extent:
   geoExtent:
     eastBoundLongitude: '2.405617727571079'
@@ -1274,25 +1426,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110017.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002627
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002627
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002627
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002589
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_16
+    description: Verniquet Stanford - Feuille 16
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305644~90076021
@@ -1300,7 +1462,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1329,7 +1491,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- bf9cc22e-de05-4859-a05c-993d2ea24f02
+- ff933ed7-fc14-4304-a8a7-f3a8c62b3174
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940141825812157'
@@ -1348,25 +1510,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110018.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002817
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002817
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002817
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002533
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_17
+    description: Verniquet Stanford - Feuille 17
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305645~90076020
@@ -1374,7 +1546,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1403,7 +1575,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 1849adcb-bd39-482d-8878-3d89a7f0d037
+- 7026737a-9037-46c3-971a-eb194800d428
 extent:
   geoExtent:
     eastBoundLongitude: '2.30995616052476'
@@ -1422,25 +1594,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110019.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002604
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002604
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002604
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002782
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_18
+    description: Verniquet Stanford - Feuille 18
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305646~90076019
@@ -1448,7 +1630,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1477,7 +1659,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 57d2b5bd-fcd2-404e-8feb-0a59e703d9c1
+- 573bd0d4-5a04-41f5-bb82-691c2ed12393
 extent:
   geoExtent:
     eastBoundLongitude: '2.325898141666503'
@@ -1496,25 +1678,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110020.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002468
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002468
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002468
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002522
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_19
+    description: Verniquet Stanford - Feuille 19
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305647~90076018
@@ -1522,7 +1714,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1551,7 +1743,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 2e8fdc1a-f5b6-4ed2-92a9-2d270c626f2b
+- 629076b8-26ca-46f7-b5a4-ad8d09c96f86
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418401240703806'
@@ -1570,25 +1762,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110021.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002827
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002827
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002827
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002713
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_20
+    description: Verniquet Stanford - Feuille 20
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305648~90076017
@@ -1596,7 +1798,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1625,7 +1827,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 771344f8-526a-4d8b-8997-e04efdf8fc48
+- 3ab11060-0281-41ef-b985-987e20e2518e
 extent:
   geoExtent:
     eastBoundLongitude: '2.357782105800326'
@@ -1644,25 +1846,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110022.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002759
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002759
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002759
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002455
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_21
+    description: Verniquet Stanford - Feuille 21
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305649~90076016
@@ -1670,7 +1882,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1699,7 +1911,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 94a67386-24b0-4c8e-9592-59f3c16a49ba
+- 7d0c0ff6-2093-4fd3-8ba7-86d9d76e894f
 extent:
   geoExtent:
     eastBoundLongitude: '2.373724084920274'
@@ -1718,25 +1930,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110023.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002595
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002595
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002595
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002495
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_22
+    description: Verniquet Stanford - Feuille 22
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305650~90076015
@@ -1744,7 +1966,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1773,7 +1995,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- deba243b-9b5d-450d-9c54-2cea796391fa
+- 3f207da7-2d9f-490d-86db-72326f14c5d5
 extent:
   geoExtent:
     eastBoundLongitude: '2.38966605949419'
@@ -1792,25 +2014,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110024.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002885
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002885
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002885
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002871
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_23
+    description: Verniquet Stanford - Feuille 23
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305651~90076014
@@ -1818,7 +2050,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1847,7 +2079,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 6a4e501f-dc64-417a-be8d-760e28e493d4
+- 83eef68c-d28e-4634-9953-817900410bd9
 extent:
   geoExtent:
     eastBoundLongitude: '2.4056080275859952'
@@ -1866,25 +2098,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110025.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002559
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002559
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002559
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002696
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_24
+    description: Verniquet Stanford - Feuille 24
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305652~90076013
@@ -1892,7 +2134,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1921,7 +2163,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 19bcb25d-c913-4634-91c4-19de6ae00e2c
+- b876eac8-7640-47ae-addc-9439bb2521fb
 extent:
   geoExtent:
     eastBoundLongitude: '2.294020076057759'
@@ -1940,25 +2182,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110026.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002839
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002839
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002839
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002481
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_25
+    description: Verniquet Stanford - Feuille 25
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305653~90076012
@@ -1966,7 +2218,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1995,7 +2247,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ad35ae03-14c0-4dc2-a2d4-529b9c50d714
+- 88b5c544-47fe-49c0-9842-a1e11b7b4068
 extent:
   geoExtent:
     eastBoundLongitude: '2.309959826898388'
@@ -2014,25 +2266,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110027.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002864
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002864
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002864
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002543
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_26
+    description: Verniquet Stanford - Feuille 26
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305654~90076011
@@ -2040,7 +2302,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2069,7 +2331,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 654a490d-bfff-4355-817e-37816b0acf20
+- c10093b9-844e-4505-9cf7-d630c4deeb16
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258995809356047'
@@ -2088,25 +2350,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110028.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002527
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002527
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002527
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002820
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_27
+    description: Verniquet Stanford - Feuille 27
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305655~90076010
@@ -2114,7 +2386,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2143,7 +2415,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- d4b335d0-820c-4530-941e-26f3bae60fd1
+- 6d658310-8810-422d-a046-39ff734d5eff
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418393362343335'
@@ -2162,25 +2434,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110029.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002536
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002536
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002536
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002777
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_28
+    description: Verniquet Stanford - Feuille 28
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305656~90076009
@@ -2188,7 +2470,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2217,7 +2499,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e691cdb6-b549-4214-b102-21b92586662d
+- 61c5393b-22e4-4c51-80b2-21b8dfa9c363
 extent:
   geoExtent:
     eastBoundLongitude: '2.357779090859474'
@@ -2236,25 +2518,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110030.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002832
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002832
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002832
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002575
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_29
+    description: Verniquet Stanford - Feuille 29
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305657~90076008
@@ -2262,7 +2554,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2291,7 +2583,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 859f0212-a705-41fd-a13e-1ff3ba4e6a06
+- 0f4d44d9-1b54-46e5-92f2-bac3d6d11647
 extent:
   geoExtent:
     eastBoundLongitude: '2.373718842875908'
@@ -2310,25 +2602,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110031.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002815
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002815
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002815
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002686
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_30
+    description: Verniquet Stanford - Feuille 30
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305658~90076007
@@ -2336,7 +2638,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2365,7 +2667,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e273d76a-4fff-45d0-a4b3-32b941a9a0d3
+- 940fd012-98b9-4780-a4a9-4a2674fb8b2f
 extent:
   geoExtent:
     eastBoundLongitude: '2.389658590348556'
@@ -2384,25 +2686,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110032.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002591
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002591
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002591
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002698
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_31
+    description: Verniquet Stanford - Feuille 31
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305659~90076006
@@ -2410,7 +2722,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2439,7 +2751,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- b281935c-5da2-425a-b99d-3e174309b388
+- 57f689a9-1e8c-42f8-81ac-e636e1a644ce
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055983313423193'
@@ -2458,25 +2770,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110033.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002507
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002507
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002507
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002619
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_32
+    description: Verniquet Stanford - Feuille 32
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305660~90076005
@@ -2484,7 +2806,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2513,7 +2835,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- c46e4025-0b1d-4468-8501-0a3d555abb6d
+- 8beb18fb-53a3-4e21-923a-33b4ef5cef75
 extent:
   geoExtent:
     eastBoundLongitude: '2.29402596725355'
@@ -2532,25 +2854,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110034.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002634
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002634
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002634
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002828
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_33
+    description: Verniquet Stanford - Feuille 33
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305661~90076004
@@ -2558,7 +2890,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2587,7 +2919,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ad30babb-f7df-4454-ad56-4edef9221856
+- d0cb022d-48a4-46d8-b9c8-2a13265975cd
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099634918512866'
@@ -2606,25 +2938,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110035.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002614
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002614
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002614
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002505
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_34
+    description: Verniquet Stanford - Feuille 34
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305662~90076003
@@ -2632,7 +2974,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2661,7 +3003,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 8901b553-4db3-4503-827e-ae20760ade70
+- c37c7758-ec85-45a8-b039-a225d15102f0
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259010196440437'
@@ -2680,25 +3022,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110036.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002617
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002617
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002617
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002520
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_35
+    description: Verniquet Stanford - Feuille 35
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305663~90076002
@@ -2706,7 +3058,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2735,7 +3087,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 9f7af855-da17-4b5f-9201-ce9f9c011173
+- f02eb473-afb5-42aa-b321-8bebda95b327
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418385486976767'
@@ -2754,25 +3106,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110037.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002621
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002621
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002621
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002464
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_36
+    description: Verniquet Stanford - Feuille 36
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305664~90076074
@@ -2780,7 +3142,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2809,7 +3171,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- d93d212a-aa09-44f7-81b6-e59ddf1e811d
+- 08a992b9-1c7b-44da-83d3-e3205e71965c
 extent:
   geoExtent:
     eastBoundLongitude: '2.357776077078042'
@@ -2828,25 +3190,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110038.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002626
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002626
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002626
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002729
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_37
+    description: Verniquet Stanford - Feuille 37
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305665~90076073
@@ -2854,7 +3226,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2883,7 +3255,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e0694c6b-60f4-4285-a4a9-0b27c7b1c5eb
+- d5f21c02-100b-441b-b3a7-bb6f868a2f5f
 extent:
   geoExtent:
     eastBoundLongitude: '2.373713602850994'
@@ -2902,25 +3274,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110039.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002718
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002718
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002718
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002825
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_38
+    description: Verniquet Stanford - Feuille 38
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305666~90076072
@@ -2928,7 +3310,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2957,7 +3339,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- a4836003-eb2e-4f81-9c9e-49e5123d2986
+- ae2ea782-b559-4dbb-af59-884b87b7a87d
 extent:
   geoExtent:
     eastBoundLongitude: '2.38965112408242'
@@ -2976,25 +3358,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110040.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002594
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002594
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002594
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002571
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_39
+    description: Verniquet Stanford - Feuille 39
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305667~90076071
@@ -3002,7 +3394,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3031,7 +3423,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 9be9f3ee-d9c9-4c17-8c7d-ead5be00351f
+- 41fbfc28-29a8-404d-87e1-3a0f67aa54a4
 extent:
   geoExtent:
     eastBoundLongitude: '2.405588638838181'
@@ -3050,25 +3442,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110041.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002661
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002661
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002661
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002746
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_40
+    description: Verniquet Stanford - Feuille 40
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305668~90076070
@@ -3076,7 +3478,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3105,7 +3507,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 72a35047-4309-4013-b6b7-9a5e5b6710bb
+- 96deae88-bbc7-46c7-b7e7-6380cf8995b5
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940318561697213'
@@ -3124,25 +3526,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110042.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002794
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002794
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002794
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002862
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_41
+    description: Verniquet Stanford - Feuille 41
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305669~90076069
@@ -3150,7 +3562,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3179,7 +3591,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- d6ea047d-be3a-4f0c-8761-a97c9502698d
+- f5680f3b-1678-4cee-8bc9-15f8424946bf
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099671553842054'
@@ -3198,25 +3610,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110043.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002470
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002470
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002470
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002653
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_42
+    description: Verniquet Stanford - Feuille 42
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305670~90076068
@@ -3224,7 +3646,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3253,7 +3675,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 8d4d11c0-f859-4485-a404-2b5dfaf2c7af
+- 2f7b3702-2fa2-40c0-a5c5-27f4c8c00d8d
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259024577921092'
@@ -3272,25 +3694,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110044.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002633
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002633
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002633
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002484
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_43
+    description: Verniquet Stanford - Feuille 43
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305671~90076067
@@ -3298,7 +3730,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3327,7 +3759,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 88af26f8-96bb-45d9-bac8-eb625e03021c
+- 108aadcb-d8a1-426b-927a-23f7ccff0588
 extent:
   geoExtent:
     eastBoundLongitude: '2.34183776146025'
@@ -3346,25 +3778,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110045.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002663
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002663
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002663
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002844
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_44
+    description: Verniquet Stanford - Feuille 44
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305672~90076066
@@ -3372,7 +3814,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3401,7 +3843,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 0d248cc5-fe48-43a0-8b10-5ad8bce8a1b4
+- 6825619f-1337-4255-8a14-cd738a96eff0
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577730644554604'
@@ -3420,25 +3862,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110046.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002531
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002531
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002531
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002719
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_45
+    description: Verniquet Stanford - Feuille 45
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305673~90076065
@@ -3446,7 +3898,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3475,7 +3927,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- cceba26c-d4c5-4457-817f-ae4dfc974f0e
+- 3af9d2ba-2386-4710-9aaa-eca5b9f2079c
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737083648445565'
@@ -3494,25 +3946,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110047.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002695
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002695
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002695
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002636
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_46
+    description: Verniquet Stanford - Feuille 46
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305674~90076064
@@ -3520,7 +3982,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3549,7 +4011,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 2c657415-0dcc-46af-a851-3e7d9d36a0f0
+- 1a2ccdc5-c9d1-4512-97c3-d693b7f96d60
 extent:
   geoExtent:
     eastBoundLongitude: '2.389643660694374'
@@ -3568,25 +4030,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110048.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002503
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002503
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002503
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002561
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_47
+    description: Verniquet Stanford - Feuille 47
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305675~90076063
@@ -3594,7 +4066,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3623,7 +4095,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- dbaf87ba-2f90-4f8b-b4fa-446ef1395086
+- eefaa113-c17f-4768-a3f8-10f420c11bd7
 extent:
   geoExtent:
     eastBoundLongitude: '2.405578950071724'
@@ -3642,25 +4114,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110049.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002861
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002861
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002861
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002510
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_48
+    description: Verniquet Stanford - Feuille 48
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305676~90076062
@@ -3668,7 +4150,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3697,7 +4179,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- f33b2694-034d-47bb-bbdb-d0c8e1bbb012
+- b28d577c-8d76-433e-9632-25c80888c5fc
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940377428074106'
@@ -3716,25 +4198,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110050.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002516
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002516
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002516
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002795
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_49
+    description: Verniquet Stanford - Feuille 49
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305677~90076061
@@ -3742,7 +4234,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3771,7 +4263,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 13ba4cf0-d849-4db9-be4f-306c88987e7a
+- 803f3909-b63e-4728-80da-33ca13294257
 extent:
   geoExtent:
     eastBoundLongitude: '2.30997081749782'
@@ -3790,25 +4282,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110051.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002649
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002649
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002649
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002494
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_50
+    description: Verniquet Stanford - Feuille 50
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305678~90076060
@@ -3816,7 +4318,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3845,7 +4347,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 4d597857-051a-40f2-b5f4-e931f7320889
+- 42413d87-e8f3-4d21-9324-53fd62a2181e
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259038953800517'
@@ -3864,25 +4366,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110052.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002818
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002818
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002818
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002564
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_51
+    description: Verniquet Stanford - Feuille 51
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305679~90076059
@@ -3890,7 +4402,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3919,7 +4431,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e5f5e709-ab94-459e-97c1-7be86668f5a9
+- 3545bb10-428c-42f4-97cc-cdc37815ad4f
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418369745218897'
@@ -3938,25 +4450,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110053.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002624
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002624
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002624
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002498
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_52
+    description: Verniquet Stanford - Feuille 52
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305680~90076058
@@ -3964,7 +4486,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3993,7 +4515,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 47941da3-6c20-4306-9903-425bd3bf627b
+- 35a01e4d-8d08-4fa5-a4ac-bbf00a252ed7
 extent:
   geoExtent:
     eastBoundLongitude: '2.357770052991145'
@@ -4012,25 +4534,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110054.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002489
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002489
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002489
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002460
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_53
+    description: Verniquet Stanford - Feuille 53
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305681~90076057
@@ -4038,7 +4570,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4067,7 +4599,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- eeb37c27-b0d8-43fb-b46d-08f5d285973c
+- 24c02699-5334-4320-92fa-5f4d63d99eb6
 extent:
   geoExtent:
     eastBoundLongitude: '2.373703128855574'
@@ -4086,25 +4618,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110055.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002602
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002602
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002602
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002705
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_54
+    description: Verniquet Stanford - Feuille 54
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305682~90076056
@@ -4112,7 +4654,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4141,7 +4683,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- daa0a6c9-bd5a-4fcf-851d-c3b56d147b27
+- c1fd9c80-b60f-44c4-a17b-8b7178f128f3
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896362001829616'
@@ -4160,25 +4702,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110056.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002566
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002566
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002566
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002724
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_55
+    description: Verniquet Stanford - Feuille 55
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305683~90076055
@@ -4186,7 +4738,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4215,7 +4767,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3d487051-0eea-47ab-bd24-5d5623601172
+- 7a37409f-c425-41ce-8a75-e518bef9330f
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055692650411116'
@@ -4234,25 +4786,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110057.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002472
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002472
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002472
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002739
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_56
+    description: Verniquet Stanford - Feuille 56
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305684~90076054
@@ -4260,7 +4822,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4289,7 +4851,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e2186cdf-2368-412d-8166-37742d33e4ba
+- 275d15b6-2108-4350-aa8c-7141839e394c
 extent:
   geoExtent:
     eastBoundLongitude: '2.294043627167757'
@@ -4308,25 +4870,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110058.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002541
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002541
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002541
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002798
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_57
+    description: Verniquet Stanford - Feuille 57
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305685~90076053
@@ -4334,7 +4906,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4363,7 +4935,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 417cb6b3-18fd-483d-92ee-c03d0537d1a9
+- ea70f8df-12a5-463d-98b0-d8b427f6ac74
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099744781928218'
@@ -4382,25 +4954,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110059.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002650
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002650
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002650
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002585
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_58
+    description: Verniquet Stanford - Feuille 58
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305686~90076052
@@ -4408,7 +4990,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4437,7 +5019,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3daa68ee-bc5d-47bc-82fa-0c299a4a9023
+- 2f7a1b9a-828d-4cbf-8345-46098bae5c64
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259053324081593'
@@ -4456,25 +5038,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110060.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002751
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002751
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002751
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002555
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_59
+    description: Verniquet Stanford - Feuille 59
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305687~90076051
@@ -4482,7 +5074,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4511,7 +5103,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- a4d33472-18f7-478a-8822-fa821ca0bd42
+- 269fce1f-8321-4ae0-bbed-d806824abb1c
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418361878824774'
@@ -4530,25 +5122,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110061.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002855
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002855
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002855
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002717
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_60
+    description: Verniquet Stanford - Feuille 60
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305688~90076050
@@ -4556,7 +5158,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4585,7 +5187,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 855c0749-fe66-4b95-aac9-21289b8ef41a
+- 8f0e0645-a6d8-4fac-b270-eb2dcfe86004
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577670426845283'
@@ -4604,25 +5206,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110062.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002843
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002843
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002843
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002856
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_61
+    description: Verniquet Stanford - Feuille 61
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305689~90076049
@@ -4630,7 +5242,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4659,7 +5271,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3274a85b-01d3-49d2-83d2-b82664949c95
+- e7a20317-a766-4fd2-9552-3e9f53765095
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736978948830436'
@@ -4678,25 +5290,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110063.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002607
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002607
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002607
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002582
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_62
+    description: Verniquet Stanford - Feuille 62
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305690~90076048
@@ -4704,7 +5326,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4733,7 +5355,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 8c7e36c8-708c-48bc-9234-c1d720d6eeb9
+- fcb15d83-d4f2-4b52-a17f-d01b6674d4f4
 extent:
   geoExtent:
     eastBoundLongitude: '2.389628742546772'
@@ -4752,25 +5374,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110064.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002597
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002597
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002597
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002680
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_63
+    description: Verniquet Stanford - Feuille 63
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305691~90076047
@@ -4778,7 +5410,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4807,7 +5439,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 27e21160-a47c-497b-be77-a9d8aac3bd85
+- 15a6e69d-4792-4dcb-81c5-1d2e7d742197
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055595837444708'
@@ -4826,25 +5458,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110065.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002465
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002465
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002465
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002733
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_64
+    description: Verniquet Stanford - Feuille 64
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305692~90076046
@@ -4852,7 +5494,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4881,7 +5523,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 4a975b7c-5f8f-4566-b21f-9cee18fabe3b
+- 943a8b37-8022-4fd9-a73d-9a4fc8ab2e64
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940495092518582'
@@ -4900,25 +5542,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110066.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002668
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002668
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002668
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002656
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_65
+    description: Verniquet Stanford - Feuille 65
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305693~90076045
@@ -4926,7 +5578,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4955,7 +5607,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ed8d823a-4f34-4910-804c-f80224233bb0
+- ea6d1b96-461b-4266-9410-666d9bcd36b5
 extent:
   geoExtent:
     eastBoundLongitude: '2.309978137469958'
@@ -4974,25 +5626,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110067.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002496
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002496
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002496
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002638
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_66
+    description: Verniquet Stanford - Feuille 66
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305694~90076044
@@ -5000,7 +5662,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5029,7 +5691,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- dfe76fcb-6e52-4cb2-a804-8b940286a349
+- 7e54ae33-b140-458b-8b00-338f70b2709e
 extent:
   geoExtent:
     eastBoundLongitude: '2.32590676887672'
@@ -5048,25 +5710,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110068.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002623
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002623
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002623
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002714
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_67
+    description: Verniquet Stanford - Feuille 67
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305695~90076043
@@ -5074,7 +5746,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5103,7 +5775,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 71959d56-c842-4f1c-b4da-e41318999ecc
+- c3cc35d5-c218-408d-b281-95960ccf5a8b
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418354015418474'
@@ -5122,25 +5794,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110069.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002671
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002671
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002671
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002529
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_68
+    description: Verniquet Stanford - Feuille 68
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305696~90076042
@@ -5148,7 +5830,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5177,7 +5859,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 8ee2eaa0-6d06-464d-80a3-4e5bc4f62c55
+- 354dba28-48a3-488f-bc7e-3be6f5fd305e
 extent:
   geoExtent:
     eastBoundLongitude: '2.357764033535036'
@@ -5196,25 +5878,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110070.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002521
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002521
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002521
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002662
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_69
+    description: Verniquet Stanford - Feuille 69
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305697~90076041
@@ -5222,7 +5914,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5251,7 +5943,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 913e9d75-8941-49a1-addb-26e5ac7f6ba1
+- f4059982-0ff5-4146-b91c-b28fe6fc84e6
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736926629259845'
@@ -5270,25 +5962,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110071.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002681
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002681
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002681
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002781
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_70
+    description: Verniquet Stanford - Feuille 70
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305698~90076040
@@ -5296,7 +5998,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5325,7 +6027,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 8128ace7-59d0-4ad2-af46-780a2613ac31
+- b114fc59-c809-41ab-a82a-640864c57884
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896212877843945'
@@ -5344,25 +6046,35 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110072.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002487
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002487
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002487
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002475
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_71
+    description: Verniquet Stanford - Feuille 71
+    onlineFunctionCode: browsing
 ...
 ---
 identifier: RUMSEY~8~1~305699~90076039
@@ -5370,7 +6082,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5399,7 +6111,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 7f4a725f-084a-4668-87fe-6f434984ba61
+- 1d9a6ee9-c676-4754-9797-a2ea4a01daef
 extent:
   geoExtent:
     eastBoundLongitude: '2.405549906179961'
@@ -5418,23 +6130,33 @@ distributionInfo:
   onlineResources:
   - linkage: https://www.davidrumsey.com/rumsey/download.pl?image=/179/10110073.jp2
     protocol: WWW:DOWNLOAD
-    name: "Scan de la Collection David Rumsey de biblioth\xE8que de l'Universit\xE9\
+    name: Original image from David Rumsey, Stanford University
+    description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002675
     protocol: WWW:DOWNLOAD
-    name: ' AllMaps annotations'
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
     onlineFunctionCode: download
   - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002675
     protocol: WWW:LINK
-    name: ' AllMaps tiled map'
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
     onlineFunctionCode: download
   - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002675
     protocol: WWW:LINK
-    name: AllMaps interactive map
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002857
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_stanford_72
+    description: Verniquet Stanford - Feuille 72
+    onlineFunctionCode: browsing
 ...

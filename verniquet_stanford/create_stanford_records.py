@@ -10,6 +10,7 @@ from datetime import datetime
 import pandas
 import yaml
 
+from util import add_files
 
 def main():
     logging.basicConfig(level="INFO")
@@ -61,7 +62,7 @@ def main():
             "typeOfAssociation": "largerWorkCitation",
         },
     ]
-    lineage = pandas.read_csv("../uuids_verniquet.csv", index_col="yaml_identifier")
+    lineage = pandas.read_csv("../verniquet/yaml_list.csv", index_col="yaml_identifier")
     with open("../verniquet/extents.yaml", "r") as extent_file:
         data = yaml.safe_load(extent_file)
     logging.info(f"Loading manifest from URL {url}")
@@ -73,48 +74,6 @@ def main():
     documents = {}
     dataverse = json.loads(open("../verniquet/dataverse.harvard.edu.json").read())
     dataverse_datafileurl = "https://dataverse.harvard.edu/api/access/datafile/"
-
-    def addFiles(prefix: str, list: list):
-        for e in dataverse["data"]["latestVersion"]["files"]:
-            label = e["label"]
-            fileId = e["dataFile"]["id"]
-            link = dataverse_datafileurl + str(fileId)
-            files = []
-
-            def resource(link: str, name: str, description: str, protocol: str):
-                return {
-                    "linkage": link,
-                    "protocol": protocol,
-                    "name": name,
-                    "description": description,
-                    "onlineFunctionCode": "download",
-                }
-            if label == prefix + ".jpg.points":
-                logging.debug(f"points found: {fileId}")
-                files = [resource(link, "Georeferencing point file", "Georeferencing point file exported from QGIS", "WWW:DOWNLOAD")]
-            if label == prefix + ".json":
-                logging.debug(f"json found: {fileId}")
-                files = [
-                    resource(link, "Allmaps georeferencing IIIF annotation file", "Georeferencing annotation file in IIIF annotation format", "WWW:DOWNLOAD"),
-                    resource(
-                        "https://allmaps.xyz/{z}/{x}/{y}.png?url=" + link,
-                        "Allmaps tiled map",
-                        "Open IIIF annotation file in Allmaps tiled map",
-                        "WWW:LINK"
-                    ),
-                    resource(
-                        "https://viewer.allmaps.org/?url=" + link,
-                        "Allmaps viewer",
-                        "Open IIIF annotation file in Allmaps viewer",
-                        "WWW:LINK"
-                    ),
-                ]
-            if label == prefix + ".tif":
-                logging.debug(f"tif found: {fileId}")
-                files = [resource(link, "Georeferenced tiff", "Georeferenced image as GeoTIFF","WWW:DOWNLOAD")]
-
-            if files:
-                list.extend(files)
 
     with urllib.request.urlopen(url) as file:
         manifest = json.loads(file.read().decode("utf-8"))
@@ -150,7 +109,7 @@ def main():
                 number = None
                 if name.__contains__("Title"):
                     # name = 'Atlas national de la Ville de Paris, Page de titre [exemplaire Stanford G1844.P3 V4 1795 F]'
-                    theoretical_sheet = lineage.loc["TITLE", "uuid"]
+                    theoretical_sheet = lineage.loc["TITLE", "geonetwork_uuid"]
                 elif name.__contains__("Composite:"):
                     # name = 'Atlas national de la Ville de Paris, Carte d\'assemblage [exemplaire Stanford G1844.P3 V4 1795 F]]'
                     theoretical_sheet = None
@@ -158,12 +117,13 @@ def main():
                     number = int(re.search("(?<=Sheet )\w+", name).group(0))
                     logging.debug(number)
                     # name = f'Atlas national de la Ville de Paris, feuille N.[uméro] {number} [exemplaire Stanford G1844.P3 V4 1795 F]]'
-                    theoretical_sheet = lineage.loc[str(number), "uuid"]
+                    theoretical_sheet = lineage.loc[str(number), "geonetwork_uuid"]
                 logging.debug(f"  theoretical_sheet: {theoretical_sheet}")
                 online_resources = [{
                     "linkage": href,
                     "protocol": "WWW:DOWNLOAD",
-                    "name": "Scan de la Collection David Rumsey de bibliothèque de l'Université de Stanford",
+                    "name": "Original image from David Rumsey, Stanford University",
+                    "description": "Scan de la Collection David Rumsey de la bibliothèque de l'Université de Stanford",
                     "onlineFunctionCode": "download",
                 }]
                 instance = {
@@ -188,7 +148,14 @@ def main():
                         }}
                     )
                     instance.update({"presentationForm": "mapDigital"})
-                    addFiles(str(10110001 + number), online_resources)
+                    add_files(dataverse, dataverse_datafileurl, str(10110001 + number), online_resources)
+                    online_resources.append({
+                        'linkage': "https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities",
+                        'protocol': "OGC:WMS",
+                        'name': f"verniquet_stanford_{number}",
+                        'description': f"Verniquet Stanford - Feuille {number}",
+                        'onlineFunctionCode': "browsing"
+                    })
                 else:
                     instance.update(
                         {"extent": {"geoExtent": parisExtent, "temporalExtent": {"beginPosition": dates[0].text, "endPosition": dates[1].text}}})

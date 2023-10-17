@@ -9,6 +9,7 @@ from datetime import datetime
 import pandas
 import yaml
 
+from util import add_files
 
 def main():
     logging.basicConfig(level='INFO')
@@ -66,35 +67,35 @@ def main():
     dataverse = json.loads(open('../verniquet/dataverse.harvard.edu.json').read())
     dataverse_data_file_url = "https://dataverse.harvard.edu/api/access/datafile/"
 
-    def add_files(prefix, resource_list):
-        for e in dataverse["data"]["latestVersion"]["files"]:
-            dataverse_label = e["label"]
-            dataverse_file_id = e["dataFile"]["id"]
-            link = dataverse_data_file_url + str(dataverse_file_id)
-            resource_name = None
-            resource_description = None
-            resource_protocol = "WWW:DOWNLOAD"
-            if dataverse_label == prefix + ".jpg.points":
-                logging.debug(f"points found: {dataverse_file_id}")
-                resource_name = "Georeferencing point file"
-                resource_description = "Georeferencing point file exported from QGIS"
-            if dataverse_label == prefix + ".json":
-                logging.debug(f"json found: {dataverse_file_id}")
-                resource_name = "Georeferencing IIIF annotation file"
-                resource_description = "Georeferencing annotation file in IIIF annotation format"
-                resource_protocol = "WWW:LINK"
-            if dataverse_label == prefix + ".tif":
-                logging.debug(f"tif found: {dataverse_file_id}")
-                resource_name = "Georeferenced tiff"
-                resource_description = "Georeferenced image as GeoTIFF"
-            if resource_name:
-                resource_list.append({
-                        'linkage': link,
-                        'protocol': resource_protocol,
-                        'name': resource_name,
-                        'description': resource_description,
-                        'onlineFunctionCode': "download"
-                })
+    # def add_files(prefix, resource_list):
+    #     for e in dataverse["data"]["latestVersion"]["files"]:
+    #         dataverse_label = e["label"]
+    #         dataverse_file_id = e["dataFile"]["id"]
+    #         link = dataverse_data_file_url + str(dataverse_file_id)
+    #         resource_name = None
+    #         resource_description = None
+    #         resource_protocol = "WWW:DOWNLOAD"
+    #         if dataverse_label == prefix + ".jpg.points":
+    #             logging.debug(f"points found: {dataverse_file_id}")
+    #             resource_name = "Georeferencing point file"
+    #             resource_description = "Georeferencing point file exported from QGIS"
+    #         if dataverse_label == prefix + ".json":
+    #             logging.debug(f"json found: {dataverse_file_id}")
+    #             resource_name = "Georeferencing IIIF annotation file"
+    #             resource_description = "Georeferencing annotation file in IIIF annotation format"
+    #             resource_protocol = "WWW:LINK"
+    #         if dataverse_label == prefix + ".tif":
+    #             logging.debug(f"tif found: {dataverse_file_id}")
+    #             resource_name = "Georeferenced tiff"
+    #             resource_description = "Georeferenced image as GeoTIFF"
+    #         if resource_name:
+    #             resource_list.append({
+    #                     'linkage': link,
+    #                     'protocol': resource_protocol,
+    #                     'name': resource_name,
+    #                     'description': resource_description,
+    #                     'onlineFunctionCode': "download"
+    #             })
 
     logging.info(f"Loading manifest from URL {url}")
     with urllib.request.urlopen(url) as file:
@@ -149,7 +150,7 @@ def main():
                 else:
                     name = f'Atlas du plan général de la ville de Paris, feuille N.[uméro] {sheet_number} [exemplaire BnF, GE DD-2998 & IFN-53243704]'
                     theoretical_sheet = lineage.loc[str(sheet_number), 'geonetwork_uuid']
-                    add_files("f" + str(number), online_resources)
+                    add_files(dataverse, dataverse_data_file_url, "f" + str(number), online_resources)
                     online_resources.append({
                         'linkage': "https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities",
                         'protocol': "OGC:WMS",

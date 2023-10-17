@@ -4,7 +4,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -21,7 +21,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- b8a61cca-3997-460d-96b4-0078acdfc709
+- eacac40d-f422-4e8f-b427-f3827942eb2a
 stakeholders:
   individuals:
   - role: originator
@@ -43,7 +43,8 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f1/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
 extent:
   geoExtent:
@@ -61,7 +62,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Carte d'assemblage [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -78,7 +79,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8b83ba6e-99b4-4447-bf9b-2a7c55978f9e
+- 15f1b26d-865f-4f28-b54f-66ae7a7b25cc
 stakeholders:
   individuals:
   - role: originator
@@ -100,7 +101,8 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f2/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
 extent:
   geoExtent:
@@ -118,7 +120,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -135,7 +137,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 6953f561-6049-4783-bdb0-ee414100e5a1
+- b0eb87fb-01e1-4c51-9f3b-72266c7ee9fe
 stakeholders:
   individuals:
   - role: originator
@@ -157,20 +159,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f3/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002512
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002806
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002806
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002806
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002793
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_1
+    description: Verniquet BnF - Feuille 1
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -188,7 +209,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -205,7 +226,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- f918fc62-11a1-40de-8e1d-4e60e517b36b
+- fce0b6c5-b632-42f2-8463-a08adf977c26
 stakeholders:
   individuals:
   - role: originator
@@ -227,20 +248,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f4/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002761
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002740
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002740
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002740
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002552
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_2
+    description: Verniquet BnF - Feuille 2
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -258,7 +298,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -275,7 +315,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3e49b096-d0c1-4e36-9b48-c3d134d2e846
+- bb00703b-085c-4f0d-99ff-3568dc92c6fe
 stakeholders:
   individuals:
   - role: originator
@@ -297,20 +337,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f5/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002687
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002461
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002461
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002461
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002523
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_3
+    description: Verniquet BnF - Feuille 3
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -328,7 +387,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -345,7 +404,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- b345d0fb-835c-47c7-8f39-da07234cc1e6
+- 60abe252-3fa2-40ab-99a8-c80fd777cc68
 stakeholders:
   individuals:
   - role: originator
@@ -367,20 +426,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f6/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002878
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002551
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002551
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002551
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002630
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_4
+    description: Verniquet BnF - Feuille 4
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -398,7 +476,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -415,7 +493,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 4e7cce70-c7a3-4b74-97ab-51443947b8c8
+- 5b3bba0e-ca9b-45d6-bcf5-0e8452faf80b
 stakeholders:
   individuals:
   - role: originator
@@ -437,20 +515,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f7/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002748
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002785
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002785
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002785
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002583
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_5
+    description: Verniquet BnF - Feuille 5
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -468,7 +565,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -485,7 +582,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3823366b-b775-49ae-82f7-7d895b256e76
+- eed2330c-bfd3-4461-95ee-c40e04f15cc0
 stakeholders:
   individuals:
   - role: originator
@@ -507,20 +604,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f8/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002509
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002744
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002744
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002744
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002755
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_6
+    description: Verniquet BnF - Feuille 6
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -538,7 +654,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -555,7 +671,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e6187fe8-a6d4-4e6a-8a47-9a9c23fc9ae2
+- 13abf856-84da-45df-a128-e0e5f57fdabd
 stakeholders:
   individuals:
   - role: originator
@@ -577,20 +693,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f9/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002773
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002771
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002771
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002771
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002584
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_7
+    description: Verniquet BnF - Feuille 7
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -608,7 +743,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -625,7 +760,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 093c43ce-52e7-41b1-9287-24c7b6fbf669
+- 5a20ead0-19d6-4774-8cf5-62a0299946f0
 stakeholders:
   individuals:
   - role: originator
@@ -647,20 +782,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f10/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002819
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002732
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002732
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002732
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002467
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_8
+    description: Verniquet BnF - Feuille 8
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -678,7 +832,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -695,7 +849,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 62fe9c3c-e72b-4a16-880a-3f51cbaf6d47
+- c3b38621-4cfa-4d93-b9a3-33588cd127a4
 stakeholders:
   individuals:
   - role: originator
@@ -717,20 +871,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f11/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002500
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002547
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002547
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002547
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002672
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_9
+    description: Verniquet BnF - Feuille 9
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -748,7 +921,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -765,7 +938,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 4c084575-98dc-438a-9033-8e6a2095a101
+- d54256d6-aa12-404e-a3fe-f34e96513709
 stakeholders:
   individuals:
   - role: originator
@@ -787,20 +960,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f12/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002548
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002471
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002471
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002471
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002573
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_10
+    description: Verniquet BnF - Feuille 10
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -818,7 +1010,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -835,7 +1027,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ae1ef5ca-dc9e-488c-9828-85e953b11877
+- 218d64f4-06b1-4893-b457-7ae3814c3c09
 stakeholders:
   individuals:
   - role: originator
@@ -857,20 +1049,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f13/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002726
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002674
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002674
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002674
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002463
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_11
+    description: Verniquet BnF - Feuille 11
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -888,7 +1099,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -905,7 +1116,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 522cf30e-7a28-4037-addf-7e58af790212
+- f0f249fe-401a-4b7d-90f3-267da238d5b7
 stakeholders:
   individuals:
   - role: originator
@@ -927,20 +1138,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f14/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002581
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002747
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002747
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002747
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002873
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_12
+    description: Verniquet BnF - Feuille 12
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -958,7 +1188,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -975,7 +1205,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e254249d-df50-4ae4-a660-22ff59c07471
+- 606a6338-735f-407d-83f4-e0bd7e544a19
 stakeholders:
   individuals:
   - role: originator
@@ -997,20 +1227,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f15/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002689
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002469
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002469
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002469
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002567
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_13
+    description: Verniquet BnF - Feuille 13
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1028,7 +1277,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1045,7 +1294,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 1893e7c4-ad8a-4c65-b217-85ce62a04d85
+- fa92da37-2331-4fc5-8b7f-5ffc7a1b84e5
 stakeholders:
   individuals:
   - role: originator
@@ -1067,20 +1316,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f16/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002628
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002750
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002750
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002750
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002640
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_14
+    description: Verniquet BnF - Feuille 14
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1098,7 +1366,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1115,7 +1383,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 0868c464-0a42-4f25-8e79-52ca786856b9
+- 2c0fbba5-2bb6-4cb6-b045-601fb07ce430
 stakeholders:
   individuals:
   - role: originator
@@ -1137,20 +1405,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f17/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002780
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002458
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002458
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002458
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002767
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_15
+    description: Verniquet BnF - Feuille 15
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1168,7 +1455,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1185,7 +1472,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- d5290569-9078-4964-ade7-c9c20045e8f3
+- 51a620f3-5c59-4844-a73e-d1f2ac5cf762
 stakeholders:
   individuals:
   - role: originator
@@ -1207,20 +1494,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f18/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002737
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002491
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002491
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002491
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002877
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_16
+    description: Verniquet BnF - Feuille 16
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1238,7 +1544,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1255,7 +1561,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- bf9cc22e-de05-4859-a05c-993d2ea24f02
+- ff933ed7-fc14-4304-a8a7-f3a8c62b3174
 stakeholders:
   individuals:
   - role: originator
@@ -1277,20 +1583,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f19/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002701
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002480
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002480
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002480
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002688
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_17
+    description: Verniquet BnF - Feuille 17
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1308,7 +1633,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1325,7 +1650,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 1849adcb-bd39-482d-8878-3d89a7f0d037
+- 7026737a-9037-46c3-971a-eb194800d428
 stakeholders:
   individuals:
   - role: originator
@@ -1347,20 +1672,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f20/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002651
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002629
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002629
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002629
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002550
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_18
+    description: Verniquet BnF - Feuille 18
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1378,7 +1722,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1395,7 +1739,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 57d2b5bd-fcd2-404e-8feb-0a59e703d9c1
+- 573bd0d4-5a04-41f5-bb82-691c2ed12393
 stakeholders:
   individuals:
   - role: originator
@@ -1417,20 +1761,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f21/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002493
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002622
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002622
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002622
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002887
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_19
+    description: Verniquet BnF - Feuille 19
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1448,7 +1811,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1465,7 +1828,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 2e8fdc1a-f5b6-4ed2-92a9-2d270c626f2b
+- 629076b8-26ca-46f7-b5a4-ad8d09c96f86
 stakeholders:
   individuals:
   - role: originator
@@ -1487,20 +1850,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f22/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002779
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002643
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002643
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002643
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002679
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_20
+    description: Verniquet BnF - Feuille 20
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1518,7 +1900,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1535,7 +1917,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 771344f8-526a-4d8b-8997-e04efdf8fc48
+- 3ab11060-0281-41ef-b985-987e20e2518e
 stakeholders:
   individuals:
   - role: originator
@@ -1557,20 +1939,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f23/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002742
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002822
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002822
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002822
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002787
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_21
+    description: Verniquet BnF - Feuille 21
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1588,7 +1989,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1605,7 +2006,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 94a67386-24b0-4c8e-9592-59f3c16a49ba
+- 7d0c0ff6-2093-4fd3-8ba7-86d9d76e894f
 stakeholders:
   individuals:
   - role: originator
@@ -1627,20 +2028,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f24/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002544
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002631
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002631
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002631
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002884
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_22
+    description: Verniquet BnF - Feuille 22
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1658,7 +2078,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1675,7 +2095,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- deba243b-9b5d-450d-9c54-2cea796391fa
+- 3f207da7-2d9f-490d-86db-72326f14c5d5
 stakeholders:
   individuals:
   - role: originator
@@ -1697,20 +2117,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f25/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002867
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002654
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002654
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002654
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002874
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_23
+    description: Verniquet BnF - Feuille 23
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1728,7 +2167,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1745,7 +2184,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 6a4e501f-dc64-417a-be8d-760e28e493d4
+- 83eef68c-d28e-4634-9953-817900410bd9
 stakeholders:
   individuals:
   - role: originator
@@ -1767,20 +2206,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f26/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002840
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002784
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002784
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002784
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002778
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_24
+    description: Verniquet BnF - Feuille 24
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1798,7 +2256,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1815,7 +2273,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 19bcb25d-c913-4634-91c4-19de6ae00e2c
+- b876eac8-7640-47ae-addc-9439bb2521fb
 stakeholders:
   individuals:
   - role: originator
@@ -1837,20 +2295,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f27/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002462
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002791
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002791
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002791
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002786
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_25
+    description: Verniquet BnF - Feuille 25
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1868,7 +2345,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1885,7 +2362,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ad35ae03-14c0-4dc2-a2d4-529b9c50d714
+- 88b5c544-47fe-49c0-9842-a1e11b7b4068
 stakeholders:
   individuals:
   - role: originator
@@ -1907,20 +2384,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f28/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002549
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002673
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002673
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002673
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002677
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_26
+    description: Verniquet BnF - Feuille 26
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -1938,7 +2434,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1955,7 +2451,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 654a490d-bfff-4355-817e-37816b0acf20
+- c10093b9-844e-4505-9cf7-d630c4deeb16
 stakeholders:
   individuals:
   - role: originator
@@ -1977,20 +2473,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f29/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002788
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002600
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002600
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002600
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002657
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_27
+    description: Verniquet BnF - Feuille 27
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2008,7 +2523,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2025,7 +2540,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- d4b335d0-820c-4530-941e-26f3bae60fd1
+- 6d658310-8810-422d-a046-39ff734d5eff
 stakeholders:
   individuals:
   - role: originator
@@ -2047,20 +2562,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f30/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002886
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002598
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002598
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002598
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002736
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_28
+    description: Verniquet BnF - Feuille 28
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2078,7 +2612,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2095,7 +2629,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e691cdb6-b549-4214-b102-21b92586662d
+- 61c5393b-22e4-4c51-80b2-21b8dfa9c363
 stakeholders:
   individuals:
   - role: originator
@@ -2117,20 +2651,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f31/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002849
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002774
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002774
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002774
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002642
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_29
+    description: Verniquet BnF - Feuille 29
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2148,7 +2701,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2165,7 +2718,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 859f0212-a705-41fd-a13e-1ff3ba4e6a06
+- 0f4d44d9-1b54-46e5-92f2-bac3d6d11647
 stakeholders:
   individuals:
   - role: originator
@@ -2187,20 +2740,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f32/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002515
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002580
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002580
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002580
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002685
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_30
+    description: Verniquet BnF - Feuille 30
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2218,7 +2790,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2235,7 +2807,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e273d76a-4fff-45d0-a4b3-32b941a9a0d3
+- 940fd012-98b9-4780-a4a9-4a2674fb8b2f
 stakeholders:
   individuals:
   - role: originator
@@ -2257,20 +2829,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f33/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002790
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002728
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002728
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002728
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002563
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_31
+    description: Verniquet BnF - Feuille 31
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2288,7 +2879,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2305,7 +2896,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- b281935c-5da2-425a-b99d-3e174309b388
+- 57f689a9-1e8c-42f8-81ac-e636e1a644ce
 stakeholders:
   individuals:
   - role: originator
@@ -2327,20 +2918,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f34/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002868
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002466
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002466
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002466
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002845
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_32
+    description: Verniquet BnF - Feuille 32
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2358,7 +2968,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2375,7 +2985,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- c46e4025-0b1d-4468-8501-0a3d555abb6d
+- 8beb18fb-53a3-4e21-923a-33b4ef5cef75
 stakeholders:
   individuals:
   - role: originator
@@ -2397,20 +3007,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f35/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002570
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002731
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002731
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002731
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002801
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_33
+    description: Verniquet BnF - Feuille 33
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2428,7 +3057,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2445,7 +3074,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ad30babb-f7df-4454-ad56-4edef9221856
+- d0cb022d-48a4-46d8-b9c8-2a13265975cd
 stakeholders:
   individuals:
   - role: originator
@@ -2467,20 +3096,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f36/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002647
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002553
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002553
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002553
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002635
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_34
+    description: Verniquet BnF - Feuille 34
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2498,7 +3146,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2515,7 +3163,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8901b553-4db3-4503-827e-ae20760ade70
+- c37c7758-ec85-45a8-b039-a225d15102f0
 stakeholders:
   individuals:
   - role: originator
@@ -2537,20 +3185,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f37/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002666
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002763
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002763
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002763
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002823
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_35
+    description: Verniquet BnF - Feuille 35
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2568,7 +3235,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2585,7 +3252,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 9f7af855-da17-4b5f-9201-ce9f9c011173
+- f02eb473-afb5-42aa-b321-8bebda95b327
 stakeholders:
   individuals:
   - role: originator
@@ -2607,20 +3274,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f38/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002875
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002664
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002664
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002664
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002538
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_36
+    description: Verniquet BnF - Feuille 36
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2638,7 +3324,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2655,7 +3341,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- d93d212a-aa09-44f7-81b6-e59ddf1e811d
+- 08a992b9-1c7b-44da-83d3-e3205e71965c
 stakeholders:
   individuals:
   - role: originator
@@ -2677,20 +3363,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f39/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002722
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002808
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002808
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002808
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002485
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_37
+    description: Verniquet BnF - Feuille 37
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2708,7 +3413,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2725,7 +3430,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e0694c6b-60f4-4285-a4a9-0b27c7b1c5eb
+- d5f21c02-100b-441b-b3a7-bb6f868a2f5f
 stakeholders:
   individuals:
   - role: originator
@@ -2747,20 +3452,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f40/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002586
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002824
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002824
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002824
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002802
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_38
+    description: Verniquet BnF - Feuille 38
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2778,7 +3502,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2795,7 +3519,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- a4836003-eb2e-4f81-9c9e-49e5123d2986
+- ae2ea782-b559-4dbb-af59-884b87b7a87d
 stakeholders:
   individuals:
   - role: originator
@@ -2817,20 +3541,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f41/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002852
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002534
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002534
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002534
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002850
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_39
+    description: Verniquet BnF - Feuille 39
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2848,7 +3591,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2865,7 +3608,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 9be9f3ee-d9c9-4c17-8c7d-ead5be00351f
+- 41fbfc28-29a8-404d-87e1-3a0f67aa54a4
 stakeholders:
   individuals:
   - role: originator
@@ -2887,20 +3630,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f42/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002579
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002612
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002612
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002612
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002592
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_40
+    description: Verniquet BnF - Feuille 40
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2918,7 +3680,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2935,7 +3697,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 72a35047-4309-4013-b6b7-9a5e5b6710bb
+- 96deae88-bbc7-46c7-b7e7-6380cf8995b5
 stakeholders:
   individuals:
   - role: originator
@@ -2957,20 +3719,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f43/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002810
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002511
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002511
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002511
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002699
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_41
+    description: Verniquet BnF - Feuille 41
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -2988,7 +3769,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3005,7 +3786,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- d6ea047d-be3a-4f0c-8761-a97c9502698d
+- f5680f3b-1678-4cee-8bc9-15f8424946bf
 stakeholders:
   individuals:
   - role: originator
@@ -3027,20 +3808,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f44/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002528
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002670
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002670
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002670
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002569
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_42
+    description: Verniquet BnF - Feuille 42
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3058,7 +3858,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3075,7 +3875,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8d4d11c0-f859-4485-a404-2b5dfaf2c7af
+- 2f7b3702-2fa2-40c0-a5c5-27f4c8c00d8d
 stakeholders:
   individuals:
   - role: originator
@@ -3097,20 +3897,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f45/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002847
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002811
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002811
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002811
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002805
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_43
+    description: Verniquet BnF - Feuille 43
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3128,7 +3947,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3145,7 +3964,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 88af26f8-96bb-45d9-bac8-eb625e03021c
+- 108aadcb-d8a1-426b-927a-23f7ccff0588
 stakeholders:
   individuals:
   - role: originator
@@ -3167,20 +3986,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f46/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002837
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002723
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002723
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002723
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002478
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_44
+    description: Verniquet BnF - Feuille 44
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3198,7 +4036,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3215,7 +4053,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 0d248cc5-fe48-43a0-8b10-5ad8bce8a1b4
+- 6825619f-1337-4255-8a14-cd738a96eff0
 stakeholders:
   individuals:
   - role: originator
@@ -3237,20 +4075,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f47/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002883
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002888
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002888
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002888
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002613
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_45
+    description: Verniquet BnF - Feuille 45
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3268,7 +4125,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3285,7 +4142,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- cceba26c-d4c5-4457-817f-ae4dfc974f0e
+- 3af9d2ba-2386-4710-9aaa-eca5b9f2079c
 stakeholders:
   individuals:
   - role: originator
@@ -3307,20 +4164,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f48/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002611
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002851
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002851
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002851
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002865
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_46
+    description: Verniquet BnF - Feuille 46
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3338,7 +4214,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3355,7 +4231,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 2c657415-0dcc-46af-a851-3e7d9d36a0f0
+- 1a2ccdc5-c9d1-4512-97c3-d693b7f96d60
 stakeholders:
   individuals:
   - role: originator
@@ -3377,20 +4253,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f49/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002532
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002546
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002546
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002546
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002474
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_47
+    description: Verniquet BnF - Feuille 47
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3408,7 +4303,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3425,7 +4320,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- dbaf87ba-2f90-4f8b-b4fa-446ef1395086
+- eefaa113-c17f-4768-a3f8-10f420c11bd7
 stakeholders:
   individuals:
   - role: originator
@@ -3447,20 +4342,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f50/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002530
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002757
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002757
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002757
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002703
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_48
+    description: Verniquet BnF - Feuille 48
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3478,7 +4392,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3495,7 +4409,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- f33b2694-034d-47bb-bbdb-d0c8e1bbb012
+- b28d577c-8d76-433e-9632-25c80888c5fc
 stakeholders:
   individuals:
   - role: originator
@@ -3517,20 +4431,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f51/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002508
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002693
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002693
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002693
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002792
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_49
+    description: Verniquet BnF - Feuille 49
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3548,7 +4481,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3565,7 +4498,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 13ba4cf0-d849-4db9-be4f-306c88987e7a
+- 803f3909-b63e-4728-80da-33ca13294257
 stakeholders:
   individuals:
   - role: originator
@@ -3587,20 +4520,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f52/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002659
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002879
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002879
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002879
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002762
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_50
+    description: Verniquet BnF - Feuille 50
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3618,7 +4570,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3635,7 +4587,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 4d597857-051a-40f2-b5f4-e931f7320889
+- 42413d87-e8f3-4d21-9324-53fd62a2181e
 stakeholders:
   individuals:
   - role: originator
@@ -3657,20 +4609,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f53/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002610
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002813
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002813
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002813
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002593
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_51
+    description: Verniquet BnF - Feuille 51
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3688,7 +4659,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3705,7 +4676,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e5f5e709-ab94-459e-97c1-7be86668f5a9
+- 3545bb10-428c-42f4-97cc-cdc37815ad4f
 stakeholders:
   individuals:
   - role: originator
@@ -3727,20 +4698,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f54/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002676
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002501
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002501
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002501
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002841
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_52
+    description: Verniquet BnF - Feuille 52
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3758,7 +4748,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3775,7 +4765,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 47941da3-6c20-4306-9903-425bd3bf627b
+- 35a01e4d-8d08-4fa5-a4ac-bbf00a252ed7
 stakeholders:
   individuals:
   - role: originator
@@ -3797,20 +4787,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f55/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002574
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002601
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002601
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002601
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002599
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_53
+    description: Verniquet BnF - Feuille 53
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3828,7 +4837,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3845,7 +4854,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- eeb37c27-b0d8-43fb-b46d-08f5d285973c
+- 24c02699-5334-4320-92fa-5f4d63d99eb6
 stakeholders:
   individuals:
   - role: originator
@@ -3867,20 +4876,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f56/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002517
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002809
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002809
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002809
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002482
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_54
+    description: Verniquet BnF - Feuille 54
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3898,7 +4926,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3915,7 +4943,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- daa0a6c9-bd5a-4fcf-851d-c3b56d147b27
+- c1fd9c80-b60f-44c4-a17b-8b7178f128f3
 stakeholders:
   individuals:
   - role: originator
@@ -3937,20 +4965,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f57/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002753
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002658
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002658
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002658
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002835
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_55
+    description: Verniquet BnF - Feuille 55
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -3968,7 +5015,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3985,7 +5032,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3d487051-0eea-47ab-bd24-5d5623601172
+- 7a37409f-c425-41ce-8a75-e518bef9330f
 stakeholders:
   individuals:
   - role: originator
@@ -4007,20 +5054,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f58/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002565
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002608
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002608
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002608
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002578
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_56
+    description: Verniquet BnF - Feuille 56
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4038,7 +5104,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4055,7 +5121,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e2186cdf-2368-412d-8166-37742d33e4ba
+- 275d15b6-2108-4350-aa8c-7141839e394c
 stakeholders:
   individuals:
   - role: originator
@@ -4077,20 +5143,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f59/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002488
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002816
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002816
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002816
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002616
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_57
+    description: Verniquet BnF - Feuille 57
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4108,7 +5193,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4125,7 +5210,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 417cb6b3-18fd-483d-92ee-c03d0537d1a9
+- ea70f8df-12a5-463d-98b0-d8b427f6ac74
 stakeholders:
   individuals:
   - role: originator
@@ -4147,20 +5232,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f60/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002504
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002702
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002702
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002702
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002800
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_58
+    description: Verniquet BnF - Feuille 58
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4178,7 +5282,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4195,7 +5299,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3daa68ee-bc5d-47bc-82fa-0c299a4a9023
+- 2f7a1b9a-828d-4cbf-8345-46098bae5c64
 stakeholders:
   individuals:
   - role: originator
@@ -4217,20 +5321,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f61/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002858
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002821
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002821
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002821
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002735
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_59
+    description: Verniquet BnF - Feuille 59
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4248,7 +5371,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4265,7 +5388,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- a4d33472-18f7-478a-8822-fa821ca0bd42
+- 269fce1f-8321-4ae0-bbed-d806824abb1c
 stakeholders:
   individuals:
   - role: originator
@@ -4287,20 +5410,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f62/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002562
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002876
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002876
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002876
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002745
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_60
+    description: Verniquet BnF - Feuille 60
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4318,7 +5460,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4335,7 +5477,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 855c0749-fe66-4b95-aac9-21289b8ef41a
+- 8f0e0645-a6d8-4fac-b270-eb2dcfe86004
 stakeholders:
   individuals:
   - role: originator
@@ -4357,20 +5499,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f63/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002756
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002768
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002768
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002768
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002783
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_61
+    description: Verniquet BnF - Feuille 61
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4388,7 +5549,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4405,7 +5566,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3274a85b-01d3-49d2-83d2-b82664949c95
+- e7a20317-a766-4fd2-9552-3e9f53765095
 stakeholders:
   individuals:
   - role: originator
@@ -4427,20 +5588,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f64/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002618
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002540
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002540
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002540
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002848
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_62
+    description: Verniquet BnF - Feuille 62
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4458,7 +5638,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4475,7 +5655,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8c7e36c8-708c-48bc-9234-c1d720d6eeb9
+- fcb15d83-d4f2-4b52-a17f-d01b6674d4f4
 stakeholders:
   individuals:
   - role: originator
@@ -4497,20 +5677,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f65/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002476
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002754
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002754
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002754
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002691
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_63
+    description: Verniquet BnF - Feuille 63
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4528,7 +5727,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4545,7 +5744,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 27e21160-a47c-497b-be77-a9d8aac3bd85
+- 15a6e69d-4792-4dcb-81c5-1d2e7d742197
 stakeholders:
   individuals:
   - role: originator
@@ -4567,20 +5766,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f66/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002690
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002606
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002606
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002606
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002860
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_64
+    description: Verniquet BnF - Feuille 64
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4598,7 +5816,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4615,7 +5833,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 4a975b7c-5f8f-4566-b21f-9cee18fabe3b
+- 943a8b37-8022-4fd9-a73d-9a4fc8ab2e64
 stakeholders:
   individuals:
   - role: originator
@@ -4637,20 +5855,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f67/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002596
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002587
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002587
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002587
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002535
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_65
+    description: Verniquet BnF - Feuille 65
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4668,7 +5905,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4685,7 +5922,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ed8d823a-4f34-4910-804c-f80224233bb0
+- ea6d1b96-461b-4266-9410-666d9bcd36b5
 stakeholders:
   individuals:
   - role: originator
@@ -4707,20 +5944,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f68/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002667
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002882
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002882
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002882
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002833
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_66
+    description: Verniquet BnF - Feuille 66
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4738,7 +5994,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4755,7 +6011,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- dfe76fcb-6e52-4cb2-a804-8b940286a349
+- 7e54ae33-b140-458b-8b00-338f70b2709e
 stakeholders:
   individuals:
   - role: originator
@@ -4777,20 +6033,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f69/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002749
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002459
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002459
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002459
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002524
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_67
+    description: Verniquet BnF - Feuille 67
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4808,7 +6083,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4825,7 +6100,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 71959d56-c842-4f1c-b4da-e41318999ecc
+- c3cc35d5-c218-408d-b281-95960ccf5a8b
 stakeholders:
   individuals:
   - role: originator
@@ -4847,20 +6122,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f70/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002799
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002866
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002866
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002866
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002479
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_68
+    description: Verniquet BnF - Feuille 68
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4878,7 +6172,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4895,7 +6189,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8ee2eaa0-6d06-464d-80a3-4e5bc4f62c55
+- 354dba28-48a3-488f-bc7e-3be6f5fd305e
 stakeholders:
   individuals:
   - role: originator
@@ -4917,20 +6211,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f71/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002711
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002660
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002660
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002660
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002760
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_69
+    description: Verniquet BnF - Feuille 69
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -4948,7 +6261,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4965,7 +6278,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 913e9d75-8941-49a1-addb-26e5ac7f6ba1
+- f4059982-0ff5-4146-b91c-b28fe6fc84e6
 stakeholders:
   individuals:
   - role: originator
@@ -4987,20 +6300,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f72/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002519
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002473
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002473
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002473
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002772
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_70
+    description: Verniquet BnF - Feuille 70
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -5018,7 +6350,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5035,7 +6367,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8128ace7-59d0-4ad2-af46-780a2613ac31
+- b114fc59-c809-41ab-a82a-640864c57884
 stakeholders:
   individuals:
   - role: originator
@@ -5057,20 +6389,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f73/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002769
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002725
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002725
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002725
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002838
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_71
+    description: Verniquet BnF - Feuille 71
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
@@ -5088,7 +6439,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-03'
+- value: '2023-10-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5105,7 +6456,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 7f4a725f-084a-4668-87fe-6f434984ba61
+- 1d9a6ee9-c676-4754-9797-a2ea4a01daef
 stakeholders:
   individuals:
   - role: originator
@@ -5127,20 +6478,39 @@ distributionInfo:
   onlineResources:
   - linkage: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53243704g/f74/full/full/0/native.jpg
     protocol: WWW:DOWNLOAD
-    name: Scan de la BnF
+    name: Native image from BnF
+    description: "Feuille scann\xE9e par la BnF"
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002854
     protocol: WWW:DOWNLOAD
     name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002870
     protocol: WWW:DOWNLOAD
-    name: Georeferencing AllMaps annotation file
+    name: Allmaps georeferencing IIIF annotation file
+    description: Georeferencing annotation file in IIIF annotation format
+    onlineFunctionCode: download
+  - linkage: https://allmaps.xyz/{z}/{x}/{y}.png?url=https://dataverse.harvard.edu/api/access/datafile/7002870
+    protocol: WWW:LINK
+    name: Allmaps tiled map
+    description: Open IIIF annotation file in Allmaps tiled map
+    onlineFunctionCode: download
+  - linkage: https://viewer.allmaps.org/?url=https://dataverse.harvard.edu/api/access/datafile/7002870
+    protocol: WWW:LINK
+    name: Allmaps viewer
+    description: Open IIIF annotation file in Allmaps viewer
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002700
     protocol: WWW:DOWNLOAD
-    name: Georeferenced tiff (geotif)
+    name: Georeferenced tiff
+    description: Georeferenced image as GeoTIFF
     onlineFunctionCode: download
+  - linkage: https://map.geohistoricaldata.org/mapproxy/service=WMS?REQUEST=GetCapabilities
+    protocol: OGC:WMS
+    name: verniquet_bnf_72
+    description: Verniquet BnF - Feuille 72
+    onlineFunctionCode: browsing
 presentationForm: mapDigital
 extent:
   geoExtent:
