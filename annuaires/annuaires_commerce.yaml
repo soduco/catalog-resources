@@ -1,0 +1,45 @@
+# TO DO : le champ "identifier" est important pour les annuaires, il faut mettre à jour le builder.
+# Pour éviter toute confusion avec les "identifier" des atlas qui ne sont pas utilisés, mieux vaut utiliser un second "identifier"
+---
+identifier: AlmComm
+identifier_annuaire: AlmComm
+identification:
+  title: Almanachs du commerce
+events:
+- value: '1817'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.408043511490396'
+    southBoundLatitude: '48.82447319213146'
+    northBoundLatitude: '48.89040785367291'
+  temporalExtent:
+    beginPosition: '1784-01-01'
+    endPosition: '1799-12-31'
+keywords:
+# TO DO : define if Instance or RecordSet
+# - value: RecordSet
+#   typeOfKeyword: taxon
+- value: Paris
+  typeOfKeyword: place
+- value: Directory
+  typeOfKeyword: theme
+associatedResource:
+- value: 86eb1773-8a79-47e9-9185-8aea97dc1012
+  typeOfAssociation: largerWorkCitation
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  organisations:
+  - role: pointOfContact
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+...
