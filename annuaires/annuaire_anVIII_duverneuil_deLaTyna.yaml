@@ -50,16 +50,16 @@ stakeholders:
   individuals:
   - role: originator
     name: Duverneuil
-    # TODO : translate
-    ficheAutorite: BnF
-    code: ark:/12148/cb10198554f
-    codespace: https://catalogue.bnf.fr/
+    partyIdentifier:
+      authority_name: BnF
+      code: ark:/12148/cb10198554f
+      codespace: https://catalogue.bnf.fr/
   - role: originator
     name: De La Tynna
-    # TODO : translate
-    ficheAutorite: BnF
-    code: ark:/12148/cb178275616
-    codespace: https://catalogue.bnf.fr/    
+    partyIdentifier:
+      authority_name: BnF
+      code: ark:/12148/cb178275616
+      codespace: https://catalogue.bnf.fr/    
   organisations:
   - role: pointOfContact
     name: The SoDUCo project
