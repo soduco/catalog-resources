@@ -15,7 +15,7 @@ extent:
     beginPosition: '1784-01-01'
     endPosition: '1795-12-31'
 keywords:
-- value: RecordSet
+- value: File
   typeOfKeyword: taxon
 - value: Paris
   typeOfKeyword: place

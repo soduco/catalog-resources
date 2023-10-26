@@ -18,9 +18,8 @@ extent:
     beginPosition: '1784-01-01'
     endPosition: '1799-12-31'
 keywords:
-# TO DO : define if Instance or RecordSet
-# - value: RecordSet
-#   typeOfKeyword: taxon
+- value: Collection
+  typeOfKeyword: taxon
 - value: Paris
   typeOfKeyword: place
 - value: Directory
