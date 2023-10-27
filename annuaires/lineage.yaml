@@ -16,7 +16,7 @@ processStep:
   softwareTitle: processStep_software_title
   softwareIdentifier: processStep_software_identifier
   # un processus peut produire un ou plusieurs documents en sortie
-  output:
+  ProcessStepOutput:
   - title: processStep_output_title
     identifier: processStep_output_identifier
 ...
