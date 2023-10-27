@@ -9,29 +9,14 @@ processStep:
   typeOfActivity: processStep_processus_identifier
   # un processus possède une ou plusieurs sources
   processStepSource:
-    - description: processStep_source_title
-      title: processStep_source_title
-      identifier: processStep_source_identifier
-      # un processus peut avoir plusieurs étapes, appelées "sourceStep"
-      sourceStep:
-      - description: sourceStep_description
-        title: sourceStep_title
-        identifier: sourceStep_identifier
-        # une étape possède elle même une ou plusieurs sources
-        sources:
-        - description: sourceStep_1_description
-          title: sourceStep_1_title
-          identifier: sourceStep_1_identifier
-        # une étape peut produire un ou plusieurs documents en sortie
-        output:
-        - title: sourceStep_1_output_title
-          identifier: sourceStep_1_output_identifier
+  - description: processStep_source_title
+    title: processStep_source_title
+    identifier: processStep_source_identifier
   # les infos sur le logiciel utilisé
-  softwareReference:
-    softwareTitle: processStep_software_title
-    softwareIdentifier: processStep_software_identifier
+  softwareTitle: processStep_software_title
+  softwareIdentifier: processStep_software_identifier
   # un processus peut produire un ou plusieurs documents en sortie
   output:
-    - title: processStep_output_title
-      identifier: processStep_output_identifier
+  - title: processStep_output_title
+    identifier: processStep_output_identifier
 ...
