@@ -2,6 +2,8 @@
 # Un document geonetwork peux subir plusieurs processus
 processStep:
 - description: processStep_description
+  title: processStep_title
+  identifier: processStep_identifier
   processorInfo:
     processor: The SoDUCo Project
     processor_mail: contact@geohistoricaldata.org
