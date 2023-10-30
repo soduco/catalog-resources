@@ -91,7 +91,7 @@ def main():
     # create a recordset for the collection
     directory_entries.append({
       "identifier": f"Collection:{collection}",
-      "identification": {"title": coll_titre},
+      "identification": {"title": f"({collection}) {coll_titre}"},
       "abstract": f"Collection d'annuaires comprenant {len(series)} séries et {len(collection_lines.index)} annuaires répertoriés dans le cadre du projet SoDUCo.",
       "events": events,
       "extent": {
@@ -122,7 +122,7 @@ def main():
     # create a recordset for the serie
     directory_entries.append({
       "identifier": f"Serie:{serie}",
-      "identification": {"title": serie_titre},
+      "identification": {"title": f"({serie}) {serie_titre}"},
       "abstract": f"Série d'annuaires comprenant {len(collection_lines.index)} annuaires répertoriés dans le cadre du projet SoDUCo.",
       "events": events,
       "extent": {
@@ -168,7 +168,7 @@ def main():
     # create a record for the directory
     directory_entries.append({
       "identifier": directory,
-      "identification": {"title": directory_title},
+      "identification": {"title": f"({directory}) {directory_title}"},
       "abstract": f"{directory_title}. {directory_title_complement}",
       "events": events,
       "extent": {
@@ -194,20 +194,20 @@ def main():
       source=None
       for _, exemplar_line in exemplar_lines.iterrows():
         if pandas.notna(exemplar_line["Vnum_lien_Gallica"]):
-          source="BnF"
+          source="Exemplaire BnF"
         else:
           if pandas.notna(exemplar_line["Vnum_lien_retronews"]):
-            source="RetroNews - BnF"
+            source="Exemplaire RetroNews - BnF"
           else:
             if pandas.notna(exemplar_line["Vnum_autre_source_lien"]):
-              source=exemplar_line["Vnum_autre_source"]
+              source=f"Exemplaire {exemplar_line['Vnum_autre_source']}"
       if not source:
-        source = "Inconnu"
+        source = "Aucun exemplaire numérique trouvé dans le cadre du projet."
       #TODO where do we add the "source"?
       exemplar_distributionInfo = distributionInfo.copy()
       directory_entry = {
         "identifier": exemplar_id,
-        "identification": {"title": f"{directory_title}. Exemplaire {source}."},
+        "identification": {"title": f"({exemplar_id}) {directory_title}. {source}."},
         "abstract": f"{directory_title}. {directory_title_complement}",
         "events": events,
         "extent": {
@@ -265,55 +265,71 @@ def main():
         exemplar_complement_lines = df_complement[df_complement["code_ouvrage"]==directory+"_"+exemplar]
       logging.info(f"\tThere are {len(exemplar_complement_lines.index)} lines for exemplar {exemplar}")
       process_steps = []
-      for _, row_complement in exemplar_complement_lines.iterrows():
-        code_fichier = row_complement['Code_fichier']
-        #code_ouvrage = row_complement['code_ouvrage']
-        #annee = row_complement['Liste_annee']
-        url = row_complement['lien_ouvrage_en_ligne']
-        selection = row_complement['selection_trait_soduco']
-        if selection and selection > 0:
-          diff_vuepdf_vueark = row_complement['diff_vuepdf_vueark']
-          if pandas.isna(row_complement['diff_vuepdf_vueark']):
-            diff_vuepdf_vueark = 0
-          else:
-            diff_vuepdf_vueark = int(diff_vuepdf_vueark)
-          page_start = int(row_complement['npage_pdf_d'])#-diff_vuepdf_vueark
-          page_end = int(row_complement['npage_pdf_f'])#-diff_vuepdf_vueark
-          url_output = f"https://api.geohistoricaldata.org/directories/entries?and=(source.eq.{code_fichier},and(page.gte.{page_start:04d},page.lte.{page_end:04d}))&order=page.asc,id.asc"
-          process_step = {
-            "title": "Application de la chaîne de traitement SoDUCo",
-            "description": "Application de la chaîne de traitement SoDUCo impliquant, entre autres, l'extraction de la structure du document, l'extraction des entrées, la reconnaissance de caractères et la détection des entités nommées.",
-            "identifier": str(uuid.uuid4()),
-            "processorInfo": processorInfo,
-            "typeOfActivity": "directory_analysis",
-            "processStepSource": [
-              {
-                "title": "Document source (image)",
-                "description": f"Document récupéré depuis {url}",
-                "identifier": str(uuid.uuid5(uuid.NAMESPACE_URL, url))
-              }
-            ],
-            "softwareTitle": "Chaîne de traitement SoDUCo",
-            "softwareIdentifier": str(uuid.uuid5(uuid.NAMESPACE_URL, "https://gitlab.lre.epita.fr/soduco/directory-annotator-back")),
-            "ProcessStepOutput": [
-              {
-                "title": "Données créées par la chaîne detraitement",
-                "description": f"Données créées par la chaîne detraitement et récupérable en ligne sur {url_output}",
-                "identifier": str(uuid.uuid5(uuid.NAMESPACE_URL, url_output))
-              }
-            ]
-          }
-          online_resources.append(
-            {
-              "linkage": url_output,
-              "protocol": "WWW:DOWNLOAD",
-              "name": "Lien vers le résultat de la chaîne de traitement SoDUCo",
-              "description": f"Entrées correspondant aux pages ({page_start} - {page_end}) extraites de l'annuaire {directory}. {'.'.join(complements)}. {source}",
-              "onlineFunctionCode": "download",
+      lists = sorted(exemplar_complement_lines['liste_type'].unique())
+      for list in lists:
+        list_lines = exemplar_complement_lines[exemplar_complement_lines['liste_type']==list]
+        for list_index, (_,row_complement) in enumerate(list_lines.iterrows()):
+          list_name = f"{list}-p{list_index+1}"
+          code_fichier = row_complement['Code_fichier']
+          code_collection = row_complement['collection_almanach']
+          code_serie = row_complement['serie_almanach']
+          #code_ouvrage = row_complement['code_ouvrage']
+          #annee = row_complement['Liste_annee']
+          url = row_complement['lien_ouvrage_en_ligne']
+          selection = row_complement['selection_trait_soduco']
+          if selection and selection > 0:
+            diff_vuepdf_vueark = row_complement['diff_vuepdf_vueark']
+            if pandas.isna(row_complement['diff_vuepdf_vueark']):
+              diff_vuepdf_vueark = 0
+            else:
+              diff_vuepdf_vueark = int(diff_vuepdf_vueark)
+            page_start = int(row_complement['npage_pdf_d'])#-diff_vuepdf_vueark
+            page_end = int(row_complement['npage_pdf_f'])#-diff_vuepdf_vueark
+            url_output = f"https://api.geohistoricaldata.org/directories/entries?and=(source.eq.{code_fichier},and(page.gte.{page_start:04d},page.lte.{page_end:04d}))&order=page.asc,id.asc"
+            process_step = {
+              "title": f"({list_name}) Application de la chaîne de traitement SoDUCo",
+              "description": "Application de la chaîne de traitement SoDUCo impliquant, entre autres, l'extraction de la structure du document, l'extraction des entrées, la reconnaissance de caractères et la détection des entités nommées.",
+              "identifier": str(uuid.uuid4()),
+              "processorInfo": processorInfo.copy(),
+              "typeOfActivity": "directory_analysis",
+              "processStepSource": [
+                {
+                  "title": "Document source (image)",
+                  "description": f"Document récupéré depuis {url}",
+                  "identifier": str(uuid.uuid5(uuid.NAMESPACE_URL, url))
+                }
+              ],
+              "softwareTitle": "Chaîne de traitement SoDUCo",
+              "softwareIdentifier": str(uuid.uuid5(uuid.NAMESPACE_URL, "https://gitlab.lre.epita.fr/soduco/directory-annotator-back")),
+              "ProcessStepOutput": [
+                {
+                  "title": "Données créées par la chaîne detraitement",
+                  "description": f"Données créées par la chaîne detraitement et récupérable en ligne sur {url_output}",
+                  "identifier": str(uuid.uuid5(uuid.NAMESPACE_URL, url_output))
+                }
+              ]
             }
-          )
-          process_steps.append(process_step)
-        #ark_index = url.find("ark")
+            online_resources.append(
+              {
+                "linkage": url_output,
+                "protocol": "WWW:DOWNLOAD",
+                "name": f"({list_name}) Lien vers le résultat de la chaîne de traitement SoDUCo",
+                "description": f"Entrées de la liste {list} correspondant aux pages ({page_start} - {page_end}) extraites de l'annuaire {directory}. {'.'.join(complements)}. {source}",
+                "onlineFunctionCode": "download",
+              }
+            )
+            url_mirador = f"https://directory.geohistoricaldata.org/?manifest=https://directory.geohistoricaldata.org/iiif/{code_collection}/{code_serie}/{directory}/{list}/part_{list_index}/manifest.json"
+            online_resources.append(
+              {
+                "linkage": url_mirador,
+                "protocol": "WWW:LINK",
+                "name": f"({list_name}) Visualisation du résultat de la chaîne de traitement SoDUCo (IIIF)",
+                "description": f"Entrées de la liste {list} correspondant aux pages ({page_start} - {page_end}) extraites de l'annuaire {directory}. {'.'.join(complements)}. {source}",
+                "onlineFunctionCode": "browsing",
+              }
+            )
+            process_steps.append(process_step)
+          #ark_index = url.find("ark")
       if len(process_steps) > 0:
         directory_entry["processStep"] = process_steps
       directory_entries.append(directory_entry)
