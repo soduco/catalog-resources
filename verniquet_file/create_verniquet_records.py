@@ -242,7 +242,7 @@ def main():
       process_step = {
         "title": f"Géoréférencement",
         "description": "Utilisation des points de contrôle pour géoréférencer l'image.",
-        "identifier": str(uuid.uuid5(uuid.NAMESPACE_X500, entry_native+entry_points)),
+        "processingIdentifier": str(uuid.uuid5(uuid.NAMESPACE_X500, entry_native+entry_points)),
         "processorInfo": processorInfo.copy(),
         "typeOfActivity": "Georeferencement",
         "processStepSource": [
