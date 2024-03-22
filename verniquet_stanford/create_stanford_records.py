@@ -74,6 +74,10 @@ def main():
     documents = {}
     dataverse = json.loads(open("../verniquet/dataverse.harvard.edu.json").read())
     dataverse_datafileurl = "https://dataverse.harvard.edu/api/access/datafile/"
+    import csv
+    csvfile = open('files.csv', 'w')
+    writer = csv.writer(csvfile)
+    writer.writerow(['sheet', 'points', 'geotiff', 'annotation_file','iiif_manifest','overview','native'])
 
     with urllib.request.urlopen(url) as file:
         manifest = json.loads(file.read().decode("utf-8"))
@@ -167,6 +171,23 @@ def main():
                     "onlineResources": online_resources,
                 }})
                 documents[instance["identifier"]] = instance
+                if name.__contains__("Title"):
+                    name = 'TITLE'
+                elif name.__contains__("Composite:"):
+                    name = 'TA'
+                else:
+                    name = str(number)
+                annotation_file = ""
+                points = ""
+                geotiff = ""
+                for res in online_resources:
+                    if res["name"] == "Allmaps georeferencing IIIF annotation file":
+                        annotation_file = res["linkage"]
+                    if res["name"] == "Georeferencing point file":
+                        points = res["linkage"]
+                    if res["name"] == "Georeferenced tiff":
+                        geotiff = res["linkage"]
+                writer.writerow([name,points,geotiff,annotation_file,f"https://www.davidrumsey.com/luna/servlet/iiif/{id}",identifiers[1].text,href])
 
         # Apply the patch file
         with open("verniquet_stanford_records.yaml.patch", "r") as partial:
@@ -178,7 +199,7 @@ def main():
         with open("verniquet_stanford_records.yaml", "w") as output_file:
             for res in documents.values():
                 yaml.dump(res, output_file, explicit_start=True, explicit_end=True, sort_keys=False)
-
+        csvfile.close()
 
 if __name__ == "__main__":
     main()

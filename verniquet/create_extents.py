@@ -4,6 +4,7 @@ import logging
 import pandas
 from pyproj import CRS, Transformer
 import yaml
+import csv
 
 def main():
     logging.basicConfig(level='DEBUG')
@@ -44,8 +45,16 @@ def main():
                 }
             }
         })
-        with open('extents.yaml', 'w') as output_file:
-            yaml.dump(result, output_file, default_style='"', explicit_start=True, explicit_end=True)
+    with open('extents.yaml', 'w') as output_file:
+        yaml.dump(result, output_file, default_style='"', explicit_start=True, explicit_end=True)
+    print("writing csv")
+    with open('extents.csv', 'w') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['sheet', 'min_x', 'min_y', 'max_x', 'max_y'])
+        for key in result:
+            value = result[key]['mapExtent']
+            writer.writerow([str(key), int(float(value['minX'])), int(float(value['minY'])), int(float(value['maxX'])), int(float(value['maxY']))])
+    print("wrote csv")
 
 if __name__ == '__main__':
     main()

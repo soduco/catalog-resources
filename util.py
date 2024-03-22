@@ -15,7 +15,8 @@ def add_files(dataverse, dataverse_datafileurl:str, prefix: str, list: list):
                 "description": description,
                 "onlineFunctionCode": "download",
             }
-        if label == prefix + ".jpg.points":
+        #if label == prefix + ".jpg.points":
+        if str(label).startswith(prefix) and str(label).endswith(".points"):
             logging.debug(f"points found: {fileId}")
             files = [resource(link, "Georeferencing point file", "Georeferencing point file exported from QGIS", "WWW:DOWNLOAD")]
         if label == prefix + ".json":

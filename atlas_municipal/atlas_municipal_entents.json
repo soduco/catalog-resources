@@ -1,0 +1,98 @@
+{
+ "13": {
+  "westBoundLongitude": "2.2836691420315534",
+  "eastBoundLongitude": "2.3291211086417394",
+  "southBoundLatitude": "48.873705717364615",
+  "northBoundLatitude": "48.89804308975283"
+ },
+ "16": {
+  "westBoundLongitude": "2.37720594164831",
+  "eastBoundLongitude": "2.41142779008765",
+  "southBoundLatitude": "48.84685908288006",
+  "northBoundLatitude": "48.877185560235596"
+ },
+ "8": {
+  "westBoundLongitude": "2.3662671406324987",
+  "eastBoundLongitude": "2.411406768169594",
+  "southBoundLatitude": "48.82819634948048",
+  "northBoundLatitude": "48.8534914166364"
+ },
+ "4": {
+  "westBoundLongitude": "2.2911859387861058",
+  "eastBoundLongitude": "2.3332089576244646",
+  "southBoundLatitude": "48.84632285443215",
+  "northBoundLatitude": "48.863067601363646"
+ },
+ "1": {
+  "westBoundLongitude": "2.321591851784041",
+  "eastBoundLongitude": "2.354218879850958",
+  "southBoundLatitude": "48.85422643050821",
+  "northBoundLatitude": "48.87204942854554"
+ },
+ "11": {
+  "westBoundLongitude": "2.2689065655314575",
+  "eastBoundLongitude": "2.3244595025148045",
+  "southBoundLatitude": "48.82739423805815",
+  "northBoundLatitude": "48.857682685065434"
+ },
+ "5": {
+  "westBoundLongitude": "2.2951709070012476",
+  "eastBoundLongitude": "2.3271647253730343",
+  "southBoundLatitude": "48.863513344928435",
+  "northBoundLatitude": "48.88345508678249"
+ },
+ "10": {
+  "westBoundLongitude": "2.3043974556801947",
+  "eastBoundLongitude": "2.344294452765582",
+  "southBoundLatitude": "48.81880915416308",
+  "northBoundLatitude": "48.84373067498052"
+ },
+ "2": {
+  "westBoundLongitude": "2.3447285031092666",
+  "eastBoundLongitude": "2.368927247610443",
+  "southBoundLatitude": "48.846597518398454",
+  "northBoundLatitude": "48.869401983186314"
+ },
+ "12": {
+  "westBoundLongitude": "2.2558812053585773",
+  "eastBoundLongitude": "2.3014839306518176",
+  "southBoundLatitude": "48.83611221705453",
+  "northBoundLatitude": "48.87751178654727"
+ },
+ "6": {
+  "westBoundLongitude": "2.32591736607412",
+  "eastBoundLongitude": "2.3767516460685005",
+  "southBoundLatitude": "48.867308543280096",
+  "northBoundLatitude": "48.884844944589204"
+ },
+ "3": {
+  "westBoundLongitude": "2.316846968358894",
+  "eastBoundLongitude": "2.3647268539607564",
+  "southBoundLatitude": "48.83660968110822",
+  "northBoundLatitude": "48.85846172614649"
+ },
+ "9": {
+  "westBoundLongitude": "2.341243522595702",
+  "eastBoundLongitude": "2.3860541469215946",
+  "southBoundLatitude": "48.81840342732294",
+  "northBoundLatitude": "48.84422298046035"
+ },
+ "15": {
+  "westBoundLongitude": "2.3648645810402025",
+  "eastBoundLongitude": "2.406522940827752",
+  "southBoundLatitude": "48.871984978540794",
+  "northBoundLatitude": "48.89920100612031"
+ },
+ "14": {
+  "westBoundLongitude": "2.325667917384506",
+  "eastBoundLongitude": "2.371750181490416",
+  "southBoundLatitude": "48.8819447804747",
+  "northBoundLatitude": "48.89882192320456"
+ },
+ "7": {
+  "westBoundLongitude": "2.364111361761658",
+  "eastBoundLongitude": "2.398978510483248",
+  "southBoundLatitude": "48.84791714263283",
+  "northBoundLatitude": "48.87216112901637"
+ }
+}

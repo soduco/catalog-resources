@@ -67,6 +67,11 @@ def main():
     dataverse = json.loads(open('../verniquet/dataverse.harvard.edu.json').read())
     dataverse_data_file_url = "https://dataverse.harvard.edu/api/access/datafile/"
 
+    import csv
+    csvfile = open('files.csv', 'w')
+    writer = csv.writer(csvfile)
+    writer.writerow(['sheet', 'points', 'geotiff', 'annotation_file','iiif_manifest','overview','native'])
+
     # def add_files(prefix, resource_list):
     #     for e in dataverse["data"]["latestVersion"]["files"]:
     #         dataverse_label = e["label"]
@@ -193,6 +198,23 @@ def main():
                     instance.update(
                         {"extent": {"geoExtent": paris_extent, "temporalExtent": temporal_extent}})
                 documents[instance["identifier"]] = instance
+                if number == 1:
+                    name = 'TITLE'
+                elif number == 2:
+                    name = 'TA'
+                else:
+                    name = str(sheet_number)
+                annotation_file = ""
+                points = ""
+                geotiff = ""
+                for res in online_resources:
+                    if res["name"] == "Allmaps georeferencing IIIF annotation file":
+                        annotation_file = res["linkage"]
+                    if res["name"] == "Georeferencing point file":
+                        points = res["linkage"]
+                    if res["name"] == "Georeferenced tiff":
+                        geotiff = res["linkage"]
+                writer.writerow([name,points,geotiff,annotation_file,canvas_id,canvas_thumbnail,canvas_native])
 
         # Apply the patch file
         with open('verniquet_bnf_records.yaml.patch', 'r') as partial:
@@ -205,7 +227,7 @@ def main():
             # outputs = yaml.dump(result, output_file, default_style='"', explicit_start=True, encoding='ISO-8859-1')
             for res in documents.values():
                 yaml.dump(res, output_file, explicit_start=True, explicit_end=True, sort_keys=False)
-
+        csvfile.close()
 
 if __name__ == '__main__':
     main()

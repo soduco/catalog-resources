@@ -4,7 +4,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
     \ Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -33,7 +33,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- eacac40d-f422-4e8f-b427-f3827942eb2a
+- 49bc23fc-57e2-5579-a6e5-c10d6c039866
 extent:
   geoExtent:
     westBoundLongitude: '2.2789487344052968'
@@ -62,7 +62,7 @@ identification:
   title: "Composite : Feuilles 1 \xE0 72 de l'Atlas du plan g\xE9n\xE9ral de la ville\
     \ de Paris [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -118,7 +118,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -147,7 +147,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- b0eb87fb-01e1-4c51-9f3b-72266c7ee9fe
+- bf9fe6a8-d443-517f-aab9-8645942df035
 extent:
   geoExtent:
     eastBoundLongitude: '2.294002388781319'
@@ -169,6 +169,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002577
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002486
     protocol: WWW:DOWNLOAD
@@ -202,7 +207,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -231,7 +236,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- fce0b6c5-b632-42f2-8463-a08adf977c26
+- 530f69e1-a566-51d7-9d91-eb616ae0008e
 extent:
   geoExtent:
     eastBoundLongitude: '2.309948823512562'
@@ -253,6 +258,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002826
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002620
     protocol: WWW:DOWNLOAD
@@ -286,7 +296,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -315,7 +325,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- bb00703b-085c-4f0d-99ff-3568dc92c6fe
+- c2bf7a54-14eb-5550-93da-d9328b1aee00
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258952614451776'
@@ -337,6 +347,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002830
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002632
     protocol: WWW:DOWNLOAD
@@ -370,7 +385,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -399,7 +414,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 60abe252-3fa2-40ab-99a8-c80fd777cc68
+- d65c6038-82f8-5ba0-b49e-3068f0374868
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418417006411816'
@@ -421,6 +436,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002506
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002513
     protocol: WWW:DOWNLOAD
@@ -454,7 +474,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -483,7 +503,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 5b3bba0e-ca9b-45d6-bcf5-0e8452faf80b
+- 77a87c71-9820-53d0-b133-5d319e9cdf76
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577881391625746'
@@ -505,6 +525,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002603
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002797
     protocol: WWW:DOWNLOAD
@@ -538,7 +563,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -567,7 +592,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- eed2330c-bfd3-4461-95ee-c40e04f15cc0
+- 1c12fe76-9101-5c2b-bc4f-ed7413197cd9
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737345750714063'
@@ -589,6 +614,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002576
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002526
     protocol: WWW:DOWNLOAD
@@ -622,7 +652,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -651,7 +681,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 13abf856-84da-45df-a128-e0e5f57fdabd
+- d8ca2052-b949-5309-beeb-9ae3d4214b57
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896810064296803'
@@ -673,6 +703,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002846
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002558
     protocol: WWW:DOWNLOAD
@@ -706,7 +741,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -735,7 +770,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 5a20ead0-19d6-4774-8cf5-62a0299946f0
+- 2d406e8d-047e-5596-b473-5e8e4449d9ec
 extent:
   geoExtent:
     eastBoundLongitude: '2.405627431299417'
@@ -757,6 +792,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002776
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002646
     protocol: WWW:DOWNLOAD
@@ -790,7 +830,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -819,7 +859,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- c3b38621-4cfa-4d93-b9a3-33588cd127a4
+- e9329328-a19f-5376-a02e-aaf588a819c0
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940082868227676'
@@ -841,6 +881,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002557
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002765
     protocol: WWW:DOWNLOAD
@@ -874,7 +919,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -903,7 +948,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- d54256d6-aa12-404e-a3fe-f34e96513709
+- 398ff1bc-822f-5311-90ba-64e32b0e9771
 extent:
   geoExtent:
     eastBoundLongitude: '2.309952492729735'
@@ -925,6 +970,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002727
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002720
     protocol: WWW:DOWNLOAD
@@ -958,7 +1008,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -987,7 +1037,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 218d64f4-06b1-4893-b457-7ae3814c3c09
+- f6fcc478-195a-50c2-8f66-0fcf281b904c
 extent:
   geoExtent:
     eastBoundLongitude: '2.325896701836451'
@@ -1009,6 +1059,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002743
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002796
     protocol: WWW:DOWNLOAD
@@ -1042,7 +1097,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1071,7 +1126,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- f0f249fe-401a-4b7d-90f3-267da238d5b7
+- 2b0e105d-5a80-5598-b131-2ee0959a2a3e
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418409122059374'
@@ -1093,6 +1148,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002707
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002641
     protocol: WWW:DOWNLOAD
@@ -1126,7 +1186,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1155,7 +1215,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 606a6338-735f-407d-83f4-e0bd7e544a19
+- 8a42b955-5130-5df9-b597-495b93a0bc0e
 extent:
   geoExtent:
     eastBoundLongitude: '2.357785121901173'
@@ -1177,6 +1237,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002734
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002770
     protocol: WWW:DOWNLOAD
@@ -1210,7 +1275,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1239,7 +1304,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- fa92da37-2331-4fc5-8b7f-5ffc7a1b84e5
+- de45b76e-276d-5403-98e3-df704d1eeaf1
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737293289851142'
@@ -1261,6 +1326,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002881
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002525
     protocol: WWW:DOWNLOAD
@@ -1294,7 +1364,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1323,7 +1393,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 2c0fbba5-2bb6-4cb6-b045-601fb07ce430
+- 83d9886d-7699-596d-87a4-eb4cd6659b91
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896735315207613'
@@ -1345,6 +1415,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002644
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002678
     protocol: WWW:DOWNLOAD
@@ -1378,7 +1453,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1407,7 +1482,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 51a620f3-5c59-4844-a73e-d1f2ac5cf762
+- 4f650578-7a6e-57f5-b59a-3edc9b26e672
 extent:
   geoExtent:
     eastBoundLongitude: '2.405617727571079'
@@ -1429,6 +1504,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002803
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002627
     protocol: WWW:DOWNLOAD
@@ -1462,7 +1542,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1491,7 +1571,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ff933ed7-fc14-4304-a8a7-f3a8c62b3174
+- 6e6b7fd1-d19c-5d9e-8b4a-dff35283c23f
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940141825812157'
@@ -1513,6 +1593,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002712
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002817
     protocol: WWW:DOWNLOAD
@@ -1546,7 +1631,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1575,7 +1660,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 7026737a-9037-46c3-971a-eb194800d428
+- ee722d33-bc0c-5e37-a724-75140a9e295a
 extent:
   geoExtent:
     eastBoundLongitude: '2.30995616052476'
@@ -1597,6 +1682,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002502
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002604
     protocol: WWW:DOWNLOAD
@@ -1630,7 +1720,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1659,7 +1749,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 573bd0d4-5a04-41f5-bb82-691c2ed12393
+- bb714d3b-6888-5e82-9d52-284bde30ff96
 extent:
   geoExtent:
     eastBoundLongitude: '2.325898141666503'
@@ -1681,6 +1771,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002758
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002468
     protocol: WWW:DOWNLOAD
@@ -1714,7 +1809,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1743,7 +1838,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 629076b8-26ca-46f7-b5a4-ad8d09c96f86
+- 9081c670-f7e7-5881-be20-ddc6b1a1f553
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418401240703806'
@@ -1765,6 +1860,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002834
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002827
     protocol: WWW:DOWNLOAD
@@ -1798,7 +1898,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1827,7 +1927,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3ab11060-0281-41ef-b985-987e20e2518e
+- a1b1fc37-9c2f-5764-8b36-69be520c85b4
 extent:
   geoExtent:
     eastBoundLongitude: '2.357782105800326'
@@ -1849,6 +1949,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002710
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002759
     protocol: WWW:DOWNLOAD
@@ -1882,7 +1987,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1911,7 +2016,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 7d0c0ff6-2093-4fd3-8ba7-86d9d76e894f
+- a57b80e5-e1cd-52bc-bac5-77fa6be82602
 extent:
   geoExtent:
     eastBoundLongitude: '2.373724084920274'
@@ -1933,6 +2038,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002694
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002595
     protocol: WWW:DOWNLOAD
@@ -1966,7 +2076,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1995,7 +2105,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3f207da7-2d9f-490d-86db-72326f14c5d5
+- c03f5d3e-9657-5714-bc4e-d8d91c6d75f7
 extent:
   geoExtent:
     eastBoundLongitude: '2.38966605949419'
@@ -2017,6 +2127,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002708
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002885
     protocol: WWW:DOWNLOAD
@@ -2050,7 +2165,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2079,7 +2194,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 83eef68c-d28e-4634-9953-817900410bd9
+- 85a08b6a-1bb3-5011-8fe2-0db31098afff
 extent:
   geoExtent:
     eastBoundLongitude: '2.4056080275859952'
@@ -2101,6 +2216,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002518
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002559
     protocol: WWW:DOWNLOAD
@@ -2134,7 +2254,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2163,7 +2283,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- b876eac8-7640-47ae-addc-9439bb2521fb
+- 65464efa-fa26-5545-95ca-933618272df1
 extent:
   geoExtent:
     eastBoundLongitude: '2.294020076057759'
@@ -2185,6 +2305,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002655
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002839
     protocol: WWW:DOWNLOAD
@@ -2218,7 +2343,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2247,7 +2372,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 88b5c544-47fe-49c0-9842-a1e11b7b4068
+- 3733ea4d-c014-51e0-9aa1-3a109fe76262
 extent:
   geoExtent:
     eastBoundLongitude: '2.309959826898388'
@@ -2269,6 +2394,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002715
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002864
     protocol: WWW:DOWNLOAD
@@ -2302,7 +2432,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2331,7 +2461,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- c10093b9-844e-4505-9cf7-d630c4deeb16
+- b4bffe14-c1f1-57e8-82de-093a553b78ee
 extent:
   geoExtent:
     eastBoundLongitude: '2.3258995809356047'
@@ -2353,6 +2483,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002665
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002527
     protocol: WWW:DOWNLOAD
@@ -2386,7 +2521,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2415,7 +2550,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 6d658310-8810-422d-a046-39ff734d5eff
+- a93b12c1-6dbc-5cd7-b2de-a130052dc9d0
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418393362343335'
@@ -2437,6 +2572,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002568
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002536
     protocol: WWW:DOWNLOAD
@@ -2470,7 +2610,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2499,7 +2639,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 61c5393b-22e4-4c51-80b2-21b8dfa9c363
+- 3c285c9b-9a3d-5bfa-b083-3cb2dcc53d79
 extent:
   geoExtent:
     eastBoundLongitude: '2.357779090859474'
@@ -2521,6 +2661,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002682
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002832
     protocol: WWW:DOWNLOAD
@@ -2554,7 +2699,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2583,7 +2728,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 0f4d44d9-1b54-46e5-92f2-bac3d6d11647
+- e12f4f33-af10-5ec8-9213-739afd8bcb88
 extent:
   geoExtent:
     eastBoundLongitude: '2.373718842875908'
@@ -2605,6 +2750,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002490
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002815
     protocol: WWW:DOWNLOAD
@@ -2638,7 +2788,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2667,7 +2817,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 940fd012-98b9-4780-a4a9-4a2674fb8b2f
+- 1d7f0f48-9c95-5d64-bf12-cf45ed0c419a
 extent:
   geoExtent:
     eastBoundLongitude: '2.389658590348556'
@@ -2689,6 +2839,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002684
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002591
     protocol: WWW:DOWNLOAD
@@ -2722,7 +2877,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2751,7 +2906,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 57f689a9-1e8c-42f8-81ac-e636e1a644ce
+- 3f7deaee-4f49-5d5a-a7a7-94ec26d8286f
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055983313423193'
@@ -2773,6 +2928,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002741
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002507
     protocol: WWW:DOWNLOAD
@@ -2806,7 +2966,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2835,7 +2995,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 8beb18fb-53a3-4e21-923a-33b4ef5cef75
+- bf685577-c287-527a-924c-4ae45e962a78
 extent:
   geoExtent:
     eastBoundLongitude: '2.29402596725355'
@@ -2857,6 +3017,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002539
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002634
     protocol: WWW:DOWNLOAD
@@ -2890,7 +3055,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2919,7 +3084,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- d0cb022d-48a4-46d8-b9c8-2a13265975cd
+- d7ee0b55-4508-5337-8979-84b8e64bf579
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099634918512866'
@@ -2941,6 +3106,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002497
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002614
     protocol: WWW:DOWNLOAD
@@ -2974,7 +3144,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3003,7 +3173,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- c37c7758-ec85-45a8-b039-a225d15102f0
+- f5dce2e0-ee41-549a-bf3b-c5830a024855
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259010196440437'
@@ -3025,6 +3195,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002477
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002617
     protocol: WWW:DOWNLOAD
@@ -3058,7 +3233,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3087,7 +3262,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- f02eb473-afb5-42aa-b321-8bebda95b327
+- 39ba1449-d9ce-59a1-914c-d264b51fd08b
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418385486976767'
@@ -3109,6 +3284,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002457
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002621
     protocol: WWW:DOWNLOAD
@@ -3142,7 +3322,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3171,7 +3351,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 08a992b9-1c7b-44da-83d3-e3205e71965c
+- 1ab91690-aade-525c-beaf-3d55a145dd87
 extent:
   geoExtent:
     eastBoundLongitude: '2.357776077078042'
@@ -3193,6 +3373,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002880
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002626
     protocol: WWW:DOWNLOAD
@@ -3226,7 +3411,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3255,7 +3440,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- d5f21c02-100b-441b-b3a7-bb6f868a2f5f
+- ebd072ff-a544-5bba-8c72-27565b3e2a40
 extent:
   geoExtent:
     eastBoundLongitude: '2.373713602850994'
@@ -3277,6 +3462,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002853
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002718
     protocol: WWW:DOWNLOAD
@@ -3310,7 +3500,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3339,7 +3529,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ae2ea782-b559-4dbb-af59-884b87b7a87d
+- 43d929e2-8f7f-5f7d-b85d-d8c06ac42e35
 extent:
   geoExtent:
     eastBoundLongitude: '2.38965112408242'
@@ -3361,6 +3551,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002721
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002594
     protocol: WWW:DOWNLOAD
@@ -3394,7 +3589,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3423,7 +3618,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 41fbfc28-29a8-404d-87e1-3a0f67aa54a4
+- fc8fab27-21f8-5a8a-8231-55ade1a1a288
 extent:
   geoExtent:
     eastBoundLongitude: '2.405588638838181'
@@ -3445,6 +3640,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002499
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002661
     protocol: WWW:DOWNLOAD
@@ -3478,7 +3678,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3507,7 +3707,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 96deae88-bbc7-46c7-b7e7-6380cf8995b5
+- ffaedb41-80fc-5b25-95fe-c8da5feea453
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940318561697213'
@@ -3529,6 +3729,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002648
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002794
     protocol: WWW:DOWNLOAD
@@ -3562,7 +3767,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3591,7 +3796,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- f5680f3b-1678-4cee-8bc9-15f8424946bf
+- e4b88014-47c6-5fe0-a195-13710e5f6e27
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099671553842054'
@@ -3613,6 +3818,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002556
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002470
     protocol: WWW:DOWNLOAD
@@ -3646,7 +3856,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3675,7 +3885,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 2f7b3702-2fa2-40c0-a5c5-27f4c8c00d8d
+- b3944d78-f000-5756-822a-afffcf86c90b
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259024577921092'
@@ -3697,6 +3907,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002766
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002633
     protocol: WWW:DOWNLOAD
@@ -3730,7 +3945,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3759,7 +3974,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 108aadcb-d8a1-426b-927a-23f7ccff0588
+- 66287aa6-8250-52c2-a0d1-bcef95830c0e
 extent:
   geoExtent:
     eastBoundLongitude: '2.34183776146025'
@@ -3781,6 +3996,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002542
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002663
     protocol: WWW:DOWNLOAD
@@ -3814,7 +4034,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3843,7 +4063,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 6825619f-1337-4255-8a14-cd738a96eff0
+- fb71388f-6e08-556f-b886-d3b7ac6f2900
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577730644554604'
@@ -3865,6 +4085,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002738
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002531
     protocol: WWW:DOWNLOAD
@@ -3898,7 +4123,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3927,7 +4152,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3af9d2ba-2386-4710-9aaa-eca5b9f2079c
+- d181cbe2-9422-5692-b3a4-dd3a2086759d
 extent:
   geoExtent:
     eastBoundLongitude: '2.3737083648445565'
@@ -3949,6 +4174,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002652
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002695
     protocol: WWW:DOWNLOAD
@@ -3982,7 +4212,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4011,7 +4241,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 1a2ccdc5-c9d1-4512-97c3-d693b7f96d60
+- 9db1b55a-d303-5d82-b285-277712f5b03c
 extent:
   geoExtent:
     eastBoundLongitude: '2.389643660694374'
@@ -4033,6 +4263,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002456
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002503
     protocol: WWW:DOWNLOAD
@@ -4066,7 +4301,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4095,7 +4330,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- eefaa113-c17f-4768-a3f8-10f420c11bd7
+- d5bc5e98-c27f-57d3-9e6b-f22dc0e6c0fc
 extent:
   geoExtent:
     eastBoundLongitude: '2.405578950071724'
@@ -4117,6 +4352,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002775
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002861
     protocol: WWW:DOWNLOAD
@@ -4150,7 +4390,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4179,7 +4419,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- b28d577c-8d76-433e-9632-25c80888c5fc
+- 473071ef-7c2c-5345-a741-4ab53e2d4742
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940377428074106'
@@ -4201,6 +4441,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002492
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002516
     protocol: WWW:DOWNLOAD
@@ -4234,7 +4479,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4263,7 +4508,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 803f3909-b63e-4728-80da-33ca13294257
+- 5d2a2de1-8411-56ea-b4d7-c64ffe744a89
 extent:
   geoExtent:
     eastBoundLongitude: '2.30997081749782'
@@ -4285,6 +4530,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002560
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002649
     protocol: WWW:DOWNLOAD
@@ -4318,7 +4568,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4347,7 +4597,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 42413d87-e8f3-4d21-9324-53fd62a2181e
+- 5cc6a7d3-ae60-5a84-8f30-2605734fd0e8
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259038953800517'
@@ -4369,6 +4619,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002645
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002818
     protocol: WWW:DOWNLOAD
@@ -4402,7 +4657,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4431,7 +4686,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 3545bb10-428c-42f4-97cc-cdc37815ad4f
+- de3f276c-9160-5100-a465-ca0615702df0
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418369745218897'
@@ -4453,6 +4708,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002514
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002624
     protocol: WWW:DOWNLOAD
@@ -4486,7 +4746,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4515,7 +4775,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 35a01e4d-8d08-4fa5-a4ac-bbf00a252ed7
+- b90cab7e-cd36-5168-866e-c2a870ab6070
 extent:
   geoExtent:
     eastBoundLongitude: '2.357770052991145'
@@ -4537,6 +4797,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002639
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002489
     protocol: WWW:DOWNLOAD
@@ -4570,7 +4835,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4599,7 +4864,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 24c02699-5334-4320-92fa-5f4d63d99eb6
+- 77b59c6c-23a7-5d71-9dde-75e40f05cadb
 extent:
   geoExtent:
     eastBoundLongitude: '2.373703128855574'
@@ -4621,6 +4886,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002669
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002602
     protocol: WWW:DOWNLOAD
@@ -4654,7 +4924,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4683,7 +4953,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- c1fd9c80-b60f-44c4-a17b-8b7178f128f3
+- 33dd4a71-0154-5d9e-9fd9-586dac57e312
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896362001829616'
@@ -4705,6 +4975,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002709
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002566
     protocol: WWW:DOWNLOAD
@@ -4738,7 +5013,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4767,7 +5042,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 7a37409f-c425-41ce-8a75-e518bef9330f
+- d8271641-7202-55f5-b253-c17aaca09bda
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055692650411116'
@@ -4789,6 +5064,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002889
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002472
     protocol: WWW:DOWNLOAD
@@ -4822,7 +5102,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4851,7 +5131,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 275d15b6-2108-4350-aa8c-7141839e394c
+- 1b69eb78-b014-5c90-8ecf-f54ca2ef6077
 extent:
   geoExtent:
     eastBoundLongitude: '2.294043627167757'
@@ -4873,6 +5153,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002683
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002541
     protocol: WWW:DOWNLOAD
@@ -4906,7 +5191,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4935,7 +5220,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ea70f8df-12a5-463d-98b0-d8b427f6ac74
+- e04d604f-d520-5230-9472-b448d01c10b5
 extent:
   geoExtent:
     eastBoundLongitude: '2.3099744781928218'
@@ -4957,6 +5242,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002706
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002650
     protocol: WWW:DOWNLOAD
@@ -4990,7 +5280,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5019,7 +5309,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 2f7a1b9a-828d-4cbf-8345-46098bae5c64
+- 55416416-08e7-5470-8c62-bedb446200f2
 extent:
   geoExtent:
     eastBoundLongitude: '2.3259053324081593'
@@ -5041,6 +5331,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002637
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002751
     protocol: WWW:DOWNLOAD
@@ -5074,7 +5369,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5103,7 +5398,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 269fce1f-8321-4ae0-bbed-d806824abb1c
+- 5cde3589-19ef-560c-ac2d-35bd66a1b822
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418361878824774'
@@ -5125,6 +5420,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002625
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002855
     protocol: WWW:DOWNLOAD
@@ -5158,7 +5458,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5187,7 +5487,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 8f0e0645-a6d8-4fac-b270-eb2dcfe86004
+- c45525d5-caa6-5582-8879-46042226d474
 extent:
   geoExtent:
     eastBoundLongitude: '2.3577670426845283'
@@ -5209,6 +5509,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002537
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002843
     protocol: WWW:DOWNLOAD
@@ -5242,7 +5547,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5271,7 +5576,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- e7a20317-a766-4fd2-9552-3e9f53765095
+- 25845848-562b-513f-bef1-2e5957635393
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736978948830436'
@@ -5293,6 +5598,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002483
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002607
     protocol: WWW:DOWNLOAD
@@ -5326,7 +5636,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5355,7 +5665,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- fcb15d83-d4f2-4b52-a17f-d01b6674d4f4
+- 4a5759af-340d-53bc-9a68-253d2cdcda53
 extent:
   geoExtent:
     eastBoundLongitude: '2.389628742546772'
@@ -5377,6 +5687,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002831
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002597
     protocol: WWW:DOWNLOAD
@@ -5410,7 +5725,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5439,7 +5754,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 15a6e69d-4792-4dcb-81c5-1d2e7d742197
+- ac8d0198-1020-5949-8774-62b96bbba080
 extent:
   geoExtent:
     eastBoundLongitude: '2.4055595837444708'
@@ -5461,6 +5776,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002842
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002465
     protocol: WWW:DOWNLOAD
@@ -5494,7 +5814,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5523,7 +5843,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 943a8b37-8022-4fd9-a73d-9a4fc8ab2e64
+- ca8b7200-70dd-51c9-90c2-69ff6ee038bc
 extent:
   geoExtent:
     eastBoundLongitude: '2.2940495092518582'
@@ -5545,6 +5865,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002716
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002668
     protocol: WWW:DOWNLOAD
@@ -5578,7 +5903,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5607,7 +5932,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- ea6d1b96-461b-4266-9410-666d9bcd36b5
+- b9722e5d-f3dc-5095-bb47-f481e8076df4
 extent:
   geoExtent:
     eastBoundLongitude: '2.309978137469958'
@@ -5629,6 +5954,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002704
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002496
     protocol: WWW:DOWNLOAD
@@ -5662,7 +5992,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5691,7 +6021,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 7e54ae33-b140-458b-8b00-338f70b2709e
+- dd6dc53a-96b9-5e4b-833b-8f5df2fe79cb
 extent:
   geoExtent:
     eastBoundLongitude: '2.32590676887672'
@@ -5713,6 +6043,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002807
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002623
     protocol: WWW:DOWNLOAD
@@ -5746,7 +6081,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5775,7 +6110,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- c3cc35d5-c218-408d-b281-95960ccf5a8b
+- 91251cdf-2da5-56ab-a65c-10edb6663e6a
 extent:
   geoExtent:
     eastBoundLongitude: '2.3418354015418474'
@@ -5797,6 +6132,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002872
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002671
     protocol: WWW:DOWNLOAD
@@ -5830,7 +6170,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5859,7 +6199,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 354dba28-48a3-488f-bc7e-3be6f5fd305e
+- 35f8504f-0f5b-5fd5-a204-7c8f19ec6f39
 extent:
   geoExtent:
     eastBoundLongitude: '2.357764033535036'
@@ -5881,6 +6221,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002588
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002521
     protocol: WWW:DOWNLOAD
@@ -5914,7 +6259,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5943,7 +6288,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- f4059982-0ff5-4146-b91c-b28fe6fc84e6
+- 3c688811-ac54-52c2-a158-fbb0d2b5e169
 extent:
   geoExtent:
     eastBoundLongitude: '2.3736926629259845'
@@ -5965,6 +6310,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002605
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002681
     protocol: WWW:DOWNLOAD
@@ -5998,7 +6348,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6027,7 +6377,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- b114fc59-c809-41ab-a82a-640864c57884
+- 0e521dbf-5488-567f-8467-0d0d238d893b
 extent:
   geoExtent:
     eastBoundLongitude: '2.3896212877843945'
@@ -6049,6 +6399,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002590
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002487
     protocol: WWW:DOWNLOAD
@@ -6082,7 +6437,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
     \ [exemplaire Stanford, G1844.P3 V4 1795 F]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6111,7 +6466,7 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 resourceLineage:
-- 1d9a6ee9-c676-4754-9797-a2ea4a01daef
+- 71225538-c9e3-5ab0-8f6a-24127bcfa0cb
 extent:
   geoExtent:
     eastBoundLongitude: '2.405549906179961'
@@ -6133,6 +6488,11 @@ distributionInfo:
     name: Original image from David Rumsey, Stanford University
     description: "Scan de la Collection David Rumsey de la biblioth\xE8que de l'Universit\xE9\
       \ de Stanford"
+    onlineFunctionCode: download
+  - linkage: https://dataverse.harvard.edu/api/access/datafile/7002812
+    protocol: WWW:DOWNLOAD
+    name: Georeferencing point file
+    description: Georeferencing point file exported from QGIS
     onlineFunctionCode: download
   - linkage: https://dataverse.harvard.edu/api/access/datafile/7002675
     protocol: WWW:DOWNLOAD

@@ -2,10 +2,10 @@
 identifier: VerniquetFile
 identification:
   title: (VerniquetFile) Dossier Verniquet
-abstract: 'Research and resource file dedicated to the Atlas of the general plan of
-  the city of Paris under the direction of Edme Verniquet. '
+abstract: "Dossier d\xE9di\xE9 \xE0 l\u2019Atlas du plan g\xE9n\xE9ral de la ville\
+  \ de Paris sous la direction d\u2019Edm\xE9 Verniquet"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -53,7 +53,7 @@ abstract: "Plan de la ville de Paris, avec sa nouvelle enceinte, lev\xE9 g\xE9om
   \ l'Auteur, rue de l'Auratoire, N\xB0. 146, maison d'Angevilliers / au Louvre],\
   \ n.d. [1793-1799], 72 pl. [66 x 44 et 44 x 44 cm] gr. in-fol. Plano."
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -101,7 +101,7 @@ abstract: "Atlas du plan g\xE9n\xE9ral de la ville de Paris. Lev\xE9 g\xE9ometri
   \ Mathieu. L'an IV. Grav\xE9 sur cuivre \xE0 partir du plan g\xE9n\xE9ral de la\
   \ Ville de Paris"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -134,6 +134,9 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 spatialResolution: '1728'
+associatedResource:
+- value: VerniquetFile
+  typeOfAssociation: largerWorkCitation
 resourceLineage:
 - VerniquetPlanGeneral
 ...
@@ -143,7 +146,7 @@ identification:
   title: (AtlasVerniquet_titre) Page de titre
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, Page de titre"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -186,7 +189,7 @@ identification:
   title: (AtlasVerniquet_assemblage) Carte d'assemblage
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, Carte d'assemblage"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -230,7 +233,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 01"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -274,7 +277,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 02"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -318,7 +321,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 03"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -362,7 +365,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 04"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -406,7 +409,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 05"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -450,7 +453,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 06"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -494,7 +497,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 07"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -538,7 +541,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 08"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -582,7 +585,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 09"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -626,7 +629,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 10"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -670,7 +673,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 11"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -714,7 +717,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 12"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -758,7 +761,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 13"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -802,7 +805,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 14"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -846,7 +849,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 15"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -890,7 +893,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 16"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -934,7 +937,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 17"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -978,7 +981,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 18"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1022,7 +1025,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 19"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1066,7 +1069,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 20"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1110,7 +1113,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 21"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1154,7 +1157,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 22"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1198,7 +1201,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 23"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1242,7 +1245,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 24"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1286,7 +1289,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 25"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1330,7 +1333,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 26"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1374,7 +1377,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 27"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1418,7 +1421,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 28"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1462,7 +1465,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 29"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1506,7 +1509,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 30"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1550,7 +1553,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 31"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1594,7 +1597,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 32"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1638,7 +1641,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 33"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1682,7 +1685,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 34"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1726,7 +1729,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 35"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1770,7 +1773,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 36"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1814,7 +1817,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 37"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1858,7 +1861,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 38"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1902,7 +1905,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 39"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1946,7 +1949,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 40"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -1990,7 +1993,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 41"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2034,7 +2037,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 42"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2078,7 +2081,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 43"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2122,7 +2125,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 44"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2166,7 +2169,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 45"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2210,7 +2213,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 46"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2254,7 +2257,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 47"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2298,7 +2301,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 48"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2342,7 +2345,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 49"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2386,7 +2389,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 50"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2430,7 +2433,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 51"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2474,7 +2477,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 52"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2518,7 +2521,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 53"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2562,7 +2565,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 54"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2606,7 +2609,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 55"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2650,7 +2653,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 56"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2694,7 +2697,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 57"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2738,7 +2741,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 58"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2782,7 +2785,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 59"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2826,7 +2829,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 60"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2870,7 +2873,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 61"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2914,7 +2917,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 62"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -2958,7 +2961,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 63"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3002,7 +3005,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 64"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3046,7 +3049,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 65"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3090,7 +3093,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 66"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3134,7 +3137,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 67"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3178,7 +3181,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 68"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3222,7 +3225,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 69"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3266,7 +3269,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 70"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3310,7 +3313,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 71"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3354,7 +3357,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris, feuille N.[um\xE9ro]\
   \ 72"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3402,7 +3405,7 @@ abstract: "Atlas du plan g\xE9n\xE9ral de la ville de Paris. Lev\xE9 g\xE9ometri
   \ trigonom\xE9triques. Dessin\xE9 et grav\xE9 par les C[itoy]ens Batholom\xE9 et\
   \ Mathieu. L'an IV."
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3418,7 +3421,7 @@ keywords:
   typeOfKeyword: place
 - value: Verniquet
   typeOfKeyword: theme
-- value: RecordSet
+- value: Instantiation
   typeOfKeyword: taxon
 - value: BnF
   typeOfKeyword: service
@@ -3482,6 +3485,9 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 spatialResolution: '1728'
+associatedResource:
+- value: VerniquetFile
+  typeOfAssociation: largerWorkCitation
 resourceLineage:
 - AtlasVerniquet
 ...
@@ -3492,7 +3498,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], Page de titre"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3553,7 +3559,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], Carte d'assemblage"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3614,7 +3620,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 01"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3737,7 +3743,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 02"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3860,7 +3866,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 03"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -3983,7 +3989,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 04"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4106,7 +4112,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 05"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4229,7 +4235,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 06"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4352,7 +4358,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 07"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4475,7 +4481,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 08"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4598,7 +4604,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 09"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4721,7 +4727,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 10"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4844,7 +4850,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 11"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -4967,7 +4973,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 12"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5090,7 +5096,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 13"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5213,7 +5219,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 14"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5336,7 +5342,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 15"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5459,7 +5465,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 16"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5582,7 +5588,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 17"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5705,7 +5711,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 18"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5828,7 +5834,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 19"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -5951,7 +5957,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 20"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6074,7 +6080,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 21"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6197,7 +6203,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 22"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6320,7 +6326,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 23"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6443,7 +6449,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 24"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6566,7 +6572,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 25"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6689,7 +6695,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 26"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6812,7 +6818,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 27"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -6935,7 +6941,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 28"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7058,7 +7064,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 29"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7181,7 +7187,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 30"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7304,7 +7310,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 31"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7427,7 +7433,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 32"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7550,7 +7556,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 33"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7673,7 +7679,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 34"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7796,7 +7802,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 35"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -7919,7 +7925,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 36"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8042,7 +8048,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 37"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8165,7 +8171,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 38"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8288,7 +8294,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 39"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8411,7 +8417,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 40"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8534,7 +8540,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 41"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8657,7 +8663,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 42"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8780,7 +8786,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 43"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -8903,7 +8909,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 44"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9026,7 +9032,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 45"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9149,7 +9155,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 46"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9272,7 +9278,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 47"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9395,7 +9401,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 48"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9518,7 +9524,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 49"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9641,7 +9647,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 50"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9764,7 +9770,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 51"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -9887,7 +9893,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 52"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10010,7 +10016,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 53"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10133,7 +10139,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 54"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10256,7 +10262,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 55"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10379,7 +10385,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 56"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10502,7 +10508,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 57"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10625,7 +10631,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 58"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10748,7 +10754,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 59"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10871,7 +10877,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 60"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -10994,7 +11000,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 61"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11117,7 +11123,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 62"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11240,7 +11246,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 63"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11363,7 +11369,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 64"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11486,7 +11492,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 65"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11609,7 +11615,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 66"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11732,7 +11738,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 67"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11855,7 +11861,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 68"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -11978,7 +11984,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 69"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12101,7 +12107,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 70"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12224,7 +12230,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 71"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12347,7 +12353,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire BnF, GE DD-2998\
   \ & IFN-53243704], feuille N.[um\xE9ro] 72"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12473,7 +12479,7 @@ abstract: "Atlas du plan g\xE9n\xE9ral de la ville de Paris. Lev\xE9 g\xE9ometri
   \ trigonom\xE9triques. Dessin\xE9 et grav\xE9 par les C[itoy]ens Batholom\xE9 et\
   \ Mathieu. L'an IV."
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12489,7 +12495,7 @@ keywords:
   typeOfKeyword: place
 - value: Verniquet
   typeOfKeyword: theme
-- value: RecordSet
+- value: Instantiation
   typeOfKeyword: taxon
 - value: David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries
   typeOfKeyword: service
@@ -12543,6 +12549,9 @@ stakeholders:
     mail: contact@geohistoricaldata.org
     logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
 spatialResolution: '1728'
+associatedResource:
+- value: VerniquetFile
+  typeOfAssociation: largerWorkCitation
 resourceLineage:
 - AtlasVerniquet
 ...
@@ -12554,7 +12563,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
   \ V4 1795 F], Page de titre"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12625,7 +12634,7 @@ identification:
 abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
   \ V4 1795 F], Assemblage des feuilles 1-72."
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12691,10 +12700,10 @@ identifier: AtlasVerniquetStanford_01
 identification:
   title: "(AtlasVerniquetStanford_01) Feuille N.[um\xE9ro] 01 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 01"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 01"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12824,10 +12833,10 @@ identifier: AtlasVerniquetStanford_02
 identification:
   title: "(AtlasVerniquetStanford_02) Feuille N.[um\xE9ro] 02 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 02"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 02"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -12957,10 +12966,10 @@ identifier: AtlasVerniquetStanford_03
 identification:
   title: "(AtlasVerniquetStanford_03) Feuille N.[um\xE9ro] 03 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 03"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 03"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -13090,10 +13099,10 @@ identifier: AtlasVerniquetStanford_04
 identification:
   title: "(AtlasVerniquetStanford_04) Feuille N.[um\xE9ro] 04 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 04"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 04"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -13223,10 +13232,10 @@ identifier: AtlasVerniquetStanford_05
 identification:
   title: "(AtlasVerniquetStanford_05) Feuille N.[um\xE9ro] 05 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 05"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 05"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -13356,10 +13365,10 @@ identifier: AtlasVerniquetStanford_06
 identification:
   title: "(AtlasVerniquetStanford_06) Feuille N.[um\xE9ro] 06 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 06"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 06"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -13489,10 +13498,10 @@ identifier: AtlasVerniquetStanford_07
 identification:
   title: "(AtlasVerniquetStanford_07) Feuille N.[um\xE9ro] 07 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 07"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 07"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -13622,10 +13631,10 @@ identifier: AtlasVerniquetStanford_08
 identification:
   title: "(AtlasVerniquetStanford_08) Feuille N.[um\xE9ro] 08 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 08"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 08"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -13755,10 +13764,10 @@ identifier: AtlasVerniquetStanford_09
 identification:
   title: "(AtlasVerniquetStanford_09) Feuille N.[um\xE9ro] 09 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 09"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 09"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -13888,10 +13897,10 @@ identifier: AtlasVerniquetStanford_10
 identification:
   title: "(AtlasVerniquetStanford_10) Feuille N.[um\xE9ro] 10 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 10"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 10"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14021,10 +14030,10 @@ identifier: AtlasVerniquetStanford_11
 identification:
   title: "(AtlasVerniquetStanford_11) Feuille N.[um\xE9ro] 11 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 11"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 11"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14154,10 +14163,10 @@ identifier: AtlasVerniquetStanford_12
 identification:
   title: "(AtlasVerniquetStanford_12) Feuille N.[um\xE9ro] 12 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 12"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 12"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14287,10 +14296,10 @@ identifier: AtlasVerniquetStanford_13
 identification:
   title: "(AtlasVerniquetStanford_13) Feuille N.[um\xE9ro] 13 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 13"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 13"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14420,10 +14429,10 @@ identifier: AtlasVerniquetStanford_14
 identification:
   title: "(AtlasVerniquetStanford_14) Feuille N.[um\xE9ro] 14 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 14"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 14"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14553,10 +14562,10 @@ identifier: AtlasVerniquetStanford_15
 identification:
   title: "(AtlasVerniquetStanford_15) Feuille N.[um\xE9ro] 15 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 15"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 15"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14686,10 +14695,10 @@ identifier: AtlasVerniquetStanford_16
 identification:
   title: "(AtlasVerniquetStanford_16) Feuille N.[um\xE9ro] 16 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 16"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 16"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14819,10 +14828,10 @@ identifier: AtlasVerniquetStanford_17
 identification:
   title: "(AtlasVerniquetStanford_17) Feuille N.[um\xE9ro] 17 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 17"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 17"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -14952,10 +14961,10 @@ identifier: AtlasVerniquetStanford_18
 identification:
   title: "(AtlasVerniquetStanford_18) Feuille N.[um\xE9ro] 18 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 18"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 18"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -15085,10 +15094,10 @@ identifier: AtlasVerniquetStanford_19
 identification:
   title: "(AtlasVerniquetStanford_19) Feuille N.[um\xE9ro] 19 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 19"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 19"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -15218,10 +15227,10 @@ identifier: AtlasVerniquetStanford_20
 identification:
   title: "(AtlasVerniquetStanford_20) Feuille N.[um\xE9ro] 20 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 20"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 20"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -15351,10 +15360,10 @@ identifier: AtlasVerniquetStanford_21
 identification:
   title: "(AtlasVerniquetStanford_21) Feuille N.[um\xE9ro] 21 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 21"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 21"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -15484,10 +15493,10 @@ identifier: AtlasVerniquetStanford_22
 identification:
   title: "(AtlasVerniquetStanford_22) Feuille N.[um\xE9ro] 22 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 22"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 22"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -15617,10 +15626,10 @@ identifier: AtlasVerniquetStanford_23
 identification:
   title: "(AtlasVerniquetStanford_23) Feuille N.[um\xE9ro] 23 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 23"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 23"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -15750,10 +15759,10 @@ identifier: AtlasVerniquetStanford_24
 identification:
   title: "(AtlasVerniquetStanford_24) Feuille N.[um\xE9ro] 24 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 24"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 24"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -15883,10 +15892,10 @@ identifier: AtlasVerniquetStanford_25
 identification:
   title: "(AtlasVerniquetStanford_25) Feuille N.[um\xE9ro] 25 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 25"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 25"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16016,10 +16025,10 @@ identifier: AtlasVerniquetStanford_26
 identification:
   title: "(AtlasVerniquetStanford_26) Feuille N.[um\xE9ro] 26 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 26"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 26"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16149,10 +16158,10 @@ identifier: AtlasVerniquetStanford_27
 identification:
   title: "(AtlasVerniquetStanford_27) Feuille N.[um\xE9ro] 27 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 27"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 27"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16282,10 +16291,10 @@ identifier: AtlasVerniquetStanford_28
 identification:
   title: "(AtlasVerniquetStanford_28) Feuille N.[um\xE9ro] 28 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 28"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 28"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16415,10 +16424,10 @@ identifier: AtlasVerniquetStanford_29
 identification:
   title: "(AtlasVerniquetStanford_29) Feuille N.[um\xE9ro] 29 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 29"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 29"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16548,10 +16557,10 @@ identifier: AtlasVerniquetStanford_30
 identification:
   title: "(AtlasVerniquetStanford_30) Feuille N.[um\xE9ro] 30 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 30"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 30"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16681,10 +16690,10 @@ identifier: AtlasVerniquetStanford_31
 identification:
   title: "(AtlasVerniquetStanford_31) Feuille N.[um\xE9ro] 31 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 31"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 31"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16814,10 +16823,10 @@ identifier: AtlasVerniquetStanford_32
 identification:
   title: "(AtlasVerniquetStanford_32) Feuille N.[um\xE9ro] 32 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 32"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 32"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -16947,10 +16956,10 @@ identifier: AtlasVerniquetStanford_33
 identification:
   title: "(AtlasVerniquetStanford_33) Feuille N.[um\xE9ro] 33 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 33"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 33"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -17080,10 +17089,10 @@ identifier: AtlasVerniquetStanford_34
 identification:
   title: "(AtlasVerniquetStanford_34) Feuille N.[um\xE9ro] 34 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 34"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 34"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -17213,10 +17222,10 @@ identifier: AtlasVerniquetStanford_35
 identification:
   title: "(AtlasVerniquetStanford_35) Feuille N.[um\xE9ro] 35 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 35"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 35"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -17346,10 +17355,10 @@ identifier: AtlasVerniquetStanford_36
 identification:
   title: "(AtlasVerniquetStanford_36) Feuille N.[um\xE9ro] 36 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 36"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 36"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -17479,10 +17488,10 @@ identifier: AtlasVerniquetStanford_37
 identification:
   title: "(AtlasVerniquetStanford_37) Feuille N.[um\xE9ro] 37 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 37"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 37"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -17612,10 +17621,10 @@ identifier: AtlasVerniquetStanford_38
 identification:
   title: "(AtlasVerniquetStanford_38) Feuille N.[um\xE9ro] 38 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 38"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 38"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -17745,10 +17754,10 @@ identifier: AtlasVerniquetStanford_39
 identification:
   title: "(AtlasVerniquetStanford_39) Feuille N.[um\xE9ro] 39 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 39"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 39"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -17878,10 +17887,10 @@ identifier: AtlasVerniquetStanford_40
 identification:
   title: "(AtlasVerniquetStanford_40) Feuille N.[um\xE9ro] 40 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 40"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 40"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18011,10 +18020,10 @@ identifier: AtlasVerniquetStanford_41
 identification:
   title: "(AtlasVerniquetStanford_41) Feuille N.[um\xE9ro] 41 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 41"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 41"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18144,10 +18153,10 @@ identifier: AtlasVerniquetStanford_42
 identification:
   title: "(AtlasVerniquetStanford_42) Feuille N.[um\xE9ro] 42 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 42"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 42"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18277,10 +18286,10 @@ identifier: AtlasVerniquetStanford_43
 identification:
   title: "(AtlasVerniquetStanford_43) Feuille N.[um\xE9ro] 43 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 43"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 43"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18410,10 +18419,10 @@ identifier: AtlasVerniquetStanford_44
 identification:
   title: "(AtlasVerniquetStanford_44) Feuille N.[um\xE9ro] 44 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 44"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 44"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18543,10 +18552,10 @@ identifier: AtlasVerniquetStanford_45
 identification:
   title: "(AtlasVerniquetStanford_45) Feuille N.[um\xE9ro] 45 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 45"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 45"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18676,10 +18685,10 @@ identifier: AtlasVerniquetStanford_46
 identification:
   title: "(AtlasVerniquetStanford_46) Feuille N.[um\xE9ro] 46 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 46"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 46"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18809,10 +18818,10 @@ identifier: AtlasVerniquetStanford_47
 identification:
   title: "(AtlasVerniquetStanford_47) Feuille N.[um\xE9ro] 47 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 47"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 47"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -18942,10 +18951,10 @@ identifier: AtlasVerniquetStanford_48
 identification:
   title: "(AtlasVerniquetStanford_48) Feuille N.[um\xE9ro] 48 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 48"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 48"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -19075,10 +19084,10 @@ identifier: AtlasVerniquetStanford_49
 identification:
   title: "(AtlasVerniquetStanford_49) Feuille N.[um\xE9ro] 49 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 49"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 49"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -19208,10 +19217,10 @@ identifier: AtlasVerniquetStanford_50
 identification:
   title: "(AtlasVerniquetStanford_50) Feuille N.[um\xE9ro] 50 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 50"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 50"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -19341,10 +19350,10 @@ identifier: AtlasVerniquetStanford_51
 identification:
   title: "(AtlasVerniquetStanford_51) Feuille N.[um\xE9ro] 51 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 51"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 51"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -19474,10 +19483,10 @@ identifier: AtlasVerniquetStanford_52
 identification:
   title: "(AtlasVerniquetStanford_52) Feuille N.[um\xE9ro] 52 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 52"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 52"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -19607,10 +19616,10 @@ identifier: AtlasVerniquetStanford_53
 identification:
   title: "(AtlasVerniquetStanford_53) Feuille N.[um\xE9ro] 53 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 53"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 53"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -19740,10 +19749,10 @@ identifier: AtlasVerniquetStanford_54
 identification:
   title: "(AtlasVerniquetStanford_54) Feuille N.[um\xE9ro] 54 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 54"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 54"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -19873,10 +19882,10 @@ identifier: AtlasVerniquetStanford_55
 identification:
   title: "(AtlasVerniquetStanford_55) Feuille N.[um\xE9ro] 55 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 55"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 55"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20006,10 +20015,10 @@ identifier: AtlasVerniquetStanford_56
 identification:
   title: "(AtlasVerniquetStanford_56) Feuille N.[um\xE9ro] 56 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 56"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 56"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20139,10 +20148,10 @@ identifier: AtlasVerniquetStanford_57
 identification:
   title: "(AtlasVerniquetStanford_57) Feuille N.[um\xE9ro] 57 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 57"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 57"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20272,10 +20281,10 @@ identifier: AtlasVerniquetStanford_58
 identification:
   title: "(AtlasVerniquetStanford_58) Feuille N.[um\xE9ro] 58 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 58"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 58"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20405,10 +20414,10 @@ identifier: AtlasVerniquetStanford_59
 identification:
   title: "(AtlasVerniquetStanford_59) Feuille N.[um\xE9ro] 59 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 59"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 59"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20538,10 +20547,10 @@ identifier: AtlasVerniquetStanford_60
 identification:
   title: "(AtlasVerniquetStanford_60) Feuille N.[um\xE9ro] 60 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 60"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 60"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20671,10 +20680,10 @@ identifier: AtlasVerniquetStanford_61
 identification:
   title: "(AtlasVerniquetStanford_61) Feuille N.[um\xE9ro] 61 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 61"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 61"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20804,10 +20813,10 @@ identifier: AtlasVerniquetStanford_62
 identification:
   title: "(AtlasVerniquetStanford_62) Feuille N.[um\xE9ro] 62 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 62"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 62"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -20937,10 +20946,10 @@ identifier: AtlasVerniquetStanford_63
 identification:
   title: "(AtlasVerniquetStanford_63) Feuille N.[um\xE9ro] 63 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 63"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 63"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -21070,10 +21079,10 @@ identifier: AtlasVerniquetStanford_64
 identification:
   title: "(AtlasVerniquetStanford_64) Feuille N.[um\xE9ro] 64 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 64"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 64"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -21203,10 +21212,10 @@ identifier: AtlasVerniquetStanford_65
 identification:
   title: "(AtlasVerniquetStanford_65) Feuille N.[um\xE9ro] 65 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 65"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 65"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -21336,10 +21345,10 @@ identifier: AtlasVerniquetStanford_66
 identification:
   title: "(AtlasVerniquetStanford_66) Feuille N.[um\xE9ro] 66 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 66"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 66"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -21469,10 +21478,10 @@ identifier: AtlasVerniquetStanford_67
 identification:
   title: "(AtlasVerniquetStanford_67) Feuille N.[um\xE9ro] 67 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 67"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 67"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -21602,10 +21611,10 @@ identifier: AtlasVerniquetStanford_68
 identification:
   title: "(AtlasVerniquetStanford_68) Feuille N.[um\xE9ro] 68 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 68"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 68"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -21735,10 +21744,10 @@ identifier: AtlasVerniquetStanford_69
 identification:
   title: "(AtlasVerniquetStanford_69) Feuille N.[um\xE9ro] 69 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 69"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 69"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -21868,10 +21877,10 @@ identifier: AtlasVerniquetStanford_70
 identification:
   title: "(AtlasVerniquetStanford_70) Feuille N.[um\xE9ro] 70 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 70"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 70"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -22001,10 +22010,10 @@ identifier: AtlasVerniquetStanford_71
 identification:
   title: "(AtlasVerniquetStanford_71) Feuille N.[um\xE9ro] 71 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 71"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 71"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:
@@ -22134,10 +22143,10 @@ identifier: AtlasVerniquetStanford_72
 identification:
   title: "(AtlasVerniquetStanford_72) Feuille N.[um\xE9ro] 72 [exemplaire Stanford\
     \ G1844.P3 V4 1795 F]"
-abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [[exemplaire Stanford\
-  \ G1844.P3 V4 1795 F], feuille N.[um\xE9ro] 72"
+abstract: "Atlas du plan g\xE9n\xE9ral de la Ville de Paris [exemplaire Stanford G1844.P3\
+  \ V4 1795 F], feuille N.[um\xE9ro] 72"
 events:
-- value: '2023-11-17'
+- value: '2023-11-24'
   event: publication
 extent:
   geoExtent:

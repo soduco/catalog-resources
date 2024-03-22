@@ -1,0 +1,255 @@
+---
+identifier: directory_file
+identification:
+  title: "[TEST] Dossier Annuaires"
+abstract: Research and resource file dedicated to the directories of the city of Paris.
+events:
+- value: '2023-10-27'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1780-01-01'
+    endPosition: '1914-12-31'
+keywords:
+- value: Paris
+  typeOfKeyword: place
+- value: Directory
+  typeOfKeyword: theme
+- value: file
+  typeOfKeyword: taxon
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+...
+---
+identifier: Collection:AlmComm
+identification:
+  title: "[TEST] Almanach du commerce de Paris"
+abstract: "Collection d'annuaires comprenant 6 s\xE9ries et 69 annuaires r\xE9pertori\xE9\
+  s dans le cadre du projet SoDUCo."
+events:
+- value: '2023-10-27'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1797-01-01'
+    endPosition: '1856-12-31'
+keywords:
+- value: Paris
+  typeOfKeyword: place
+- value: Directory
+  typeOfKeyword: theme
+- value: RecordSet
+  typeOfKeyword: taxon
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+associatedResource:
+- value: directory_file
+  typeOfAssociation: largerWorkCitation
+...
+---
+identifier: Collection:AlmParisien
+identification:
+  title: "[TEST] Almanach Parisien, o\xF9 liste g\xE9n\xE9rale des habitans de Paris"
+abstract: "Collection d'annuaires comprenant 1 s\xE9ries et 2 annuaires r\xE9pertori\xE9\
+  s dans le cadre du projet SoDUCo."
+events:
+- value: '2023-10-27'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1827-01-01'
+    endPosition: '1828-12-31'
+keywords:
+- value: Paris
+  typeOfKeyword: place
+- value: Directory
+  typeOfKeyword: theme
+- value: RecordSet
+  typeOfKeyword: taxon
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+associatedResource:
+- value: directory_file
+  typeOfAssociation: largerWorkCitation
+...
+---
+identifier: Serie:AlmParisien
+identification:
+  title: "[TEST] Almanach Parisien, o\xF9 liste g\xE9n\xE9rale des habitans de Paris"
+abstract: "S\xE9rie d'annuaires comprenant 1 annuaires r\xE9pertori\xE9s dans le cadre\
+  \ du projet SoDUCo."
+events:
+- value: '2023-10-27'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1827-01-01'
+    endPosition: '1828-12-31'
+keywords:
+- value: Paris
+  typeOfKeyword: place
+- value: Directory
+  typeOfKeyword: theme
+- value: RecordSet
+  typeOfKeyword: taxon
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+associatedResource:
+- value: Collection:AlmParisien
+  typeOfAssociation: largerWorkCitation
+...
+---
+identifier: AlmParisien_1827
+identification:
+  title: "[TEST] Almanach Parisien, o\xF9 liste g\xE9n\xE9rale des habitans de Paris, class\xE9\
+    s par rues et num\xE9ros des maisons"
+abstract: "Almanach Parisien, o\xF9 liste g\xE9n\xE9rale des habitans de Paris, class\xE9\
+  s par rues et num\xE9ros des maisons. "
+events:
+- value: '2023-10-27'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1827-01-01'
+    endPosition: '1827-12-31'
+keywords:
+- value: Paris
+  typeOfKeyword: place
+- value: Directory
+  typeOfKeyword: theme
+- value: Record
+  typeOfKeyword: taxon
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+associatedResource:
+- value: Serie:AlmParisien
+  typeOfAssociation: largerWorkCitation
+...
+---
+identifier: AlmParisien_1827_ex1
+identification:
+  title: "[TEST] Almanach Parisien, o\xF9 liste g\xE9n\xE9rale des habitans de Paris, class\xE9\
+    s par rues et num\xE9ros des maisons. Exemplaire Inconnu."
+abstract: "Almanach Parisien, o\xF9 liste g\xE9n\xE9rale des habitans de Paris, class\xE9\
+  s par rues et num\xE9ros des maisons. "
+events:
+- value: '2023-10-27'
+  event: publication
+extent:
+  geoExtent:
+    westBoundLongitude: '2.2789487344052968'
+    eastBoundLongitude: '2.4080435114903960'
+    southBoundLatitude: '48.8244731921314568'
+    northBoundLatitude: '48.8904078536729116'
+  temporalExtent:
+    beginPosition: '1827-01-01'
+    endPosition: '1827-12-31'
+keywords:
+- value: Paris
+  typeOfKeyword: place
+- value: Directory
+  typeOfKeyword: theme
+- value: Instantiation
+  typeOfKeyword: taxon
+distributionInfo:
+  distributor: The SoDUCo Project
+  distributor_mail: contact@geohistoricaldata.org
+  distributor_logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+stakeholders:
+  organisations:
+  - role: publisher
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+  - role: custodian
+    name: The SoDUCo project
+    mail: contact@geohistoricaldata.org
+    logo: https://catalog.geohistoricaldata.org/geonetwork/images/harvesting/soduco.png
+resourceLineage:
+- AlmParisien_1827
+...

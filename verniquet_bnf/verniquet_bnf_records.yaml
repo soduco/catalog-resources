@@ -4,7 +4,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Page de titre [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -21,7 +21,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- eacac40d-f422-4e8f-b427-f3827942eb2a
+- 49bc23fc-57e2-5579-a6e5-c10d6c039866
 stakeholders:
   individuals:
   - role: originator
@@ -62,7 +62,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, Carte d'assemblage [exemplaire\
     \ BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -79,7 +79,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 15f1b26d-865f-4f28-b54f-66ae7a7b25cc
+- 686702ae-b316-54e6-afc6-d22463231812
 stakeholders:
   individuals:
   - role: originator
@@ -120,7 +120,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 1\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -137,7 +137,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- b0eb87fb-01e1-4c51-9f3b-72266c7ee9fe
+- bf9fe6a8-d443-517f-aab9-8645942df035
 stakeholders:
   individuals:
   - role: originator
@@ -209,7 +209,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 2\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -226,7 +226,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- fce0b6c5-b632-42f2-8463-a08adf977c26
+- 530f69e1-a566-51d7-9d91-eb616ae0008e
 stakeholders:
   individuals:
   - role: originator
@@ -298,7 +298,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 3\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -315,7 +315,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- bb00703b-085c-4f0d-99ff-3568dc92c6fe
+- c2bf7a54-14eb-5550-93da-d9328b1aee00
 stakeholders:
   individuals:
   - role: originator
@@ -387,7 +387,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 4\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -404,7 +404,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 60abe252-3fa2-40ab-99a8-c80fd777cc68
+- d65c6038-82f8-5ba0-b49e-3068f0374868
 stakeholders:
   individuals:
   - role: originator
@@ -476,7 +476,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 5\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -493,7 +493,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 5b3bba0e-ca9b-45d6-bcf5-0e8452faf80b
+- 77a87c71-9820-53d0-b133-5d319e9cdf76
 stakeholders:
   individuals:
   - role: originator
@@ -565,7 +565,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 6\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -582,7 +582,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- eed2330c-bfd3-4461-95ee-c40e04f15cc0
+- 1c12fe76-9101-5c2b-bc4f-ed7413197cd9
 stakeholders:
   individuals:
   - role: originator
@@ -654,7 +654,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 7\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -671,7 +671,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 13abf856-84da-45df-a128-e0e5f57fdabd
+- d8ca2052-b949-5309-beeb-9ae3d4214b57
 stakeholders:
   individuals:
   - role: originator
@@ -743,7 +743,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 8\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -760,7 +760,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 5a20ead0-19d6-4774-8cf5-62a0299946f0
+- 2d406e8d-047e-5596-b473-5e8e4449d9ec
 stakeholders:
   individuals:
   - role: originator
@@ -832,7 +832,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 9\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -849,7 +849,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- c3b38621-4cfa-4d93-b9a3-33588cd127a4
+- e9329328-a19f-5376-a02e-aaf588a819c0
 stakeholders:
   individuals:
   - role: originator
@@ -921,7 +921,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 10\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -938,7 +938,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- d54256d6-aa12-404e-a3fe-f34e96513709
+- 398ff1bc-822f-5311-90ba-64e32b0e9771
 stakeholders:
   individuals:
   - role: originator
@@ -1010,7 +1010,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 11\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1027,7 +1027,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 218d64f4-06b1-4893-b457-7ae3814c3c09
+- f6fcc478-195a-50c2-8f66-0fcf281b904c
 stakeholders:
   individuals:
   - role: originator
@@ -1099,7 +1099,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 12\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1116,7 +1116,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- f0f249fe-401a-4b7d-90f3-267da238d5b7
+- 2b0e105d-5a80-5598-b131-2ee0959a2a3e
 stakeholders:
   individuals:
   - role: originator
@@ -1188,7 +1188,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 13\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1205,7 +1205,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 606a6338-735f-407d-83f4-e0bd7e544a19
+- 8a42b955-5130-5df9-b597-495b93a0bc0e
 stakeholders:
   individuals:
   - role: originator
@@ -1277,7 +1277,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 14\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1294,7 +1294,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- fa92da37-2331-4fc5-8b7f-5ffc7a1b84e5
+- de45b76e-276d-5403-98e3-df704d1eeaf1
 stakeholders:
   individuals:
   - role: originator
@@ -1366,7 +1366,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 15\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1383,7 +1383,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 2c0fbba5-2bb6-4cb6-b045-601fb07ce430
+- 83d9886d-7699-596d-87a4-eb4cd6659b91
 stakeholders:
   individuals:
   - role: originator
@@ -1455,7 +1455,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 16\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1472,7 +1472,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 51a620f3-5c59-4844-a73e-d1f2ac5cf762
+- 4f650578-7a6e-57f5-b59a-3edc9b26e672
 stakeholders:
   individuals:
   - role: originator
@@ -1544,7 +1544,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 17\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1561,7 +1561,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ff933ed7-fc14-4304-a8a7-f3a8c62b3174
+- 6e6b7fd1-d19c-5d9e-8b4a-dff35283c23f
 stakeholders:
   individuals:
   - role: originator
@@ -1633,7 +1633,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 18\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1650,7 +1650,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 7026737a-9037-46c3-971a-eb194800d428
+- ee722d33-bc0c-5e37-a724-75140a9e295a
 stakeholders:
   individuals:
   - role: originator
@@ -1722,7 +1722,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 19\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1739,7 +1739,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 573bd0d4-5a04-41f5-bb82-691c2ed12393
+- bb714d3b-6888-5e82-9d52-284bde30ff96
 stakeholders:
   individuals:
   - role: originator
@@ -1811,7 +1811,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 20\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1828,7 +1828,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 629076b8-26ca-46f7-b5a4-ad8d09c96f86
+- 9081c670-f7e7-5881-be20-ddc6b1a1f553
 stakeholders:
   individuals:
   - role: originator
@@ -1900,7 +1900,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 21\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -1917,7 +1917,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3ab11060-0281-41ef-b985-987e20e2518e
+- a1b1fc37-9c2f-5764-8b36-69be520c85b4
 stakeholders:
   individuals:
   - role: originator
@@ -1989,7 +1989,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 22\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2006,7 +2006,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 7d0c0ff6-2093-4fd3-8ba7-86d9d76e894f
+- a57b80e5-e1cd-52bc-bac5-77fa6be82602
 stakeholders:
   individuals:
   - role: originator
@@ -2078,7 +2078,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 23\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2095,7 +2095,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3f207da7-2d9f-490d-86db-72326f14c5d5
+- c03f5d3e-9657-5714-bc4e-d8d91c6d75f7
 stakeholders:
   individuals:
   - role: originator
@@ -2167,7 +2167,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 24\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2184,7 +2184,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 83eef68c-d28e-4634-9953-817900410bd9
+- 85a08b6a-1bb3-5011-8fe2-0db31098afff
 stakeholders:
   individuals:
   - role: originator
@@ -2256,7 +2256,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 25\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2273,7 +2273,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- b876eac8-7640-47ae-addc-9439bb2521fb
+- 65464efa-fa26-5545-95ca-933618272df1
 stakeholders:
   individuals:
   - role: originator
@@ -2345,7 +2345,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 26\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2362,7 +2362,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 88b5c544-47fe-49c0-9842-a1e11b7b4068
+- 3733ea4d-c014-51e0-9aa1-3a109fe76262
 stakeholders:
   individuals:
   - role: originator
@@ -2434,7 +2434,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 27\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2451,7 +2451,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- c10093b9-844e-4505-9cf7-d630c4deeb16
+- b4bffe14-c1f1-57e8-82de-093a553b78ee
 stakeholders:
   individuals:
   - role: originator
@@ -2523,7 +2523,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 28\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2540,7 +2540,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 6d658310-8810-422d-a046-39ff734d5eff
+- a93b12c1-6dbc-5cd7-b2de-a130052dc9d0
 stakeholders:
   individuals:
   - role: originator
@@ -2612,7 +2612,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 29\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2629,7 +2629,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 61c5393b-22e4-4c51-80b2-21b8dfa9c363
+- 3c285c9b-9a3d-5bfa-b083-3cb2dcc53d79
 stakeholders:
   individuals:
   - role: originator
@@ -2701,7 +2701,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 30\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2718,7 +2718,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 0f4d44d9-1b54-46e5-92f2-bac3d6d11647
+- e12f4f33-af10-5ec8-9213-739afd8bcb88
 stakeholders:
   individuals:
   - role: originator
@@ -2790,7 +2790,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 31\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2807,7 +2807,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 940fd012-98b9-4780-a4a9-4a2674fb8b2f
+- 1d7f0f48-9c95-5d64-bf12-cf45ed0c419a
 stakeholders:
   individuals:
   - role: originator
@@ -2879,7 +2879,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 32\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2896,7 +2896,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 57f689a9-1e8c-42f8-81ac-e636e1a644ce
+- 3f7deaee-4f49-5d5a-a7a7-94ec26d8286f
 stakeholders:
   individuals:
   - role: originator
@@ -2968,7 +2968,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 33\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -2985,7 +2985,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8beb18fb-53a3-4e21-923a-33b4ef5cef75
+- bf685577-c287-527a-924c-4ae45e962a78
 stakeholders:
   individuals:
   - role: originator
@@ -3057,7 +3057,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 34\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3074,7 +3074,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- d0cb022d-48a4-46d8-b9c8-2a13265975cd
+- d7ee0b55-4508-5337-8979-84b8e64bf579
 stakeholders:
   individuals:
   - role: originator
@@ -3146,7 +3146,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 35\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3163,7 +3163,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- c37c7758-ec85-45a8-b039-a225d15102f0
+- f5dce2e0-ee41-549a-bf3b-c5830a024855
 stakeholders:
   individuals:
   - role: originator
@@ -3235,7 +3235,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 36\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3252,7 +3252,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- f02eb473-afb5-42aa-b321-8bebda95b327
+- 39ba1449-d9ce-59a1-914c-d264b51fd08b
 stakeholders:
   individuals:
   - role: originator
@@ -3324,7 +3324,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 37\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3341,7 +3341,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 08a992b9-1c7b-44da-83d3-e3205e71965c
+- 1ab91690-aade-525c-beaf-3d55a145dd87
 stakeholders:
   individuals:
   - role: originator
@@ -3413,7 +3413,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 38\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3430,7 +3430,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- d5f21c02-100b-441b-b3a7-bb6f868a2f5f
+- ebd072ff-a544-5bba-8c72-27565b3e2a40
 stakeholders:
   individuals:
   - role: originator
@@ -3502,7 +3502,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 39\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3519,7 +3519,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ae2ea782-b559-4dbb-af59-884b87b7a87d
+- 43d929e2-8f7f-5f7d-b85d-d8c06ac42e35
 stakeholders:
   individuals:
   - role: originator
@@ -3591,7 +3591,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 40\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3608,7 +3608,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 41fbfc28-29a8-404d-87e1-3a0f67aa54a4
+- fc8fab27-21f8-5a8a-8231-55ade1a1a288
 stakeholders:
   individuals:
   - role: originator
@@ -3680,7 +3680,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 41\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3697,7 +3697,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 96deae88-bbc7-46c7-b7e7-6380cf8995b5
+- ffaedb41-80fc-5b25-95fe-c8da5feea453
 stakeholders:
   individuals:
   - role: originator
@@ -3769,7 +3769,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 42\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3786,7 +3786,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- f5680f3b-1678-4cee-8bc9-15f8424946bf
+- e4b88014-47c6-5fe0-a195-13710e5f6e27
 stakeholders:
   individuals:
   - role: originator
@@ -3858,7 +3858,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 43\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3875,7 +3875,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 2f7b3702-2fa2-40c0-a5c5-27f4c8c00d8d
+- b3944d78-f000-5756-822a-afffcf86c90b
 stakeholders:
   individuals:
   - role: originator
@@ -3947,7 +3947,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 44\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -3964,7 +3964,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 108aadcb-d8a1-426b-927a-23f7ccff0588
+- 66287aa6-8250-52c2-a0d1-bcef95830c0e
 stakeholders:
   individuals:
   - role: originator
@@ -4036,7 +4036,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 45\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4053,7 +4053,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 6825619f-1337-4255-8a14-cd738a96eff0
+- fb71388f-6e08-556f-b886-d3b7ac6f2900
 stakeholders:
   individuals:
   - role: originator
@@ -4125,7 +4125,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 46\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4142,7 +4142,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3af9d2ba-2386-4710-9aaa-eca5b9f2079c
+- d181cbe2-9422-5692-b3a4-dd3a2086759d
 stakeholders:
   individuals:
   - role: originator
@@ -4214,7 +4214,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 47\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4231,7 +4231,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 1a2ccdc5-c9d1-4512-97c3-d693b7f96d60
+- 9db1b55a-d303-5d82-b285-277712f5b03c
 stakeholders:
   individuals:
   - role: originator
@@ -4303,7 +4303,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 48\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4320,7 +4320,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- eefaa113-c17f-4768-a3f8-10f420c11bd7
+- d5bc5e98-c27f-57d3-9e6b-f22dc0e6c0fc
 stakeholders:
   individuals:
   - role: originator
@@ -4392,7 +4392,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 49\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4409,7 +4409,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- b28d577c-8d76-433e-9632-25c80888c5fc
+- 473071ef-7c2c-5345-a741-4ab53e2d4742
 stakeholders:
   individuals:
   - role: originator
@@ -4481,7 +4481,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 50\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4498,7 +4498,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 803f3909-b63e-4728-80da-33ca13294257
+- 5d2a2de1-8411-56ea-b4d7-c64ffe744a89
 stakeholders:
   individuals:
   - role: originator
@@ -4570,7 +4570,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 51\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4587,7 +4587,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 42413d87-e8f3-4d21-9324-53fd62a2181e
+- 5cc6a7d3-ae60-5a84-8f30-2605734fd0e8
 stakeholders:
   individuals:
   - role: originator
@@ -4659,7 +4659,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 52\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4676,7 +4676,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 3545bb10-428c-42f4-97cc-cdc37815ad4f
+- de3f276c-9160-5100-a465-ca0615702df0
 stakeholders:
   individuals:
   - role: originator
@@ -4748,7 +4748,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 53\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4765,7 +4765,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 35a01e4d-8d08-4fa5-a4ac-bbf00a252ed7
+- b90cab7e-cd36-5168-866e-c2a870ab6070
 stakeholders:
   individuals:
   - role: originator
@@ -4837,7 +4837,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 54\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4854,7 +4854,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 24c02699-5334-4320-92fa-5f4d63d99eb6
+- 77b59c6c-23a7-5d71-9dde-75e40f05cadb
 stakeholders:
   individuals:
   - role: originator
@@ -4926,7 +4926,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 55\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -4943,7 +4943,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- c1fd9c80-b60f-44c4-a17b-8b7178f128f3
+- 33dd4a71-0154-5d9e-9fd9-586dac57e312
 stakeholders:
   individuals:
   - role: originator
@@ -5015,7 +5015,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 56\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5032,7 +5032,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 7a37409f-c425-41ce-8a75-e518bef9330f
+- d8271641-7202-55f5-b253-c17aaca09bda
 stakeholders:
   individuals:
   - role: originator
@@ -5104,7 +5104,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 57\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5121,7 +5121,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 275d15b6-2108-4350-aa8c-7141839e394c
+- 1b69eb78-b014-5c90-8ecf-f54ca2ef6077
 stakeholders:
   individuals:
   - role: originator
@@ -5193,7 +5193,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 58\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5210,7 +5210,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ea70f8df-12a5-463d-98b0-d8b427f6ac74
+- e04d604f-d520-5230-9472-b448d01c10b5
 stakeholders:
   individuals:
   - role: originator
@@ -5282,7 +5282,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 59\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5299,7 +5299,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 2f7a1b9a-828d-4cbf-8345-46098bae5c64
+- 55416416-08e7-5470-8c62-bedb446200f2
 stakeholders:
   individuals:
   - role: originator
@@ -5371,7 +5371,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 60\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5388,7 +5388,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 269fce1f-8321-4ae0-bbed-d806824abb1c
+- 5cde3589-19ef-560c-ac2d-35bd66a1b822
 stakeholders:
   individuals:
   - role: originator
@@ -5460,7 +5460,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 61\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5477,7 +5477,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 8f0e0645-a6d8-4fac-b270-eb2dcfe86004
+- c45525d5-caa6-5582-8879-46042226d474
 stakeholders:
   individuals:
   - role: originator
@@ -5549,7 +5549,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 62\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5566,7 +5566,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- e7a20317-a766-4fd2-9552-3e9f53765095
+- 25845848-562b-513f-bef1-2e5957635393
 stakeholders:
   individuals:
   - role: originator
@@ -5638,7 +5638,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 63\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5655,7 +5655,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- fcb15d83-d4f2-4b52-a17f-d01b6674d4f4
+- 4a5759af-340d-53bc-9a68-253d2cdcda53
 stakeholders:
   individuals:
   - role: originator
@@ -5727,7 +5727,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 64\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5744,7 +5744,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 15a6e69d-4792-4dcb-81c5-1d2e7d742197
+- ac8d0198-1020-5949-8774-62b96bbba080
 stakeholders:
   individuals:
   - role: originator
@@ -5816,7 +5816,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 65\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5833,7 +5833,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 943a8b37-8022-4fd9-a73d-9a4fc8ab2e64
+- ca8b7200-70dd-51c9-90c2-69ff6ee038bc
 stakeholders:
   individuals:
   - role: originator
@@ -5905,7 +5905,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 66\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -5922,7 +5922,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- ea6d1b96-461b-4266-9410-666d9bcd36b5
+- b9722e5d-f3dc-5095-bb47-f481e8076df4
 stakeholders:
   individuals:
   - role: originator
@@ -5994,7 +5994,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 67\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6011,7 +6011,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 7e54ae33-b140-458b-8b00-338f70b2709e
+- dd6dc53a-96b9-5e4b-833b-8f5df2fe79cb
 stakeholders:
   individuals:
   - role: originator
@@ -6083,7 +6083,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 68\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6100,7 +6100,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- c3cc35d5-c218-408d-b281-95960ccf5a8b
+- 91251cdf-2da5-56ab-a65c-10edb6663e6a
 stakeholders:
   individuals:
   - role: originator
@@ -6172,7 +6172,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 69\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6189,7 +6189,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 354dba28-48a3-488f-bc7e-3be6f5fd305e
+- 35f8504f-0f5b-5fd5-a204-7c8f19ec6f39
 stakeholders:
   individuals:
   - role: originator
@@ -6261,7 +6261,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 70\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6278,7 +6278,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- f4059982-0ff5-4146-b91c-b28fe6fc84e6
+- 3c688811-ac54-52c2-a158-fbb0d2b5e169
 stakeholders:
   individuals:
   - role: originator
@@ -6350,7 +6350,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 71\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6367,7 +6367,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- b114fc59-c809-41ab-a82a-640864c57884
+- 0e521dbf-5488-567f-8467-0d0d238d893b
 stakeholders:
   individuals:
   - role: originator
@@ -6439,7 +6439,7 @@ identification:
   title: "Atlas du plan g\xE9n\xE9ral de la ville de Paris, feuille N.[um\xE9ro] 72\
     \ [exemplaire BnF, GE DD-2998 & IFN-53243704]"
 events:
-- value: '2023-10-17'
+- value: '2023-11-17'
   event: publication
 keywords:
 - value: Instantiation
@@ -6456,7 +6456,7 @@ associatedResource:
 - value: 697871b7-f663-4e0e-8785-c48ecfe05515
   typeOfAssociation: largerWorkCitation
 resourceLineage:
-- 1d9a6ee9-c676-4754-9797-a2ea4a01daef
+- 71225538-c9e3-5ab0-8f6a-24127bcfa0cb
 stakeholders:
   individuals:
   - role: originator
